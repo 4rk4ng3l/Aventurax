@@ -1,0 +1,344 @@
+{
+    "version": "0.4",
+    "title": "Destination Grid-1",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "62a62d07",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": 0,
+                    "bottom": "50",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "672ac096",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "33aefac0",
+                            "settings": {
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "49f36045",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "content_position": "bottom",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1e3ab57b",
+                                            "settings": {
+                                                "title": "Your Next Destinations",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=primary"
+                                                },
+                                                "align_tablet": "center",
+                                                "_animation": "fadeInLeft"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4e48fba4",
+                                            "settings": {
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align_tablet": "center",
+                                                "_animation": "fadeInLeft"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4327c2ab",
+                                            "settings": {
+                                                "text": "See all destination",
+                                                "align": "left",
+                                                "align_tablet": "center",
+                                                "_animation": "fadeInLeft",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3c18cbf5",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/niagara.jpg",
+                                                    "id": 204
+                                                },
+                                                "title": "America",
+                                                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 295,
+                                                    "sizes": []
+                                                },
+                                                "button_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_z_index": 0,
+                                                "title_tag": "h4",
+                                                "__globals__": {
+                                                    "overlay_color": "globals\/colors?id=2fdfd79"
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 300
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "636fe2c8",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "35bb87e1",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "title": "Maldives",
+                                                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 600,
+                                                    "sizes": []
+                                                },
+                                                "button_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_z_index": 0,
+                                                "bg_image": {
+                                                    "url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Maldives.jpg",
+                                                    "id": 203
+                                                },
+                                                "title_tag": "h4",
+                                                "__globals__": {
+                                                    "overlay_color": "globals\/colors?id=2fdfd79"
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 600
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5d9ab652",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 10,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_tablet": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "58be61ac",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/template.coomb.co\/vacay\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-10.jpg",
+                                                    "id": 50
+                                                },
+                                                "title": "Asia",
+                                                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 295,
+                                                    "sizes": []
+                                                },
+                                                "button_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_z_index": 0,
+                                                "title_tag": "h4",
+                                                "__globals__": {
+                                                    "overlay_color": "globals\/colors?id=2fdfd79"
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 900
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "27851790",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "https:\/\/template.coomb.co\/vacay\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-13.jpg",
+                                                    "id": 49
+                                                },
+                                                "title": "Europe",
+                                                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                                "button": "",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": 295,
+                                                    "sizes": []
+                                                },
+                                                "button_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_z_index": 0,
+                                                "title_tag": "h4",
+                                                "__globals__": {
+                                                    "overlay_color": "globals\/colors?id=2fdfd79"
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 1200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

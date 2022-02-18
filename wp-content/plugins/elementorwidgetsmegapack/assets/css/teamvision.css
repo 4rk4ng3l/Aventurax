@@ -1,0 +1,3303 @@
+/*
+Css Style for MultiPurpose addons for Visual Composer
+*/
+.teamvision,
+.teamvision h1,
+.teamvision h2,
+.teamvision h3,
+.teamvision h4,
+.teamvision h5 {
+	line-height:1.3;
+}
+.teamvision-inline-block {
+	display:inline-block;
+}
+.teamvision-block {
+	display:block;
+}
+.teamvision-align-left,
+.vc-row-h-align-left,
+.vc-column-h-align-left {
+	text-align:left;
+}
+.teamvision-align-right,
+.vc-row-h-align-right,
+.vc-column-h-align-right {
+	text-align:right;
+}
+.teamvision-align-center,
+.vc-row-h-align-center,
+.vc-column-h-align-center {
+	text-align:center;
+}
+
+/*
+ * Date
+ */
+ .teamvision-date i {
+	margin-right:8px; 
+ }
+
+/*
+ * Icon with text
+ */
+ .teamvision-icon-with-text i {
+	margin-right:8px; 
+ }
+
+/*
+ * Social
+ */
+ .teamvision-social span {
+    padding-right: inherit;
+ }
+ .teamvision-social span a {
+    color: inherit;
+    font-size: inherit;
+ }
+
+/*
+ * Separator
+ */
+.teamvision-separator.teamvision-separator-hline:before {
+    content: "\2212";
+}	
+.teamvision-separator.teamvision-separator-vline:before {
+    content: "\0399";
+}	
+.teamvision-separator.teamvision-separator-point:before {
+    content: "\2022";
+}	
+/*
+ * Title Box Style 1
+ */
+ 
+.teamvision-title-box-style1 {
+	display:block;
+}	
+.teamvision-title-box-style1 .teamvision-subtitle,
+.teamvision-title-box-style1 .teamvision-title {
+	display: block;
+	text-align: right;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #009688;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.teamvision-title-box-style1 .teamvision-title {
+	word-spacing: 999px;
+    font-size: 45px;
+    font-weight: 900;
+    line-height: 0.8;
+    letter-spacing: 2px;
+    color: #000000;
+}
+}
+.teamvision-title-box-style1 .teamvision-subtitle {
+	font-size:16px;
+	margin-bottom:20px;
+	color:#009688;
+}
+.teamvision-title-box-style1 .teamvision-subtitle:after {
+    content: "■";
+    display: inline-block;
+    margin-left: 5px;
+    color: #009688;
+	font-size:1.7em;
+	line-height:16px;
+	letter-spacing:0;
+}
+.teamvision-title-box-style1 .teamvision-text {
+	font-size: 14px;
+	line-height: 2.4;
+	text-align: justify;
+	display: block;
+	margin-left: 25px;
+	letter-spacing: 1px;
+	color: #707070;
+	font-weight: 300;
+	margin-top: -6px;
+}
+.teamvision-title-box-style1 .teamvision-subtitle.teamvision-rtl,
+.teamvision-title-box-style1 .teamvision-title.teamvision-rtl {
+	text-align:left;
+}
+.teamvision-title-box-style1 .teamvision-subtitle.teamvision-rtl:before {
+    content: "■";
+    display: inline-block;
+    margin-right: 5px;
+    color: #009688;
+	font-size:1.7em;
+	line-height:16px;
+	letter-spacing:0;
+}
+.teamvision-title-box-style1 .teamvision-subtitle.teamvision-rtl:after {
+	content: none;
+}
+
+/*
+ * Title Box Style 2
+ */
+ 
+.teamvision-title-box-style2 {
+	display:block;
+}	
+.teamvision-title-box-style2 .teamvision-subtitle,
+.teamvision-title-box-style2 .teamvision-title {
+	display:block;
+	text-align:right;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.teamvision-title-box-style2 .teamvision-title {
+	word-spacing: 999px; 
+	line-height:0.8;
+	font-size: 45px;
+	font-weight: 900;
+	letter-spacing: 2px;
+	color: #000000;
+}
+.teamvision-title-box-style2 .teamvision-subtitle {
+	font-size:16px;
+	margin-bottom:20px;
+	color:#009688;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.teamvision-title-box-style2 .teamvision-subtitle:after {
+    content: "■";
+    display: inline-block;
+    margin-left: 5px;
+    color: #009688;
+	font-size:1.7em;
+	line-height:16px;
+	letter-spacing:0;	
+}
+.teamvision-title-box-style2 .teamvision-text {
+	font-size:14px;
+	text-align:justify;
+	display:block;
+	margin-top:25px;
+	line-height: 2.4;
+	letter-spacing: 1px;
+	color: #707070;
+	font-weight: 300;
+}
+.teamvision-title-box-style2 .teamvision-subtitle.teamvision-rtl,
+.teamvision-title-box-style2 .teamvision-title.teamvision-rtl {
+	text-align:left;
+}
+.teamvision-title-box-style2 .teamvision-subtitle.teamvision-rtl:before {
+    content: "■";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    color: #009688;
+	font-size:1.7em;
+	line-height:16px;
+	letter-spacing:0;
+}
+.teamvision-title-box-style2 .teamvision-subtitle.teamvision-rtl:after {
+	content: none;
+}
+
+/*
+ * Title Box Style 3
+ */
+ 
+.teamvision-title-box-style3 {
+	display:block;
+}
+.teamvision-title-box-style3 .teamvision-title-box-container {
+    text-align: left;
+}
+.teamvision-title-box-style3 .teamvision-subtitle,
+.teamvision-title-box-style3 .teamvision-title {
+	display:inline-block;
+	text-align:right;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.teamvision-title-box-style3 .teamvision-title {
+	font-size:45px;
+	color:#000000;
+	line-height:0.8;
+	margin-left:20px;
+	font-weight: 900;
+	letter-spacing: 2px;
+	
+}
+.teamvision-title-box-style3 .teamvision-subtitle {
+	font-size:16px;
+	color:#009688;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.teamvision-title-box-style3 .teamvision-subtitle:after {
+    content: "■";
+    display: inline-block;
+    margin-left: 5px;
+    color: #009688;
+	font-size:1.7em;
+	line-height:16px;
+	letter-spacing:0;
+}
+.teamvision-title-box-style3 .teamvision-text {
+	font-size:14px;
+	display:block;
+	margin-top:25px;
+	text-align: left;
+	line-height: 2;
+	letter-spacing: 1px;
+	color: #707070;
+	font-weight: 300;
+}
+.teamvision-title-box-style3 .teamvision-subtitle.teamvision-rtl,
+.teamvision-title-box-style3 .teamvision-title.teamvision-rtl {
+	text-align:left;
+}
+.teamvision-title-box-style3 .teamvision-title.teamvision-rtl {
+	margin-right:20px;
+	margin-left:0;
+}
+.teamvision-title-box-style3 .teamvision-subtitle.teamvision-rtl:before {
+    content: "■";
+    display: inline-block;
+    margin-right: 5px;
+    color: #009688;
+	font-size:1.7em;
+	line-height:16px;
+	letter-spacing:0;
+}
+.teamvision-title-box-style3 .teamvision-subtitle.teamvision-rtl:after {
+	content: none;
+}
+
+/*
+ * Title Box Style 4
+ */
+ 
+.teamvision-title-box-style4 {
+	display:block;
+	text-align:center;
+}	
+.teamvision-title-box-style4 .teamvision-subtitle,
+.teamvision-title-box-style4 .teamvision-title {
+	display:block;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.teamvision-title-box-style4 .teamvision-title {
+	font-size: 45px;
+	color: #000000;
+	line-height: 0.8;
+	font-weight: 900;
+	letter-spacing: 2px;
+}
+.teamvision-title-box-style4 .teamvision-subtitle {
+	font-size:16px;
+	color:#000000;
+	letter-spacing: 2px;
+	font-weight: bold;
+	margin-bottom:10px;
+}
+.teamvision-title-box-style4 .teamvision-text {
+	font-size:14px;
+	line-height:2;
+	text-align:justify;
+	display:block;
+	margin-top:50px;
+}
+.teamvision-title-box-style4 .teamvision-separator {
+	border-style:solid;
+	border-top-width:2px;
+	border-bottom:0;
+	border-left:0;
+	border-right:0;
+	border-color:#009688;
+	margin-left:auto!important;
+	margin-right:auto!important;
+	width:4%;
+	display:block;
+	margin-bottom:20px
+}	
+
+/*
+ * Title Box Style 5
+ */
+ 
+.teamvision-title-box-style5 {
+	display:block;
+	text-align:center;
+}	
+.teamvision-title-box-style5 .teamvision-subtitle,
+.teamvision-title-box-style5 .teamvision-title {
+	display:block;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.teamvision-title-box-style5 .teamvision-title {
+	font-size: 45px;
+	color: #000000;
+	line-height: 0.8;
+	font-weight: 900;
+	letter-spacing: 2px;
+	margin-bottom:20px;
+}
+.teamvision-title-box-style5 .teamvision-subtitle {
+	font-size:16px;
+	color:#000000;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.teamvision-title-box-style5 .teamvision-text {
+	font-size:14px;
+	line-height:1.2;
+	text-align:justify;
+	display:block;
+	margin-top:50px;
+}
+.teamvision-title-box-style5 .teamvision-separator {
+	border-style:solid;
+	border-top-width:2px;
+	border-bottom:0;
+	border-left:0;
+	border-right:0;
+	border-color:#009688;
+	margin-left:auto!important;
+	margin-right:auto!important;
+	width:4%;
+	display:block;
+	margin-bottom:10px
+}
+
+/*
+ * Icon
+ */ 
+.teamvision-icon .teamvision-icon-line {
+    display: inline-block;
+    vertical-align: middle;
+}
+.teamvision-icon.teamvision-icon-line {
+	display: flex;
+    align-items: center;
+	justify-content: center;
+}
+
+/*
+ * Heading
+ */
+ .teamvision.teamvision-heading {
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+    letter-spacing: 1.3;
+    line-height: 1.3;
+}
+.teamvision-heading.teamvision-inline-block {
+    margin: 0 6px 0 0;
+}
+.teamvision-heading.teamvision-inline-block:last-child {
+    margin: 0px;
+}
+  
+
+/*
+ * Heading Line
+ */ 
+ .teamvision.teamvision-heading-line {
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+    letter-spacing: 1.3;
+    line-height: 1.3;
+}
+.teamvision-heading-line .teamvision-heading-line {
+    display: inline-block;
+    vertical-align: middle;
+}
+.teamvision-heading-line.teamvision-heading-line {
+	display: flex;
+    align-items: center;
+	/*justify-content: center;*/
+}
+
+
+/*
+ * Heading Line
+ */ 
+.teamvision-counter-container {
+	display:block;
+}
+.teamvision-counter-container .teamvision-counter {
+	display:inline-block;
+	line-height:1;
+}
+.teamvision-heading-line {
+    margin: 0 5px;
+}
+
+/*
+ * Pie Chart / Bar Chart
+ */
+.teamvision-chart-item-container.hidden {
+	display:none;
+}
+.teamvision-chart-container {
+	text-align:center;
+}
+.teamvision-chart {
+  position: relative;
+  display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  opacity:1;
+}
+.teamvision-chart canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.teamvision-percent {
+  display: inline-block;
+  z-index: 2;
+  font-size:30px;
+}
+.teamvision-percent:after {
+  content: '%';
+  margin-left: 0.1em;
+  font-size: .8em;
+}
+/* BAR CHARTS */
+.teamvision-bar-main-container {
+  margin: 10px auto;
+  height: 50px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 0.8em;
+  color: #FFF;
+}
+.teamvision-bar-chart-style1 .teamvision-bar-percentage {
+    background: none repeat scroll 0 0 #2E5C89;
+    border-radius: 5px 0 0 5px;
+    float: left;
+    font-size: 16px;
+    height: 30px;
+    padding: 8px 0;
+    width: 18%;
+	text-align:center;
+	line-height:1;
+}
+.teamvision-bar-chart-style1 .teamvision-bar {
+    border-radius: 0 5px 5px 0;
+    float: left;
+    height: 100%;
+    opacity: 1;
+}
+.teamvision-bar-chart-style1 .teamvision-bar-container {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.13);
+    border-radius: 0 5px 5px 0;
+    float: right;
+    height: 30px;
+    overflow: hidden;
+    width: 82%;
+}
+.teamvision-bar-chart-style2 .teamvision-bar-percentage {
+    float: left;
+    font-size: 20px;
+    width: 18%;
+	text-align:center;
+}
+.teamvision-bar-main-container.teamvision-bar-chart-style2 .teamvision-bar-chart-wrap {
+	display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.teamvision-bar-chart-style2 .teamvision-bar-container {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.13);
+    border-radius: 10px;
+    box-shadow: 0 0 2px #555555 inset;
+    float: right;
+    height: 10px;
+    overflow: hidden;
+    width: 82%;
+}
+.teamvision-bar-chart-style2 .teamvision-bar {
+    border-radius: 10px;
+    float: left;
+    height: 100%;
+    opacity: 1;
+}
+@media only screen and (max-width: 480px) {
+	.teamvision_pie_chart_responsive .teamvision-chart {
+		width:300px!important;
+		height:300px!important;
+	}
+	.teamvision_pie_chart_responsive .teamvision-percent {
+		line-height:300px!important;
+	}
+	.teamvision_pie_chart_responsive .teamvision-chart canvas {
+		max-width:100%;
+	}
+} 
+
+/*
+ * Button
+ */ 
+ 
+.teamvision-border-round a {
+	border-radius:20px;	
+}
+.teamvision-inline-block {
+	margin:10px;
+}
+.teamvision-button a {
+	margin-bottom:10px;
+}
+.teamvision-button i {
+	margin-right:10px;
+}
+.teamvision-button a {
+	text-decoration:none;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-ms-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+	display:inline-block;	
+}
+.teamvision-button a:hover {
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-ms-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	transition: all .3s ease-in;	
+}
+.teamvision-button.flat-button-mini a {
+	padding:0.4em 0.9em;
+	border-width:1px;
+}
+.teamvision-button.flat-button-small a {
+	padding:0.8em 1.2em;
+	border-width:1px;
+}
+.teamvision-button.flat-button-medium a {
+	padding:1.2em 1.5em;
+	border-width:1px;
+}
+.teamvision-button.flat-button-large a {
+	padding:1.5em 1.8em;
+	border-width:1px;
+}
+.teamvision-button.bg-none-button-mini a {
+	padding:0.4em 0.9em;
+	border-width:1px;
+}
+.teamvision-button.bg-none-button-small a {
+	padding:0.8em 1.2em;
+	border-width:1px;
+}
+.teamvision-button.bg-none-button-medium a {
+	padding:1.2em 1.5em;
+	border-width:1px;
+}
+.teamvision-button.bg-none-button-large a {
+	padding:1.5em 1.8em;
+	border-width:1px;
+}
+.teamvision-button.d-button-mini a {
+    padding:0.4em 0.9em;
+}
+.teamvision-button.d-button-small a {
+	padding:0.8em 1.2em;
+}
+.teamvision-button.d-button-medium a {
+	padding:1.2em 1.5em;
+}
+.teamvision-button.d-button-large a {
+	padding:1.5em 1.8em;
+} 
+
+/*
+ * Map
+ */
+.teamvision-googleMap img {
+	max-width:none;
+}
+@media screen and (max-width: 900px) {
+	.teamvision-googleMap {
+		max-width:100%;
+		max-height:300px;
+	}
+	.teamvision-map-container {
+		max-height:310px;
+	}
+}
+
+
+/*
+ * Interactive Box Style 1
+ */
+ 
+ .teamvision-interactive-box {
+	width:300px;
+	margin:0 auto;
+	height:300px;
+	padding:25px;
+	display: block;
+	text-align:center;
+	background:#FFFFFF;
+	transition: all .3s ease-in;	
+	position:relative;
+ }
+
+ @media only screen and (max-width: 480px) {
+	.teamvision-interactive-box {
+		width:100%;
+	}
+ }
+ 
+ .teamvision-interactive-box .teamvision-interactive-box-container span {
+	 display:block;
+	 transition: all .3s ease-in;
+ }
+ .teamvision-interactive-box i {
+	 font-size:60px;
+	 color:#009688;
+	 transition: all .3s ease-in;
+	 margin-bottom:35px;
+ }
+ .teamvision-interactive-box .teamvision-interactive-box-title {
+	 font-size:22px;
+	 color:#000000;
+	 transition: all .3s ease-in;	
+	 text-transform:uppercase;
+ }  
+ .teamvision-interactive-box-container-link a {
+	color:#FFFFFF;
+	transition: all .3s ease-in;
+ }
+ .teamvision-interactive-box-container-link { 
+	opacity:0; 
+	transition: all .3s ease-in; 
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;	
+	z-index:1;
+	background:#009688;
+}
+ .teamvision-interactive-box:hover .teamvision-interactive-box-container-link {
+	transition: all .3s ease-in;
+	opacity:1;
+ }
+ .teamvision-interactive-box-container-link a {
+	border:1px solid #FFFFFF;
+	padding:10px 15px;
+	transition: all .3s ease-in;
+	display:block;
+	margin-top:30px;
+	width: 60%;
+	margin: auto;
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);	 
+ }
+ .teamvision-interactive-box-container-link a:hover {
+	 border:1px solid #000000;
+	 padding:10px 15px;
+	 color:#000000;
+	 transition: all .3s ease-in;
+ } 
+ .teamvision-interactive-box-container {
+ 	width: 80%;
+	margin: auto;
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);	
+ }
+
+ /*
+ * Interactive Box Style 2
+ */ 
+
+ .teamvision-interactive-box-style2 .teamvision-interactive-box-container-hover { 
+	opacity:0; 
+	transition: all .3s ease-in; 
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;	
+	z-index:1;
+	background:#009688;
+	padding:20px;
+ }
+ .teamvision-interactive-box-style2.teamvision-interactive-box:hover .teamvision-interactive-box-container-hover {
+	transition: all .3s ease-in;
+	opacity:1;
+ } 
+ .teamvision-interactive-box-style2.teamvision-interactive-box .teamvision-interactive-box-container-hover span {
+	 display:block;
+	 transition: all .3s ease-in;
+ }
+ .teamvision-interactive-box-style2.teamvision-interactive-box .teamvision-interactive-box-container-hover i {
+	 font-size:60px;
+	 color:#FFFFFF;
+	 transition: all .3s ease-in;
+	 margin-bottom:20px;
+ }
+ .teamvision-interactive-box-style2.teamvision-interactive-box .teamvision-interactive-box-container-hover .teamvision-interactive-box-title {
+	 color:#FFFFFF;
+	 transition: all .3s ease-in;	
+	 text-transform:uppercase;
+	 font-size:20px;
+	 font-weight:bold;
+	 margin-bottom:20px;
+ }   
+ .teamvision-interactive-box-style2 .teamvision-interactive-box-text {
+	 color:#FFFFFF;
+	 font-size:14px;
+ }
+ .teamvision-interactive-box-style2 .teamvision-interactive-box-container-hover-wrap {
+ 	width: 80%;
+	margin: auto;
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);	
+ }
+ 
+ /*
+ * Team Style 1
+ */ 
+ .teamvision-team {
+	box-sizing:border-box;
+	padding-left:15px;
+	padding-right:15px;
+	float:left;
+ }
+ .teamvision-team-container {
+	 background-position:center center;
+	 background-size:cover;
+ }
+ .teamvision-team-col-1 .teamvision-team {
+	margin: 0 auto;
+	float: none;
+ }
+ .teamvision-team-col-2 .teamvision-team {
+	 width:50%;
+ }
+ .teamvision-team-col-3 .teamvision-team {
+	 width:33.333333333%;
+ }
+ .teamvision-team-col-4 .teamvision-team {
+	 width:25%;
+ }
+ .teamvision-team-container {
+	 height:100%;
+	 position:relative;
+ }
+ .teamvision-team-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.7);
+	 opacity:0;
+	 transition: all .3s ease-in;
+ }
+ .teamvision-team-container-wrap {
+ 	width: 90%;
+	margin: auto;
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+	z-index:1;
+	opacity:0;
+	transition: all .3s ease-in;
+	text-align:center;
+ }
+ .teamvision-team-style1.teamvision-team-col-1 .teamvision-team {
+	 width:400px;
+	 height:400px;
+ }
+ .teamvision-team-style1.teamvision-team-col-2 .teamvision-team {
+	 width:50%;
+	 height:400px;
+ }
+ .teamvision-team-style1.teamvision-team-col-3 .teamvision-team {
+	 width:33.333333333%;
+	 height:300px;
+ }
+ .teamvision-team-style1 .teamvision-team,
+ .teamvision-team-style2 .teamvision-team,
+ .teamvision-team-style3 .teamvision-team,
+ .teamvision-team-style4 .teamvision-team,
+ .teamvision-team-style5 .teamvision-team,
+ .teamvision-team-style6 .teamvision-team,
+ .teamvision-team-style7 .teamvision-team {
+	 margin-bottom:50px;
+ }
+ .teamvision-team-style1.teamvision-team-col-4 .teamvision-team {
+	 width:25%;
+	 height:200px;
+ } 
+ .teamvision-team-style1 .teamvision-team-container-wrap span,
+ .teamvision-team-style1 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style1 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style1 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style1 .teamvision-team-name {
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+	letter-spacing:2px;
+	font-weight:bold;
+ }
+ .teamvision-team-style1 .teamvision-team-role {
+    font-size: 18px;
+    color: #ffffff;
+	letter-spacing: 0.5px;
+	font-weight:normal;
+ } 
+ .teamvision-team-style1 .teamvision-team-social-container a {
+	margin-right:20px;
+	font-size:18px;
+	margin-top: 20px;
+	color:#fff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style1.teamvision-team-col-1 .teamvision-team-social-container a:hover,
+ .teamvision-team-style1.teamvision-team-col-2 .teamvision-team-social-container a:hover {
+	 color:#ccc;
+	 transition: all .3s ease-in; 
+ }
+ .teamvision-team-style1 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style1.teamvision-team-col-1 .teamvision-team-social-container .teamvision-team-container-wrap a:last-childe,
+ .teamvision-team-style1.teamvision-team-col-2 .teamvision-team-social-container .teamvision-team-container-wrap a:last-childe {
+	margin-right:0; 
+ }
+ .teamvision-team-style1 .teamvision-team-container {
+	margin:0 auto;
+ }
+ .teamvision-team-style1.teamvision-team-col-3 .teamvision-team-social-container a:hover {
+	 color:#ccc;
+	 transition: all .3s ease-in; 
+ }
+ .teamvision-team-style1.teamvision-team-col-3 .teamvision-team-name {
+	font-size:28px;	
+ }
+ .teamvision-team-style1.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;
+ }
+ .teamvision-team-style1.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;
+ }
+ .teamvision-team-style1.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style1.teamvision-team-col-4 .teamvision-team-social-container a {
+	font-size:16px;
+ }
+ .teamvision-team-style1.teamvision-team-col-3 .teamvision-team-social-container a:last-child,
+ .teamvision-team-style1.teamvision-team-col-4 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ } 
+ @media only screen and (max-width: 480px) {
+	.teamvision-team-col-1 .teamvision-team,
+	.teamvision-team-col-2 .teamvision-team,
+	.teamvision-team-col-3 .teamvision-team,
+	.teamvision-team-col-4 .teamvision-team,
+	.teamvision-team-style1.teamvision-team-col-1 .teamvision-team, 
+	.teamvision-team-style1.teamvision-team-col-2 .teamvision-team,
+	.teamvision-team-style1.teamvision-team-col-3 .teamvision-team,
+	.teamvision-team-style1.teamvision-team-col-4 .teamvision-team {
+		width:100%;
+		height:400px;
+	}
+ } 
+ @media only screen and (min-width: 481px) and (max-width: 800px) {
+	.teamvision-team-col-1 .teamvision-team,
+	.teamvision-team-col-2 .teamvision-team,
+	.teamvision-team-col-3 .teamvision-team,
+	.teamvision-team-col-4 .teamvision-team,
+	.teamvision-team-style1.teamvision-team-col-1 .teamvision-team, 
+	.teamvision-team-style1.teamvision-team-col-2 .teamvision-team,
+	.teamvision-team-style1.teamvision-team-col-3 .teamvision-team,
+	.teamvision-team-style1.teamvision-team-col-4 .teamvision-team	{
+		width:50%;
+		height:400px;
+	}
+ } 
+ /*
+  * Team Style 2
+  */
+ 
+ .teamvision-team-style2.teamvision-team-col-1 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style2.teamvision-team-col-2 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style2.teamvision-team-col-3 .teamvision-team .teamvision-team-container {
+	 height:330px;
+	 width:330px;
+ }
+ .teamvision-team-style2.teamvision-team-col-4 .teamvision-team .teamvision-team-container {
+	 width:230px;
+	 height:230px;
+ }
+ .teamvision-team-style2.teamvision-team-col-4 .teamvision-team-container-wrap, .teamvision-team-style2.teamvision-team-col-3 .teamvision-team-container-wrap, .teamvision-team-style2.teamvision-team-col-1 .teamvision-team-container-wrap, .teamvision-team-style2.teamvision-team-col-2 .teamvision-team-container-wrap {
+	 top:55%;
+ }
+ .teamvision-team-style2 .teamvision-team-container-wrap span,
+ .teamvision-team-style2 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style2 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style2 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style2 .teamvision-team-name {
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+	letter-spacing:2px;
+	font-weight:bold;
+ }
+ .teamvision-team-style2 .teamvision-team-role {
+    font-size: 18px;
+    color: #ffffff;
+	font-weight:normal;
+	letter-spacing: 0.5px;
+ } 
+ .teamvision-team-style2 .teamvision-team-social-container a {
+	margin-right:20px;
+	font-size:18px;
+	margin-top: 20px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style2 .teamvision-team-social-container a:hover {
+	color:#cccccc;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style2 .teamvision-team-social-container a:last-child,
+ .teamvision-team-style2.teamvision-team-col-3 .teamvision-team-social-container a:last-child,
+ .teamvision-team-style2.teamvision-team-col-4 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style2 .teamvision-team-container {
+	width: 100%;
+	margin:0 auto;
+	border-radius:50%;
+ } 
+ .teamvision-team-style2.teamvision-team-col-3 .teamvision-team-name {
+	font-size:28px;	
+ }
+ .teamvision-team-style2.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;
+ }
+ .teamvision-team-style2.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;
+ }
+ .teamvision-team-style2.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style2.teamvision-team-col-4 .teamvision-team-social-container a {
+	font-size:16px;
+ }
+ .teamvision-team-style2 .teamvision-team-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.7);
+	 opacity:0;
+	 transition: all .3s ease-in;
+	 border-radius:50%;
+ }
+ /*
+  * Team Style 3
+  */
+ .teamvision-team-style3.teamvision-team-col-1 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style3.teamvision-team-col-2 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style3.teamvision-team-col-3 .teamvision-team .teamvision-team-container {
+	 height:330px;
+	 width:330px;
+ }
+ .teamvision-team-style3.teamvision-team-col-4 .teamvision-team .teamvision-team-container {
+	 height:230px;
+	 width:230px;
+ }
+ .teamvision-team-style3 .teamvision-team-container-wrap span,
+ .teamvision-team-style3 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style3 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style3 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style3 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:24px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style3 .teamvision-team-social-container a:hover {
+	color:#969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style3 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style3 .teamvision-team-container {
+	width: 100%;
+	margin:0 auto;
+	border-radius:50%;
+ }
+ .teamvision-team-style3 .teamvision-team-name {
+	font-size:36px;	
+	display:block;
+	margin:15px auto 5px auto;
+	text-align:center;
+	color:#2e2e2e;
+	letter-spacing:0.5px;
+	font-weight:bold;
+ }
+ .teamvision-team-style3 .teamvision-team-role {
+	font-size:18px;	
+	display:block;
+	text-align:center;
+	color: #969696;
+	letter-spacing:0.5px;
+	font-weight:normal;
+ }
+ .teamvision-team-style3.teamvision-team-col-3 .teamvision-team-name {
+	font-size:28px;	
+ }
+ .teamvision-team-style3.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;	
+ }
+ .teamvision-team-style3.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style3.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style3.teamvision-team-col-4 .teamvision-team-social-container a {
+	font-size:18px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style3.teamvision-team-col-4 .teamvision-team-social-container a:hover {
+	color:#969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style3 .teamvision-team-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.6);
+	 opacity:0;
+	 transition: all .3s ease-in;
+	 border-radius:50%;
+ } 
+/*
+  * Team Style 4
+  */
+ .teamvision-team-style4.teamvision-team-col-1 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style4.teamvision-team-col-2 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style4.teamvision-team-col-3 .teamvision-team .teamvision-team-container {
+	 height:280px;
+	 width:280px;
+ }
+ .teamvision-team-style4.teamvision-team-col-4 .teamvision-team .teamvision-team-container {
+	 height:200px;
+	 height:200px;
+ }
+ .teamvision-team-style4 .teamvision-team-container-wrap span,
+ .teamvision-team-style4 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style4 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style4 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style4 .teamvision-team-name {
+	font-size:36px;	
+	display:block;
+	margin:15px auto 5px auto;
+	text-align:center;
+	color:#2e2e2e;
+	letter-spacing:0.5px;
+	font-weight:bold;
+ }
+ .teamvision-team-style4 .teamvision-team-role {
+	font-size:18px;	
+	display:block;
+	text-align:center;
+	color: #969696;
+	letter-spacing:0.5px;
+	font-weight:normal;
+ } 
+ .teamvision-team-style4 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:24px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style4 .teamvision-team-social-container a:hover {
+	color:#969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style4 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style4 .teamvision-team-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-style4.teamvision-team-col-3 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style4.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;	
+ }
+ .teamvision-team-style4.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style4.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style4.teamvision-team-col-4 .teamvision-team-social-container a {
+	font-size:18px;
+ }
+ .teamvision-team-style4 .teamvision-team-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.6);
+	 opacity:0;
+	 transition: all .3s ease-in;
+ }
+ /*
+  * Team Style 5
+  */
+ .teamvision-team-style5.teamvision-team-col-1 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style5.teamvision-team-col-2 .teamvision-team .teamvision-team-container {
+	 height:400px;
+ }
+ .teamvision-team-style5.teamvision-team-col-3 .teamvision-team .teamvision-team-container {
+	 height:280px;
+ }
+ .teamvision-team-style5.teamvision-team-col-4 .teamvision-team .teamvision-team-container {
+	 height:200px;
+ }
+ .teamvision-team-style5.teamvision-team-col-3 .teamvision-team-name {
+	font-size:20px;	
+ }
+ .teamvision-team-style5.teamvision-team-col-3 .teamvision-team-role {
+	font-size:12px;	
+ }
+ .teamvision-team-style5 .teamvision-team-container-wrap span,
+ .teamvision-team-style5 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style5 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style5 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style5 .teamvision-team-name {
+    font-size:36px;	
+	display:block;
+	margin:15px auto 5px auto;
+	text-align:center;
+	color:#2e2e2e;
+	letter-spacing:0.5px;
+	font-weight:normal;
+ }
+ .teamvision-team-style5 .teamvision-team-role {
+	font-size:18px;	
+	display:block;
+	text-align:center;
+	color: #969696;
+	letter-spacing:0.5px;
+	font-weight:300;
+ } 
+ .teamvision-team-style5 .teamvision-team-social-container a {
+	margin-right:25px;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	text-align: center;	
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style5 .teamvision-team-social-container a:hover {
+	color: #969696;
+	border: 1px solid #969696;
+	transition: all .3s ease-in;	
+ } 
+ .teamvision-team-style5 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style5 .teamvision-team-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-style5.teamvision-team-col-3 .teamvision-team-social-container a {
+	font-size:18px;
+	padding:0;
+ }
+ .teamvision-team-style5.teamvision-team-col-3 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style5.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;	
+ }
+ .teamvision-team-style5.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style5.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style5.teamvision-team-col-4 .teamvision-team-social-container a {
+	padding:0px;
+	font-size: 16px;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	margin-right:15px;
+ }
+ .teamvision-team-style5.teamvision-team-col-4 .teamvision-team-social-container a:last-child {
+    margin-right: 0;
+ }
+ .teamvision-team-style5 .teamvision-team-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.6);
+	 opacity:0;
+	 transition: all .3s ease-in;
+ }
+ /*
+  * Team Style 6
+  */
+ .teamvision-team-style6.teamvision-team-col-1 .teamvision-team,
+ .teamvision-team-style6.teamvision-team-col-2 .teamvision-team,
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team,
+ .teamvision-team-style6.teamvision-team-col-4 .teamvision-team {
+	 height:auto;
+ }
+ .teamvision-team-style6.teamvision-team-col-1 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style6.teamvision-team-col-2 .teamvision-team .teamvision-team-container {
+	 height:400px;
+ }
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team .teamvision-team-container {
+	 height:280px;
+ }
+ .teamvision-team-style6.teamvision-team-col-4 .teamvision-team .teamvision-team-container {
+	 height:200px;
+ }
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team-name {
+	font-size:20px;	
+ }
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team-role {
+	font-size:12px;	
+ }
+ .teamvision-team-style6 .teamvision-team-container-wrap span,
+ .teamvision-team-style6 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style6 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style6 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style6 .teamvision-team-name {
+    font-size:36px;	
+	display:block;
+	margin:15px auto 5px auto;
+	text-align:center;
+	color:#2e2e2e;
+	letter-spacing:0.5px;
+	font-weight:bold;
+ }
+ .teamvision-team-style6 .teamvision-team-role {
+	font-size:18px;	
+	display:block;
+	text-align:center;
+	color: #969696;
+	letter-spacing:0.5px;
+	font-weight:normal;
+ } 
+ .teamvision-team-style6 .teamvision-team-social-container a {
+	margin-right:25px;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	text-align: center;	
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style6 .teamvision-team-social-container a:hover {
+	color: #969696;
+	border: 1px solid #969696;
+	transition: all .3s ease-in;	
+ }
+ .teamvision-team-style6 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style6 .teamvision-team-social-container a:hover {
+	color:#969696;
+	border:1px solid #969696;	
+ }
+ .teamvision-team-style6 .teamvision-team-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team-social-container a {
+	font-size:18px;
+	padding:0;
+ }
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style6.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;	
+ }
+ .teamvision-team-style6.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style6.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style6.teamvision-team-col-4 .teamvision-team-social-container a {
+	padding:0px;
+	font-size: 16px;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	margin-right:15px;
+ }
+ .teamvision-team-style6.teamvision-team-col-4 .teamvision-team-social-container a:last-child {
+    margin-right: 0;
+ }
+ .teamvision-team-style6 .teamvision-team-container-wrap {
+  	width: 100%;
+ 	margin: auto;
+ 	position: absolute;
+ 	bottom: 0;
+ 	left: 0;
+ 	z-index:1;
+ 	opacity:0;
+ 	transition: all .3s ease-in;
+ 	text-align:center;
+ 	padding: 20px;
+	background:rgba(0,0,0,0.6);
+	transform:none;
+	top: inherit;
+ }
+ .teamvision-team-style6 .teamvision-team-social-container a {
+	margin-right: 10px;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 0px;
+    border: 1px solid #FFFFFF;
+ }
+ .teamvision-team-style6 .teamvision-team-social-container a:hover {
+    border: 1px solid #969696;
+	color: #969696;
+ } 
+/*
+  * Team Style 7
+  */
+ .teamvision-team-style7.teamvision-team-col-1 .teamvision-team,
+ .teamvision-team-style7.teamvision-team-col-2 .teamvision-team,
+ .teamvision-team-style7.teamvision-team-col-3 .teamvision-team,
+ .teamvision-team-style7.teamvision-team-col-4 .teamvision-team {
+	 height:auto;
+ }
+ .teamvision-team-style7.teamvision-team-col-1 .teamvision-team .teamvision-team-container {
+	 height:400px;
+	 width:400px;
+ }
+ .teamvision-team-style7.teamvision-team-col-2 .teamvision-team .teamvision-team-container {
+	 height:400px;
+ }
+ .teamvision-team-style7.teamvision-team-col-3 .teamvision-team .teamvision-team-container {
+	 height:280px;
+ }
+ .teamvision-team-style7.teamvision-team-col-4 .teamvision-team .teamvision-team-container {
+	 height:200px;
+ }
+ .teamvision-team-style7 .teamvision-team-container-wrap span,
+ .teamvision-team-style7 .teamvision-team-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-style7 .teamvision-team-container:hover .teamvision-team-pattern,
+ .teamvision-team-style7 .teamvision-team-container:hover .teamvision-team-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-style7 .teamvision-team-name {
+    font-size:36px;	
+	display:block;
+	margin:15px auto 5px auto;
+	text-align:center;
+	color:#2e2e2e;
+	letter-spacing:0.5px;
+	font-weight:bold;
+ }
+ .teamvision-team-style7 .teamvision-team-role {
+	font-size:18px;	
+	display:block;
+	text-align:center;
+	color: #969696;
+	letter-spacing:0.5px;
+	font-weight:normal;
+ } 
+ .teamvision-team-style7 .teamvision-team-social-container a {
+	margin-right:25px;
+	color: #ffffff;
+	line-height: 1px;
+	text-align: center;
+	font-size:20px;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-style7 .teamvision-team-social-container a:hover {
+	color: #969696;
+	transition: all .3s ease-in;
+ } 
+ .teamvision-team-style7 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-style7 .teamvision-team-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-style7.teamvision-team-col-3 .teamvision-team-social-container a {
+	font-size:18px;
+	padding:0;
+ }
+ .teamvision-team-style7.teamvision-team-col-3 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style7.teamvision-team-col-3 .teamvision-team-role {
+	font-size:18px;	
+ }
+ .teamvision-team-style7.teamvision-team-col-4 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-style7.teamvision-team-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-style7 .teamvision-team-container-wrap {
+  	width: 100%;
+ 	margin: auto;
+ 	position: absolute;
+ 	bottom: 0;
+ 	left: 0;
+ 	z-index:1;
+ 	opacity:0;
+ 	transition: all .3s ease-in;
+ 	text-align:center;
+ 	padding: 20px;
+	background:rgba(0,0,0,0.6);
+	transform:none;
+	top: inherit;
+ }
+ .teamvision-team-style7.teamvision-team-col-2 .teamvision-team-container-wrap, .teamvision-team-style7.teamvision-team-col-1 .teamvision-team-container-wrap {
+ 	padding: 30px;
+ }
+
+ /*
+ * Team Carousel Style 1
+ */ 
+ .teamvision-team-carousel {
+	box-sizing:border-box;
+ }
+ .teamvision-team-carousel-container {
+	 background-position:center center;
+	 background-size:cover;
+ } 
+ .teamvision-team-carousel-container {
+	 height:100%;
+	 position:relative;
+ }
+ .teamvision-team-carousel-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.7);
+	 opacity:0;
+	 transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-container-wrap {
+ 	width: 90%;
+	margin: auto;
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+	z-index:1;
+	opacity:0;
+	transition: all .3s ease-in;
+	text-align:center;
+ }
+ .teamvision-team-carousel-style1 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style1 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style1 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style1 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style1 .teamvision-team-name {
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+	letter-spacing:2px;
+	font-weight:bold;
+ }
+ .teamvision-team-carousel-style1 .teamvision-team-role {
+    font-size: 18px;
+    line-height: 1;
+	font-weight: normal;
+	color: #ffffff;
+	letter-spacing: 0.5px;
+ } 
+ .teamvision-team-carousel-style1 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:18px;
+	margin-top: 20px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style1 .teamvision-team-social-container a:hover {
+	color: #969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style1 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-3 .teamvision-team-name {
+	font-size:28px;
+	margin-bottom:8px;	
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-3 .teamvision-team-role {
+	font-size:18px;
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-3 .teamvision-team-social-container a {
+	margin-right: 20px;
+	font-size: 18px;
+	margin-top: 20px;
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size: 22px;
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:16px;
+	margin-top:20px;
+	color:#ffffff;
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-4 .teamvision-team-social-container a:hover {
+	color: #969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-3 .teamvision-team-social-container a:last-child,
+ .teamvision-team-carousel-style1.teamvision-team-carousel-col-4 .teamvision-team-social-container a:last-child {
+	margin-right:0;
+ } 
+ .teamvision-team-owl-carousel.owl-theme .owl-controls .owl-nav [class*=owl-] {
+	padding: 0;
+	height: 45px;
+	width: 45px;
+	line-height: 45px;
+ }
+ .teamvision-team-owl-carousel.owl-theme .owl-dots .owl-dot span,
+ .teamvision-team-owl-carousel.owl-theme .owl-dots .owl-dot.active span {
+	background:#FFFFFF;
+ }
+ .teamvision-team-owl-carousel .owl-controls .owl-prev {
+	position:absolute;
+	left:0;
+	top:50%;
+	margin-top:-16.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-team-owl-carousel .owl-controls .owl-next {
+	position:absolute;
+	right:0;
+	top:50%;
+	margin-top:-16.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-team-owl-carousel .owl-dots {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+	opacity:0;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-team-owl-carousel.owl-theme .owl-controls {
+	margin:0;
+ }
+ .teamvision-team-owl-carousel:hover .owl-controls .owl-prev,
+ .teamvision-team-owl-carousel:hover .owl-controls .owl-next,
+ .teamvision-team-owl-carousel:hover .owl-dots {
+	opacity:1;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-team-owl-carousel.owl-theme .owl-dots .owl-dot span {
+	border-radius:0;
+	opacity:0.3;
+ }
+ .teamvision-team-owl-carousel.owl-theme .owl-dots .owl-dot.active span {
+	opacity:1;
+ }
+ .teamvision-team-owl-carousel.owl-theme .owl-controls .owl-nav [class*=owl-]:hover { transition: all .3s ease-in; }
+ .teamvision-team-owl-carousel.owl-theme .owl-controls .owl-nav [class*=owl-] { transition: all .3s ease-in; } 
+ /*
+  * Team Carousel Style 2
+  */
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-1 .teamvision-team-carousel .teamvision-team-carousel-container img, 
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-1 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:600px;
+	 width:600px;
+	 margin:0 auto;
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-2 .teamvision-team-carousel .teamvision-team-carousel-container img, 
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-2 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:500px;
+	 width:500px;
+	 margin:0 auto;
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-3 .teamvision-team-carousel .teamvision-team-carousel-container img, 
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-3 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:330px;
+	 width:330px;
+	 margin:0 auto;
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-4 .teamvision-team-carousel .teamvision-team-carousel-container img, 
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-4 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 width:230px;
+	 height:230px;
+	 margin:0 auto;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style2 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style2 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-name {
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+	letter-spacing:2px;
+	font-weight:bold;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-role {
+    font-size: 18px;
+    line-height: 1;
+	font-weight: normal;
+	color: #ffffff;
+	letter-spacing: 0.5px;
+ } 
+ .teamvision-team-carousel-style2 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:18px;
+	margin-top: 20px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-social-container a:hover {
+	color: #969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-social-container a:last-child,
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-3 .teamvision-team-social-container a:last-child,
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-4 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-carousel-container img {
+	width: 100%;
+	margin:0 auto;
+	border-radius:50%;
+ } 
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-3 .teamvision-team-name {
+	font-size:28px;
+	margin-bottom:8px;	
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-3 .teamvision-team-role {
+	font-size:18px;
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-3 .teamvision-team-social-container a {
+	margin-right: 20px;
+	font-size: 18px;
+	margin-top: 20px;
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size: 22px;
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-carousel-style2.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:16px;
+ }
+ .teamvision-team-carousel-style2 .teamvision-team-carousel-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.7);
+	 opacity:0;
+	 transition: all .3s ease-in;
+	 border-radius:50%;
+ } 
+ .teamvision-team-owl-carousel.teamvision-team-carousel-style2.owl-theme .owl-dots .owl-dot span,
+ .teamvision-team-owl-carousel.teamvision-team-carousel-style2.owl-theme .owl-controls .owl-nav [class*=owl-],
+ .teamvision-team-owl-carousel.teamvision-team-carousel-style3.owl-theme .owl-dots .owl-dot span,
+ .teamvision-team-owl-carousel.teamvision-team-carousel-style3.owl-theme .owl-controls .owl-nav [class*=owl-] {
+	 border-radius:50%;
+ }
+ /*
+  * Team Carousel Style 3
+  */ 
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-1 .teamvision-team-carousel .teamvision-team-carousel-container img,
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-1 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:600px;
+	 width:600px;
+	 border-radius:50%;
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-2 .teamvision-team-carousel .teamvision-team-carousel-container img,
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-2 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:500px;
+	 width:500px;
+	 border-radius:50%;
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-3 .teamvision-team-carousel .teamvision-team-carousel-container img,
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-3 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:330px;
+	 width:330px;
+	 border-radius:50%;
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-4 .teamvision-team-carousel .teamvision-team-carousel-container img,
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-4 .teamvision-team-carousel .teamvision-team-carousel-container {
+	 height:230px;
+	 width:230px;
+	 border-radius:50%;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style3 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style3 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:24px;
+	color: #ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-social-container a:hover {
+	color: #969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-carousel-container {
+	width: 100%;
+	margin:0 auto;
+	border-radius:50%;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-name {
+	font-size: 36px;
+	display: block;
+	margin: 15px auto 5px auto;
+	text-align: center;
+	color: #000000;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-role {
+	font-size: 18px;
+	display: block;
+	text-align: center;
+	color: #969696;
+	letter-spacing: 0.5px;
+	font-weight: normal;
+	line-height:1;
+ } 
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-3 .teamvision-team-name {
+	font-size:28px;
+	margin-bottom:8px;	
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-3 .teamvision-team-role {
+	font-size:18px;
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-3 .teamvision-team-social-container a {
+	margin-right: 20px;
+	font-size: 18px;
+	margin-top: 20px;
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size: 22px;
+ }
+  .teamvision-team-carousel-style3 .teamvision-team-role {
+	line-height:1.3em; 
+  }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-carousel-style3.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:18px;
+ }
+ .teamvision-team-carousel-style3 .teamvision-team-carousel-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.4);
+	 opacity:0;
+	 transition: all .3s ease-in;
+	 border-radius:50%;
+ } 
+ /*
+  * Team Carousel Style 4
+  */ 
+ .teamvision-team-carousel-style4 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style4 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style4 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-name {
+    font-size: 36px;
+    color: #000000;
+    text-transform: uppercase;
+    margin:12px auto 7px auto;
+	display:block;
+	letter-spacing:2px;
+	text-align:center;
+	font-weight:bold;
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-role {
+	font-size:18px;	
+	display:block;
+	text-align:center;
+	color: #AFAFAF;
+	letter-spacing:2px;
+	font-weight:normal;
+ } 
+ .teamvision-team-carousel-style4 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:24px;
+	transition: all .3s ease-in;
+	color:#ffffff;
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-social-container a:hover {
+	color: #969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-carousel-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-carousel-style4.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size:22px;	
+ }
+ .teamvision-team-carousel-style4.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:16px;	
+ }
+ .teamvision-team-carousel-style4.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:18px;
+ }
+ .teamvision-team-carousel-style4 .teamvision-team-carousel-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.4);
+	 opacity:0;
+	 transition: all .3s ease-in;
+ }
+ /*
+  * Team Carousel Style 5
+  */
+ .teamvision-team-carousel-style5 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style5 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style5 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style5 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style5 .teamvision-team-name {
+    font-size: 22px;
+    color: #000000;
+    text-transform: uppercase;
+    margin:12px auto 7px auto;
+	display:block;
+	letter-spacing:2px;
+	text-align:center;
+ }
+ .teamvision-team-carousel-style5 .teamvision-team-role {
+	font-size:14px;	
+	display:block;
+	text-align:center;
+	color: #AFAFAF;
+	letter-spacing:2px;
+ } 
+ .teamvision-team-carousel-style5 .teamvision-team-social-container a {
+	margin-right: 25px;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style5 .teamvision-team-social-container a:hover {
+	color:#AFAFAF;
+	border:1px solid #AFAFAF;	
+ } 
+ .teamvision-team-carousel-style5 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style5 .teamvision-team-carousel-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-carousel-style5.teamvision-team-carousel-col-3 .teamvision-team-social-container a {
+	font-size:16px;
+	padding:10px;
+ }
+ .teamvision-team-carousel-style5.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size:18px;	
+ }
+ .teamvision-team-carousel-style5.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:12px;	
+ }
+ .teamvision-team-carousel-style5.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:16px;
+	padding:10px;
+ }
+ .teamvision-team-carousel-style5 .teamvision-team-carousel-pattern {
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 height:100%;
+	 width:100%;
+	 background:rgba(0,0,0,0.4);
+	 opacity:0;
+	 transition: all .3s ease-in;
+ }
+ /*
+  * Team Carousel Style 6
+  */
+ .teamvision-team-carousel-style6 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style6 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style6 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-name {
+    font-size: 22px;
+    color: #000000;
+    text-transform: uppercase;
+    margin:12px auto 7px auto;
+	display:block;
+	letter-spacing:2px;
+	text-align:center;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-role {
+	font-size:14px;	
+	display:block;
+	text-align:center;
+	color: #AFAFAF;
+	letter-spacing:2px;
+ } 
+ .teamvision-team-carousel-style6 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:16px;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	color:#FFFFFF;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-social-container a:hover {
+	color:#AFAFAF;
+	border:1px solid #AFAFAF;	
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-carousel-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-carousel-style6.teamvision-team-carousel-col-3 .teamvision-team-social-container a {
+	font-size: 14px;
+	padding: 0;
+	line-height: 40px;
+ }
+ .teamvision-team-carousel-style6.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size:18px;	
+ }
+ .teamvision-team-carousel-style6.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:12px;	
+ }
+ .teamvision-team-carousel-style6.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:16px;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-carousel-container-wrap {
+  	width: 100%;
+ 	margin: auto;
+ 	position: absolute;
+ 	bottom: 0;
+ 	left: 0;
+ 	z-index:1;
+ 	opacity:0;
+ 	transition: all .3s ease-in;
+ 	text-align:center;
+ 	padding: 20px;
+	background:rgba(0,0,0,0.5);
+	transform:none;
+	top: inherit;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-social-container a {
+	margin-right: 25px;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style6 .teamvision-team-social-container a:hover {
+    border: 1px solid #AFAFAF;
+	color: #AFAFAF;
+ } 
+/*
+  * Team Carousel Style 7
+  */
+ .teamvision-team-carousel-style7 .teamvision-team-carousel-container-wrap span,
+ .teamvision-team-carousel-style7 .teamvision-team-carousel-container-wrap .teamvision-team-social-container {
+	display:block;
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-carousel-container:hover .teamvision-team-carousel-pattern,
+ .teamvision-team-carousel-style7 .teamvision-team-carousel-container:hover .teamvision-team-carousel-container-wrap {
+	opacity:1;
+	transition: all .3s ease-in;  
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-name {
+    font-size: 22px;
+    color: #000000;
+    text-transform: uppercase;
+    margin:12px auto 7px auto;
+	display:block;
+	letter-spacing:2px;
+	text-align:center;
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-role {
+	font-size:14px;	
+	display:block;
+	text-align:center;
+	color: #AFAFAF;
+	letter-spacing:2px;
+ } 
+ .teamvision-team-carousel-style7 .teamvision-team-social-container a {
+	margin-right:25px;
+	font-size:24px;
+	color:#ffffff;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-social-container a:hover {
+	color:#969696;
+	transition: all .3s ease-in;
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-social-container a:last-child {
+	 margin-right:0;
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-carousel-container {
+	width: 100%;
+	margin:0 auto;
+ }
+ .teamvision-team-carousel-style7.teamvision-team-carousel-col-4 .teamvision-team-name {
+	font-size:18px;	
+ }
+ .teamvision-team-carousel-style7.teamvision-team-carousel-col-4 .teamvision-team-role {
+	font-size:12px;	
+ }
+ .teamvision-team-carousel-style7.teamvision-team-carousel-col-4 .teamvision-team-social-container a {
+	font-size:22px;
+ }
+ .teamvision-team-carousel-style7 .teamvision-team-carousel-container-wrap {
+  	width: 100%;
+ 	margin: auto;
+ 	position: absolute;
+ 	bottom: 0;
+ 	left: 0;
+ 	z-index:1;
+ 	opacity:0;
+ 	transition: all .3s ease-in;
+ 	text-align:center;
+ 	padding: 20px;
+	background:rgba(0,0,0,0.5);
+	transform:none;
+	top: inherit;
+ }
+ 
+ /*
+  * Logo Carousel
+  */ 
+ .teamvision-logo-owl-carousel.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+ } 
+ .teamvision-logo-owl-carousel.owl-theme .owl-controls .owl-nav [class*=owl-] {
+	padding:8px 14px;
+	font-size:14px;
+ }
+ .teamvision-logo-owl-carousel.owl-theme .owl-dots .owl-dot span,
+ .teamvision-logo-owl-carousel.owl-theme .owl-dots .owl-dot.active span {
+	background:#FFFFFF;
+ }
+ .teamvision-logo-owl-carousel .owl-controls .owl-prev {
+	position:absolute;
+	left:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-logo-owl-carousel .owl-controls .owl-next {
+	position:absolute;
+	right:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-logo-carousel-pagination-true.teamvision-logo-owl-carousel .owl-controls .owl-next,
+ .teamvision-logo-carousel-pagination-true.teamvision-logo-owl-carousel .owl-controls .owl-prev {
+	margin-top:-27.5px;
+ }
+ .teamvision-logo-owl-carousel .owl-dots {
+	opacity:0;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-logo-owl-carousel.owl-theme .owl-controls {
+	margin:0;
+ }
+ .teamvision-logo-owl-carousel:hover .owl-controls .owl-prev,
+ .teamvision-logo-owl-carousel:hover .owl-controls .owl-next,
+ .teamvision-logo-owl-carousel:hover .owl-dots {
+	opacity:1;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-logo-owl-carousel.owl-theme .owl-dots .owl-dot span {
+	border-radius:0;
+	opacity:0.3;
+ }
+ .teamvision-logo-owl-carousel.owl-theme .owl-dots .owl-dot.active span {
+	opacity:1;
+ }
+ .teamvision-logo-owl-carousel.owl-theme .owl-controls .owl-nav [class*=owl-]:hover { transition: all .3s ease-in; }
+ .teamvision-logo-owl-carousel.owl-theme .owl-controls .owl-nav [class*=owl-] { transition: all .3s ease-in; }  
+/*
+ * Blog Carousel 
+ */
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-controls .owl-nav [class*=owl-] {
+	padding:8px 14px;
+	font-size:14px;
+	color:#747474;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+	color:#009688;  
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-controls .owl-nav [class*=owl-] i {
+	 margin-right:0;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-dots .owl-dot span,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-dots .owl-dot.active span {
+	background:#009688;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .owl-controls .owl-prev {
+	position:absolute;
+	left:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .owl-controls .owl-next {
+	position:absolute;
+	right:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-bp-vc-element-carousel-blog-pagination-true.teamvision-bp-vc-element-carousel-blog .owl-controls .owl-next,
+ .teamvision-bp-vc-element-carousel-blog-pagination-true.teamvision-bp-vc-element-carousel-blog .owl-controls .owl-prev {
+	margin-top:-27.5px;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .owl-dots {
+	opacity:0;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-controls {
+	margin:0;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog:hover .owl-controls .owl-prev,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog:hover .owl-controls .owl-next,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog:hover .owl-dots {
+	opacity:1;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-dots .owl-dot span {
+	border-radius:0;
+	opacity:0.3;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-dots .owl-dot.active span {
+	opacity:1;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-controls .owl-nav [class*=owl-]:hover { transition: all .3s ease-in; }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog.owl-theme .owl-controls .owl-nav [class*=owl-] { transition: all .3s ease-in; }   
+ 
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-600-1 .teamvision-bp-vc-element-carousel-blog .article-title a {
+	font-size:28px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-author a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-author a {
+	font-size:14px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-1 .teamvision-bp-vc-element-carousel-blog .article-category i,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-1 .teamvision-bp-vc-element-carousel-blog .article-category i {
+	font-size:13px;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-title a, 
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-title a {
+	font-size:18px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style5 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style6 .teamvision-bp-vc-element-carousel-blog .others-post .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style5 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style6 .teamvision-bp-vc-element-carousel-blog .others-post .article-title a {
+	font-size:14px;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog .article-author a {
+	font-size:12px;
+ }
+ .teamvision-bp-vc-element-blogs .teamvision-bp-vc-element-carousel-blog  .article-category i {
+	font-size:11px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-600-3 .teamvision-bp-vc-element-carousel-blog .article-title a {
+	font-size:16px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-author a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-author a {
+	font-size:10px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-3 .teamvision-bp-vc-element-carousel-blog .article-category i,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-3 .teamvision-bp-vc-element-carousel-blog .article-category i {
+	font-size:9px;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-600-4 .teamvision-bp-vc-element-carousel-blog .article-title a {
+	font-size:12px!important;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-author a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-author a {
+	display:none!important;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-category a {
+	font-size:10px!important;
+ } 
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-category i,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-category i {
+	font-size:9px!important;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-title a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-600-5 .teamvision-bp-vc-element-carousel-blog .article-title a {
+	font-size:10px!important;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-author a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-date,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-comments,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-separator,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-author a {
+	display:none!important;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-category a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-category a {
+	font-size:10px!important;
+ } 
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-category i,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-category i {
+	font-size:9px!important;
+ }
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style4.teamvision-bp-vc-blogs-carousel-item-show-4 .teamvision-bp-vc-element-carousel-blog .article-author a, 
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style4.teamvision-bp-vc-blogs-carousel-item-show-900-4 .teamvision-bp-vc-element-carousel-blog .article-author a,
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style4.teamvision-bp-vc-blogs-carousel-item-show-5 .teamvision-bp-vc-element-carousel-blog .article-author a, 
+ .teamvision-bp-vc-element-blogs.teamvision-bp-blogs-style4.teamvision-bp-vc-blogs-carousel-item-show-900-5 .teamvision-bp-vc-element-carousel-blog .article-author a {
+	display:block!important; 
+ }
+/*
+ * News Carousel
+ */
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-] {
+	padding:8px 14px;
+	font-size:14px;
+	color:#747474;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+	color:#009688;  
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-] i {
+	 margin-right:0;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot span,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot.active span {
+	background:#009688;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .owl-controls .owl-prev {
+	position:absolute;
+	left:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .owl-controls .owl-next {
+	position:absolute;
+	right:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-np-vc-element-carousel-news-pagination-true.teamvision-np-vc-element-carousel-news .owl-controls .owl-next,
+ .teamvision-np-vc-element-carousel-news-pagination-true.teamvision-np-vc-element-carousel-news .owl-controls .owl-prev {
+	margin-top:-27.5px;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .owl-dots {
+	opacity:0;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls {
+	margin:0;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news:hover .owl-controls .owl-prev,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news:hover .owl-controls .owl-next,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news:hover .owl-dots {
+	opacity:1;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot span {
+	border-radius:0;
+	opacity:0.3;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot.active span {
+	opacity:1;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-]:hover { transition: all .3s ease-in; }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-] { transition: all .3s ease-in; }   
+ 
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-600-1 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:28px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-author a {
+	font-size:14px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:13px;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-title a, 
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:18px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-news-style5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-news-style6 .teamvision-np-vc-element-carousel-news .others-post .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-news-style5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-news-style6 .teamvision-np-vc-element-carousel-news .others-post .article-title a {
+	font-size:14px;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news .article-author a {
+	font-size:12px;
+ }
+ .teamvision-np-vc-element-news .teamvision-np-vc-element-carousel-news  .article-category i {
+	font-size:11px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-600-3 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:16px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-author a {
+	font-size:10px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:9px;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-600-4 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:12px!important;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-author a {
+	display:none!important;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-category a {
+	font-size:10px!important;
+ } 
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:9px!important;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-600-5 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:10px!important;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-author a {
+	display:none!important;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-category a {
+	font-size:10px!important;
+ } 
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-vc-element-news.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:9px!important;
+ }
+ .teamvision-np-vc-element-news.teamvision-np-news-style4.teamvision-np-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-author a, 
+ .teamvision-np-vc-element-news.teamvision-np-news-style4.teamvision-np-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-vc-element-news.teamvision-np-news-style4.teamvision-np-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-author a, 
+ .teamvision-np-vc-element-news.teamvision-np-news-style4.teamvision-np-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-author a {
+	display:block!important; 
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-] {
+	padding:8px 14px;
+	font-size:14px;
+	color:#747474;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+	color:#009688;  
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-] i {
+	 margin-right:0;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot span,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot.active span {
+	background:#009688;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .owl-controls .owl-prev {
+	position:absolute;
+	left:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .owl-controls .owl-next {
+	position:absolute;
+	right:0;
+	top:50%;
+	margin-top:-15.5px;
+	opacity:0;
+	transition: opacity .3s ease-in;
+ }
+ .teamvision-np-vc-element-carousel-news-pagination-true.teamvision-np-vc-element-carousel-news .owl-controls .owl-next,
+ .teamvision-np-vc-element-carousel-news-pagination-true.teamvision-np-vc-element-carousel-news .owl-controls .owl-prev {
+	margin-top:-27.5px;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .owl-dots {
+	opacity:0;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls {
+	margin:0;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news:hover .owl-controls .owl-prev,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news:hover .owl-controls .owl-next,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news:hover .owl-dots {
+	opacity:1;	
+	transition: opacity .3s ease-in;
+ } 
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot span {
+	border-radius:0;
+	opacity:0.3;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-dots .owl-dot.active span {
+	opacity:1;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-]:hover { transition: all .3s ease-in; }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news.owl-theme .owl-controls .owl-nav [class*=owl-] { transition: all .3s ease-in; }   
+ 
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-600-1 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:28px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-author a {
+	font-size:14px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-1 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-1 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:13px;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-title a, 
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:18px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style6 .teamvision-np-vc-element-carousel-news .others-post .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style6 .teamvision-np-vc-element-carousel-news .others-post .article-title a {
+	font-size:14px;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news .article-author a {
+	font-size:12px;
+ }
+ .teamvision-np-v2-vc-element-news .teamvision-np-vc-element-carousel-news  .article-category i {
+	font-size:11px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-600-3 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:16px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-data,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-comments,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-separator,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-author a {
+	font-size:10px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-3 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-3 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:9px;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-600-4 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:12px!important;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-category a {
+	font-size:10px!important;
+ } 
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:9px!important;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-title a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-600-5 .teamvision-np-vc-element-carousel-news .article-title a {
+	font-size:10px!important;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-info-top,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-info-top {
+	display:none!important;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-category a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-category a {
+	font-size:10px!important;
+ } 
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-category i,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-category i {
+	font-size:9px!important;
+ }
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style4.teamvision-np-v2-vc-news-carousel-item-show-4 .teamvision-np-vc-element-carousel-news .article-author a, 
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style4.teamvision-np-v2-vc-news-carousel-item-show-900-4 .teamvision-np-vc-element-carousel-news .article-author a,
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style4.teamvision-np-v2-vc-news-carousel-item-show-5 .teamvision-np-vc-element-carousel-news .article-author a, 
+ .teamvision-np-v2-vc-element-news.teamvision-np-v2-news-style4.teamvision-np-v2-vc-news-carousel-item-show-900-5 .teamvision-np-vc-element-carousel-news .article-author a {
+	display:block!important; 
+ } 
+ 
+ 
+ /*TIMELINE STYLE1*/
+ 
+ .teamvision-timeline {
+	margin-bottom:20px;
+}
+.teamvision-timeline * {  
+	box-sizing: border-box; 
+	-moz-box-sizing: border-box;	
+}
+.teamvision-timeline .clearfix:before, 
+.teamvision-timeline .clearfix:after { 
+	content: ''; 
+	display: table; 
+}
+.teamvision-timeline .clearfix:after { 
+	clear: both; 
+}
+.teamvision-timeline .clearfix:after { 
+	clear: both; 
+}
+.teamvision-timeline {
+	overflow: hidden;
+	width: 100%;
+	list-style: none;
+}
+.teamvision-timeline iframe {
+	height:300px;
+}
+.teamvision-timeline a {
+	text-decoration:none;
+}
+.teamvision-timeline-image img {
+	border-radius:0;
+	box-shadow:0 0 0;
+	-webkit-transition: all 0.7s ease;
+  	-moz-transition: all 0.7s ease;
+  	-o-transition: all 0.7s ease;
+  	transition: all 0.7s ease;		
+}
+.teamvision_gallery .teamvision-timeline-image:hover img {
+	-webkit-transition: all 0.7s ease;
+  	-moz-transition: all 0.7s ease;
+  	-o-transition: all 0.7s ease;
+  	transition: all 0.7s ease;
+	opacity:0.5;		
+}
+.teamvision-timeline .teamvision-container {
+  width: 90%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.teamvision-timeline .teamvision-container::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.teamvision-timeline #teamvision-timeline {
+  position: relative;
+  padding: 2em 0;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.teamvision-timeline.teamvision-timeline-1::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 50%;
+	height: 100%;
+	width: 4px;
+	background: rgba(0,0,0,0.3);
+	margin-left: -2px;
+}
+@media only screen and (min-width: 1170px) {
+  .teamvision-timeline #teamvision-timeline {
+    margin-top: 3em;
+    margin-bottom: 3em;
+  }
+  .teamvision-timeline #teamvision-timeline::before {
+    left: 50%;
+    margin-left: -2px;
+  }
+}
+
+.teamvision-timeline .teamvision-timeline-block {
+  position: relative;
+  margin: 2em 0;
+}
+.teamvision-timeline .teamvision-timeline-block:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.teamvision-timeline .teamvision-timeline-block:first-child {
+  margin-top: 0;
+}
+.teamvision-timeline .teamvision-timeline-block:last-child {
+  margin-bottom: 0;
+}
+@media only screen and (min-width: 1170px) {
+  .teamvision-timeline .teamvision-timeline-block {
+    margin: 4em 0;
+  }
+  .teamvision-timeline .teamvision-timeline-block:first-child {
+    margin-top: 0;
+  }
+  .teamvision-timeline .teamvision-timeline-block:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.teamvision-timeline .teamvision-timeline-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.teamvision-timeline .teamvision-timeline-img img {
+  display: block;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  margin-left: -12px;
+  margin-top: -12px;
+}
+@media only screen and (min-width: 1170px) {
+  .teamvision-timeline .teamvision-timeline-img {
+    width: 60px;
+    height: 60px;
+    left: 50%;
+    margin-left: -30px;
+    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+  }
+  .teamvision-timeline .cssanimations .teamvision-timeline-img.is-hidden {
+    visibility: hidden;
+  }
+  .teamvision-timeline .cssanimations .teamvision-timeline-img.bounce-in {
+    visibility: visible;
+    -webkit-animation: teamvision-bounce-1 0.6s;
+    -moz-animation: teamvision-bounce-1 0.6s;
+    animation: teamvision-bounce-1 0.6s;
+  }
+}
+
+@-webkit-keyframes teamvision-bounce-1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale(1.2);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+  }
+}
+@-moz-keyframes teamvision-bounce-1 {
+  0% {
+    opacity: 0;
+    -moz-transform: scale(0.5);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: scale(1.2);
+  }
+
+  100% {
+    -moz-transform: scale(1);
+  }
+}
+@keyframes teamvision-bounce-1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+  }
+}
+.teamvision-timeline .teamvision-timeline-content {
+  position: relative;
+  margin-left: 60px;
+  padding: 1em;
+}
+.teamvision-timeline .teamvision-timeline-content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.teamvision-timeline .teamvision-timeline-content h2 {
+  color: #303e49;
+}
+.teamvision-timeline .teamvision-timeline-content p, 
+.teamvision-timeline .teamvision-timeline-content .teamvision-read-more, 
+.teamvision-timeline .teamvision-timeline-content .teamvision-date {
+  font-size: 13px;
+  font-size: 0.8125rem;
+}
+.teamvision-timeline .teamvision-timeline-content .teamvision-read-more, 
+.teamvision-timeline .teamvision-timeline-content .teamvision-date {
+  display: inline-block;
+}
+.teamvision-timeline .teamvision-timeline-content p {
+  margin: 1em 0;
+  line-height: 1.6;
+}
+.teamvision-timeline .teamvision-timeline-content .teamvision-read-more {
+  float: right;
+  padding: 0.5em 1em;
+}
+.teamvision-timeline .no-touch .teamvision-timeline-content .teamvision-read-more:hover {
+  background-color: #bac4cb;
+}
+.teamvision-timeline .teamvision-timeline-content .teamvision-date {
+  float: left;
+  padding: .8em 0;
+  opacity: .7;
+}
+.teamvision-timeline .teamvision-timeline-content::before {
+  content: '';
+  position: absolute;
+  top: 16px;
+  right: 100%;
+  height: 0;
+  width: 0;
+  border: 7px solid transparent;
+}
+@media only screen and (min-width: 768px) {
+  .teamvision-timeline .teamvision-timeline-content h2 {
+    font-size: 20px;
+    font-size: 1.25rem;
+  }
+  .teamvision-timeline .teamvision-timeline-content p {
+    font-size: 16px;
+    font-size: 1rem;
+  }
+  .teamvision-timeline .teamvision-timeline-content .teamvision-read-more, 
+  .teamvision-timeline .teamvision-timeline-content .teamvision-date {
+    font-size: 14px;
+    font-size: 0.875rem;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  .teamvision-timeline .teamvision-timeline-content {
+    margin-left: 0;
+    padding: 1.6em;
+    width: 45%;
+  }
+  .teamvision-timeline .teamvision-timeline-content::before {
+    top: 24px;
+    left: 100%;
+    border-color: transparent;
+  }
+  .teamvision-timeline .teamvision-timeline-content .teamvision-read-more {
+    float: left;
+  }
+  .teamvision-timeline .teamvision-timeline-content .teamvision-date {
+    position: absolute;
+    width: 100%;
+    left: 122%;
+    top: 6px;
+    font-size: 16px;
+    font-size: 1rem;
+  }
+  .teamvision-timeline .teamvision-timeline-block:nth-child(even) .teamvision-timeline-content {
+    float: right;
+  }
+  .teamvision-timeline .teamvision-timeline-block:nth-child(even) .teamvision-timeline-content::before {
+    top: 24px;
+    left: auto;
+    right: 100%;
+    border-color: transparent;
+  }
+  .teamvision-timeline .teamvision-timeline-block:nth-child(even) .teamvision-timeline-content .teamvision-read-more {
+    float: right;
+  }
+  .teamvision-timeline .teamvision-timeline-block:nth-child(even) .teamvision-timeline-content .teamvision-date {
+    left: auto;
+    right: 122%;
+    text-align: right;
+  }
+  .teamvision-timeline .cssanimations .teamvision-timeline-content.is-hidden {
+    visibility: hidden;
+  }
+  .teamvision-timeline .cssanimations .teamvision-timeline-content.bounce-in {
+    visibility: visible;
+    -webkit-animation: teamvision-bounce-2 0.6s;
+    -moz-animation: teamvision-bounce-2 0.6s;
+    animation: teamvision-bounce-2 0.6s;
+  }
+}
+
+@media only screen and (min-width: 1170px) {
+  .teamvision-timeline .cssanimations .teamvision-timeline-block:nth-child(even) .teamvision-timeline-content.bounce-in {
+    -webkit-animation: teamvision-bounce-2-inverse 0.6s;
+    -moz-animation: teamvision-bounce-2-inverse 0.6s;
+    animation: teamvision-bounce-2-inverse 0.6s;
+  }
+}
+@-webkit-keyframes teamvision-bounce-2 {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+  }
+}
+@-moz-keyframes teamvision-bounce-2 {
+  0% {
+    opacity: 0;
+    -moz-transform: translateX(-100px);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: translateX(20px);
+  }
+
+  100% {
+    -moz-transform: translateX(0);
+  }
+}
+@keyframes teamvision-bounce-2 {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-100px);
+    -moz-transform: translateX(-100px);
+    -ms-transform: translateX(-100px);
+    -o-transform: translateX(-100px);
+    transform: translateX(-100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(20px);
+    -moz-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    -o-transform: translateX(20px);
+    transform: translateX(20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@-webkit-keyframes teamvision-bounce-2-inverse {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(-20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+  }
+}
+@-moz-keyframes teamvision-bounce-2-inverse {
+  0% {
+    opacity: 0;
+    -moz-transform: translateX(100px);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: translateX(-20px);
+  }
+
+  100% {
+    -moz-transform: translateX(0);
+  }
+}
+@keyframes teamvision-bounce-2-inverse {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(100px);
+    -moz-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    -o-transform: translateX(100px);
+    transform: translateX(100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(-20px);
+    -moz-transform: translateX(-20px);
+    -ms-transform: translateX(-20px);
+    -o-transform: translateX(-20px);
+    transform: translateX(-20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+.teamvision_format_icon > span {
+    display: block;
+    font-size: 20px !important;
+    height: 60px;
+    padding: 19px;
+    width: 60px;
+	background:#FFF;
+}
+/* STYLE 1 */
+.teamvision-timeline-style1 .teamvision-timeline-content {
+	border-radius: 1em;
+}
+.teamvision-timeline-style1 .teamvision-timeline-img {
+	border-radius:50%;
+}
+.teamvision-timeline-style1 .teamvision-timeline-image {
+	border-radius:3px;
+}
+.teamvision-timeline-style1 .teamvision-timeline-content .teamvision-read-more {
+	border-radius: 0.25em;
+}
+.teamvision-timeline-style1 .teamvision_format_icon > span {
+	border-radius:50%;	
+}
+
+
+/* GALLERY */
+.teamvision-timeline-image {
+	position:relative;
+	overflow:hidden;
+}
+.teamvision-timeline-image .teamvision-timeline-zoom {
+	height:100%;
+	width:100%;
+}
+.teamvision-timeline-image .teamvision-timeline-zoom a {
+	top:-100%;
+	left:50%;
+	width:32px;
+	height:32px;
+	font-size:16px;
+	margin-left:-16px;
+	margin-top:-16px;
+	position:absolute;
+	-webkit-transition: all 0.7s ease;
+  	-moz-transition: all 0.7s ease;
+  	-o-transition: all 0.7s ease;
+  	transition: all 0.7s ease;		
+}
+.teamvision-timeline-image:hover .teamvision-timeline-zoom a {
+	top:50%;
+	-webkit-transition: all 0.7s ease;
+  	-moz-transition: all 0.7s ease;
+  	-o-transition: all 0.7s ease;
+  	transition: all 0.7s ease;		
+}

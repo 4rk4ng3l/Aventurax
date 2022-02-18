@@ -1,0 +1,18 @@
+2022-01-25T05:23:12+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(550): call_user_func(Array, Array)
+#2 /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 /home/customer/www/aventurax.co/publi en /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php en la línea 457
+
+2022-01-25T05:23:23+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(550): call_user_func(Array, Array)
+#2 /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 /home/customer/www/aventurax.co/publi en /home/customer/www/aventurax.co/public_html/wp-content/plugins/elementor/includes/template-library/manager.php en la línea 457
+

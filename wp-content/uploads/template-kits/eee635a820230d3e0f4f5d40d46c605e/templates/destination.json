@@ -1,0 +1,885 @@
+{
+    "version": "0.4",
+    "title": "Destination",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "387789d2",
+            "settings": {
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/Group-10-5.png",
+                    "id": "177",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "top right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "1",
+                    "sizes": []
+                },
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "160",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "background_overlay_image_mobile": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                }
+            },
+            "elements": [
+                {
+                    "id": "6e16590d",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "279668eb",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7f2901e9",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "40",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4c240e73",
+                                            "settings": {
+                                                "title": "Trip Destination",
+                                                "typography_typography": "custom",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": "32",
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "em",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=108488c"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "62e6d4c7",
+                                            "settings": {
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=108488c"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5319c9c9",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "60"
+                                    },
+                                    "elements": [],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "415635c2",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "770eb284",
+                    "settings": {
+                        "_column_size": "100",
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "13e9f48a",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "746f08db",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "225defac",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-7.jpg",
+                                                    "id": "81",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "430",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "15c4b7ba",
+                                            "settings": {
+                                                "title": "Kyoto, Japan",
+                                                "header_size": "h4"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "782ff2a8",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "63e0ac0a",
+                                            "settings": {
+                                                "text": "More Detail",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "43e56543",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5ddb9217",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-2.jpg",
+                                                    "id": "76",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "430",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "13033763",
+                                            "settings": {
+                                                "title": "Milan, Italy",
+                                                "header_size": "h4"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2be3c88d",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3a424ae6",
+                                            "settings": {
+                                                "text": "More Detail",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "bc7036e",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "497b7817",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3103d030",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-3.jpg",
+                                                    "id": "77",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "430",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7072f166",
+                                            "settings": {
+                                                "title": "Santorini, Greece",
+                                                "header_size": "h4"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "ae46fc3",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2e6b2a7a",
+                                            "settings": {
+                                                "text": "More Detail",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "42dd3f6c",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2de0b20",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel.jpg",
+                                                    "id": "70",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "430",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "23d5435",
+                                            "settings": {
+                                                "title": "Bali, Indonesia",
+                                                "header_size": "h4"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "a798c91",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "76f39609",
+                                            "settings": {
+                                                "text": "More Detail",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "61494679",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6bf37a0a",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "34055c6f",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-5.jpg",
+                                                    "id": "79",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "430",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "12f8871b",
+                                            "settings": {
+                                                "title": "Cappadocia, Turkey",
+                                                "header_size": "h4"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "58be1b35",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "f588630",
+                                            "settings": {
+                                                "text": "More Detail",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3d65443",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7fa215fd",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-6.jpg",
+                                                    "id": "80",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "430",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "246bec0",
+                                            "settings": {
+                                                "title": "Paris, France",
+                                                "header_size": "h4"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "117c5fa8",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "491d4d27",
+                                            "settings": {
+                                                "text": "More Detail",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "6081fc06",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d46caad",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "e6afc0",
+                            "settings": {
+                                "structure": "20",
+                                "background_background": "classic",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "80",
+                                    "left": "8",
+                                    "isLinked": ""
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": "1"
+                                },
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=secondary"
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": "1"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7b53a05d",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "40"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4038aebe",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-8.jpg",
+                                                    "id": "82",
+                                                    "alt": "travel",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "318",
+                                                    "sizes": []
+                                                },
+                                                "object-fit": "cover",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "8",
+                                                    "bottom": "8",
+                                                    "left": "8",
+                                                    "isLinked": "1"
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "100",
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": "240",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4545b6da",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "60",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4666be5c",
+                                            "settings": {
+                                                "title": "We Guarantee For New Experience",
+                                                "header_size": "h5",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=108488c"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "33a4107c",
+                                            "settings": {
+                                                "title": "Let\u2019s Talk To Us For \nMore Trip Information",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=108488c"
+                                                },
+                                                "typography_typography": "custom",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": "32",
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "em",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "68d4c49f",
+                                            "settings": {
+                                                "text": "Contact Us",
+                                                "align_mobile": "justify"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents"
+    }
+}

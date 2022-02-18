@@ -1,0 +1,2035 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Caldwell Tour & Travel Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementor.deverust.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Blog",
+            "screenshot": "screenshots\/our-blog.jpg",
+            "source": "templates\/our-blog.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/our-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination Detail",
+            "screenshot": "screenshots\/destination-detail.jpg",
+            "source": "templates\/destination-detail.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/destination-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Post Archive",
+            "screenshot": "screenshots\/post-archive.jpg",
+            "source": "templates\/post-archive.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=post-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Optin",
+            "screenshot": "screenshots\/optin.png",
+            "source": "templates\/optin.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=optin",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Off Canvas",
+            "screenshot": "screenshots\/off-canvas.png",
+            "source": "templates\/off-canvas.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=off-canvas",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Main Homepage",
+            "screenshot": "screenshots\/main-homepage.jpg",
+            "source": "templates\/main-homepage.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/main-homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination Page",
+            "screenshot": "screenshots\/destination-page.jpg",
+            "source": "templates\/destination-page.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/destination-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tour Guides",
+            "screenshot": "screenshots\/tour-guides.jpg",
+            "source": "templates\/tour-guides.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/tour-guides\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementor.deverust.com\/caldwell\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.8",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/placeholder-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/post-archive.json",
+                    "name": "Post Archive"
+                },
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1238,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "palm-trees-at-the-beach-7VJKAWU.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/palm-trees-at-the-beach-7VJKAWU-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 335320,
+            "dimensions": [
+                1277,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7VJKAWU"
+        },
+        {
+            "filename": "dresden-tourists-in-zwinger-dresden-dresden-histor-C3D9N54.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/dresden-tourists-in-zwinger-dresden-dresden-histor-C3D9N54-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/post-archive.json",
+                    "name": "Post Archive"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 132215,
+            "dimensions": [
+                874,
+                583
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-C3D9N54"
+        },
+        {
+            "filename": "coconut-tree-on-beach-D2XFKSA.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/coconut-tree-on-beach-D2XFKSA-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/optin.json",
+                    "name": "Optin"
+                },
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                }
+            ],
+            "filesize": 292087,
+            "dimensions": [
+                1577,
+                1052
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-D2XFKSA"
+        },
+        {
+            "filename": "path-with-palm-trees-along-the-anse-source-d-39-ar-5K69S7X.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/path-with-palm-trees-along-the-anse-source-d-39-ar-5K69S7X-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 399331,
+            "dimensions": [
+                1944,
+                1296
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5K69S7X"
+        },
+        {
+            "filename": "vacation-holiday-background-wallpaper-palm-trees-o-GHLYG7M.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/vacation-holiday-background-wallpaper-palm-trees-o-GHLYG7M-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 318067,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GHLYG7M"
+        },
+        {
+            "filename": "thailand-tropical-sea-34J6D6Y.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/thailand-tropical-sea-34J6D6Y-800x495.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 316218,
+            "dimensions": [
+                1772,
+                1097
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-34J6D6Y"
+        },
+        {
+            "filename": "palm-trees-on-exotic-remote-beach-blue-sky-with-wh-FMZE8X2.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/palm-trees-on-exotic-remote-beach-blue-sky-with-wh-FMZE8X2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 281935,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FMZE8X2"
+        },
+        {
+            "filename": "tropical-beach-with-palms-SWHFJC4.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/tropical-beach-with-palms-SWHFJC4-800x374.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 202333,
+            "dimensions": [
+                1659,
+                776
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SWHFJC4"
+        },
+        {
+            "filename": "luxury-vacation-on-tropical-island-paradise-beach-W9M2U7K.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/luxury-vacation-on-tropical-island-paradise-beach-W9M2U7K-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 328039,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-W9M2U7K"
+        },
+        {
+            "filename": "sunny-paradise-white-sand-beach-on-seychelles-anse-KKDC9XX.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/sunny-paradise-white-sand-beach-on-seychelles-anse-KKDC9XX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 272460,
+            "dimensions": [
+                1773,
+                1182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KKDC9XX"
+        },
+        {
+            "filename": "a-beautiful-empty-tropical-sandy-beach-with-palm-t-9U99M4Y.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/a-beautiful-empty-tropical-sandy-beach-with-palm-t-9U99M4Y-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 376648,
+            "dimensions": [
+                1768,
+                1179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9U99M4Y"
+        },
+        {
+            "filename": "vacation-holiday-background-exotic-wallpaper-sunny-6NUTB96.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/vacation-holiday-background-exotic-wallpaper-sunny-6NUTB96-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 263212,
+            "dimensions": [
+                1750,
+                1167
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6NUTB96"
+        },
+        {
+            "filename": "tourism-tour-boat-moored-at-the-beach-of-shimizu-i-8BTHJP3.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/tourism-tour-boat-moored-at-the-beach-of-shimizu-i-8BTHJP3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 115980,
+            "dimensions": [
+                735,
+                490
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8BTHJP3"
+        },
+        {
+            "filename": "aerial-view-of-beautiful-large-white-cruise-ships-VWPXEF4.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/aerial-view-of-beautiful-large-white-cruise-ships-VWPXEF4-800x546.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                }
+            ],
+            "filesize": 249206,
+            "dimensions": [
+                934,
+                637
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VWPXEF4"
+        },
+        {
+            "filename": "logobrand-caldwell-white-color.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/logobrand-caldwell-white-color.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6715,
+            "dimensions": [
+                301,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "walking-alone-in-the-highlands-TR6QACG.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/walking-alone-in-the-highlands-TR6QACG-800x411.jpg",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                },
+                {
+                    "source": "templates\/post-archive.json",
+                    "name": "Post Archive"
+                }
+            ],
+            "filesize": 380003,
+            "dimensions": [
+                1796,
+                923
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TR6QACG"
+        },
+        {
+            "filename": "logobrand-caldwell-black-color.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/logobrand-caldwell-black-color.png",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 7608,
+            "dimensions": [
+                301,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "a-man-of-athletic-build-at-the-waterfall-a-man-tra-5MLT83D.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/06\/a-man-of-athletic-build-at-the-waterfall-a-man-tra-5MLT83D-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 189246,
+            "dimensions": [
+                1026,
+                685
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5MLT83D"
+        },
+        {
+            "filename": "stylish-traveler-man-in-hat-taking-photos-on-top-o-9CQ6SM7.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/06\/stylish-traveler-man-in-hat-taking-photos-on-top-o-9CQ6SM7-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 99177,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9CQ6SM7"
+        },
+        {
+            "filename": "young-male-traveler-looking-at-his-smart-watch-D4KZ8GS.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-male-traveler-looking-at-his-smart-watch-D4KZ8GS-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 158029,
+            "dimensions": [
+                1900,
+                1268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D4KZ8GS"
+        },
+        {
+            "filename": "exploring-waterfalls-in-philipines-5KV6JK5.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/exploring-waterfalls-in-philipines-5KV6JK5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 162636,
+            "dimensions": [
+                1815,
+                1210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5KV6JK5"
+        },
+        {
+            "filename": "nature-photographer-GVFLDB6.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/06\/nature-photographer-GVFLDB6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 96952,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GVFLDB6"
+        },
+        {
+            "filename": "tourists-on-terrace-near-waterfall-5E5DX4C.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/tourists-on-terrace-near-waterfall-5E5DX4C-800x491.jpg",
+            "templates": [
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                },
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 293276,
+            "dimensions": [
+                959,
+                588
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5E5DX4C"
+        },
+        {
+            "filename": "hamburger.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/hamburger.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 363,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-man-traveling-with-backpack-hiking-in-mounta-HCV9LU4.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-man-traveling-with-backpack-hiking-in-mounta-HCV9LU4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 209893,
+            "dimensions": [
+                1971,
+                1314
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCV9LU4"
+        },
+        {
+            "filename": "08-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/08-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 13365,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "05-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/05-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 18393,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "06-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/06-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 11548,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "01-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/01-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 23215,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "07-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/07-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 21138,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "03-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/03-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 19862,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "02-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/02-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 14867,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "04-holiday-icon-RP8VA93.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/04-holiday-icon-RP8VA93.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 16002,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP8VA93"
+        },
+        {
+            "filename": "stylish-traveler-hipster-woman-portrait-with-camer-PKZ7TRH.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/stylish-traveler-hipster-woman-portrait-with-camer-PKZ7TRH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 115799,
+            "dimensions": [
+                1437,
+                958
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKZ7TRH"
+        },
+        {
+            "filename": "young-backpacker-couple-tour-in-beautiful-temple-AVR9NTZ.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-backpacker-couple-tour-in-beautiful-temple-AVR9NTZ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 142260,
+            "dimensions": [
+                1680,
+                1120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AVR9NTZ"
+        },
+        {
+            "filename": "happy-friends-enjoying-sightseeing-tour-in-the-cit-BVL3RPM.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/happy-friends-enjoying-sightseeing-tour-in-the-cit-BVL3RPM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 163911,
+            "dimensions": [
+                1916,
+                1277
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BVL3RPM"
+        },
+        {
+            "filename": "group-of-friends-stacking-hands-on-peak-of-mountai-289HWUG.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/group-of-friends-stacking-hands-on-peak-of-mountai-289HWUG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 195117,
+            "dimensions": [
+                1936,
+                1291
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-289HWUG"
+        },
+        {
+            "filename": "dotted-worldmap-4MLXK3M.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/dotted-worldmap-4MLXK3M-800x471.png",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 171952,
+            "dimensions": [
+                2015,
+                1187
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4MLXK3M"
+        },
+        {
+            "filename": "couple-iindicating-the-destination-of-the-trip-CGMZDHZ.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/couple-iindicating-the-destination-of-the-trip-CGMZDHZ-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 98044,
+            "dimensions": [
+                1649,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CGMZDHZ"
+        },
+        {
+            "filename": "happy-family-packing-luggage-for-trip-in-bedroom-WVRJ238.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/happy-family-packing-luggage-for-trip-in-bedroom-WVRJ238-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 192715,
+            "dimensions": [
+                1325,
+                885
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WVRJ238"
+        },
+        {
+            "filename": "woman-traveler-PR4DGQE.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/woman-traveler-PR4DGQE-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 105208,
+            "dimensions": [
+                1027,
+                1027
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR4DGQE"
+        },
+        {
+            "filename": "man-traveler-with-backpack-hiking-travel-lifestyle-9VSZP4W.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/man-traveler-with-backpack-hiking-travel-lifestyle-9VSZP4W-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 104769,
+            "dimensions": [
+                955,
+                955
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9VSZP4W"
+        },
+        {
+            "filename": "young-asian-man-traveler-with-backpack-in-reservoi-HLYK7TN.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-asian-man-traveler-with-backpack-in-reservoi-HLYK7TN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 151816,
+            "dimensions": [
+                1397,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HLYK7TN"
+        },
+        {
+            "filename": "woman-traveler-with-backpack-hiking-travel-lifesty-PJ7KZJ9.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/woman-traveler-with-backpack-hiking-travel-lifesty-PJ7KZJ9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 142152,
+            "dimensions": [
+                1367,
+                1367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJ7KZJ9"
+        },
+        {
+            "filename": "young-woman-traveler-using-the-phone-in-the-forest-6HKLGH3.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-woman-traveler-using-the-phone-in-the-forest-6HKLGH3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 124366,
+            "dimensions": [
+                1231,
+                1231
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6HKLGH3"
+        },
+        {
+            "filename": "young-caucasian-man-traveler-with-big-backpack-hik-GHHETWD.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-caucasian-man-traveler-with-big-backpack-hik-GHHETWD-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 77594,
+            "dimensions": [
+                1039,
+                1039
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GHHETWD"
+        },
+        {
+            "filename": "young-asian-woman-traveler-with-retro-camera-and-b-PWRDXEV.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-asian-woman-traveler-with-retro-camera-and-b-PWRDXEV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 217253,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWRDXEV"
+        },
+        {
+            "filename": "close-up-portrait-of-attractive-plus-size-young-wo-P3C48F2.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/close-up-portrait-of-attractive-plus-size-young-wo-P3C48F2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 131262,
+            "dimensions": [
+                593,
+                593
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3C48F2"
+        },
+        {
+            "filename": "colors-face-ZRX7Y9F.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/colors-face-ZRX7Y9F.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 49823,
+            "dimensions": [
+                448,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZRX7Y9F"
+        },
+        {
+            "filename": "handsome-persian-man-with-gray-hair-wearing-jacket-YY43JXY.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/handsome-persian-man-with-gray-hair-wearing-jacket-YY43JXY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 73200,
+            "dimensions": [
+                443,
+                443
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YY43JXY"
+        },
+        {
+            "filename": "restored-chinese-great-wall-in-china-P9BZ2SP.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/restored-chinese-great-wall-in-china-P9BZ2SP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/main-homepage.json",
+                    "name": "Main Homepage"
+                }
+            ],
+            "filesize": 116252,
+            "dimensions": [
+                1017,
+                678
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9BZ2SP"
+        },
+        {
+            "filename": "mountain-lake-between-by-mountains-NLSXYPC.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/mountain-lake-between-by-mountains-NLSXYPC-800x562.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                }
+            ],
+            "filesize": 168383,
+            "dimensions": [
+                1050,
+                737
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NLSXYPC"
+        },
+        {
+            "filename": "mountain-landscape-in-fagaras-mountains-romania-PMFRSGJ.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/mountain-landscape-in-fagaras-mountains-romania-PMFRSGJ-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                }
+            ],
+            "filesize": 281463,
+            "dimensions": [
+                1838,
+                1226
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMFRSGJ"
+        },
+        {
+            "filename": "couple-of-travelers-beautiful-young-couple-holding-FZ6BTPS.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/couple-of-travelers-beautiful-young-couple-holding-FZ6BTPS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                }
+            ],
+            "filesize": 191047,
+            "dimensions": [
+                1876,
+                1251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FZ6BTPS"
+        },
+        {
+            "filename": "cableway-cable-car-PD95ELC.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/cableway-cable-car-PD95ELC-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-page.json",
+                    "name": "Destination Page"
+                }
+            ],
+            "filesize": 285041,
+            "dimensions": [
+                1685,
+                1124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD95ELC"
+        },
+        {
+            "filename": "sports-success-and-achievement-concept-young-hiker-MULSEHX.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/sports-success-and-achievement-concept-young-hiker-MULSEHX-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 115843,
+            "dimensions": [
+                1906,
+                1272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MULSEHX"
+        },
+        {
+            "filename": "fun-friends-travel-and-tourism-concept-beautiful-g-UMB9CJC.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/fun-friends-travel-and-tourism-concept-beautiful-g-UMB9CJC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 169847,
+            "dimensions": [
+                1878,
+                1252
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UMB9CJC"
+        },
+        {
+            "filename": "group-of-happy-friend-traveler-walking-and-having-RYXXANH.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/group-of-happy-friend-traveler-walking-and-having-RYXXANH-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 166639,
+            "dimensions": [
+                1946,
+                1026
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RYXXANH"
+        },
+        {
+            "filename": "portrait-of-happy-handsome-hispanic-tourist-man-th-Y9G5MDN.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/portrait-of-happy-handsome-hispanic-tourist-man-th-Y9G5MDN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 76021,
+            "dimensions": [
+                955,
+                955
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y9G5MDN"
+        },
+        {
+            "filename": "close-up-of-smiling-confident-beautiful-brunette-g-2AQ2CKN.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/close-up-of-smiling-confident-beautiful-brunette-g-2AQ2CKN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 74672,
+            "dimensions": [
+                946,
+                946
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2AQ2CKN"
+        },
+        {
+            "filename": "happy-young-bearded-tourist-man-with-curly-hair-gi-S8MKQKT.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/happy-young-bearded-tourist-man-with-curly-hair-gi-S8MKQKT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 58778,
+            "dimensions": [
+                643,
+                643
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S8MKQKT"
+        },
+        {
+            "filename": "portrait-of-young-happy-african-man-thinking-while-VZRSJ3V.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/portrait-of-young-happy-african-man-thinking-while-VZRSJ3V.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guides.json",
+                    "name": "Tour Guides"
+                }
+            ],
+            "filesize": 34142,
+            "dimensions": [
+                660,
+                660
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VZRSJ3V"
+        },
+        {
+            "filename": "smiling-woman-using-smartphone-and-holding-money-f-DTTWKNG.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/smiling-woman-using-smartphone-and-holding-money-f-DTTWKNG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 91874,
+            "dimensions": [
+                1961,
+                1307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DTTWKNG"
+        },
+        {
+            "filename": "mans-hand-on-map-on-desk-with-traveller-attributes-PCREGE6.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/mans-hand-on-map-on-desk-with-traveller-attributes-PCREGE6-800x478.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 263228,
+            "dimensions": [
+                1590,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCREGE6"
+        },
+        {
+            "filename": "04-faqicon-L6DBKM.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/04-faqicon-L6DBKM.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 1130,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/96-travel-tourism-icons-L6DBKM"
+        },
+        {
+            "filename": "02-faqicon-L6DBKM.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/02-faqicon-L6DBKM.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 1720,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/96-travel-tourism-icons-L6DBKM"
+        },
+        {
+            "filename": "01-faqicon-L6DBKM.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/01-faqicon-L6DBKM.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 958,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/96-travel-tourism-icons-L6DBKM"
+        },
+        {
+            "filename": "03-faqicon-L6DBKM.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/03-faqicon-L6DBKM.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2932,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/96-travel-tourism-icons-L6DBKM"
+        },
+        {
+            "filename": "05-faqicon-L6DBKM.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/05-faqicon-L6DBKM.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2338,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/96-travel-tourism-icons-L6DBKM"
+        },
+        {
+            "filename": "female-travel-agent-talking-to-camera-in-tour-agen-JKGNXAL.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/female-travel-agent-talking-to-camera-in-tour-agen-JKGNXAL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 95424,
+            "dimensions": [
+                1916,
+                1277
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JKGNXAL"
+        },
+        {
+            "filename": "african-tourists-couple-signing-papers-during-cons-SJJYW7H.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/african-tourists-couple-signing-papers-during-cons-SJJYW7H-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 110039,
+            "dimensions": [
+                1906,
+                1271
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SJJYW7H"
+        },
+        {
+            "filename": "camping-in-the-grampians-australia-2VFGDXS.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/camping-in-the-grampians-australia-2VFGDXS-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 271140,
+            "dimensions": [
+                965,
+                644
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2VFGDXS"
+        },
+        {
+            "filename": "bagan-myanmar-temples-PZ76B7F.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/bagan-myanmar-temples-PZ76B7F-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 152184,
+            "dimensions": [
+                840,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ76B7F"
+        },
+        {
+            "filename": "group-of-friends-looking-at-a-map-together-travel-P9J7MA8.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/group-of-friends-looking-at-a-map-together-travel-P9J7MA8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 255885,
+            "dimensions": [
+                1966,
+                1311
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9J7MA8"
+        },
+        {
+            "filename": "adventure-travel-tourism-hike-and-people-concep-2021-08-26-17-35-10-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/adventure-travel-tourism-hike-and-people-concep-2021-08-26-17-35-10-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 153054,
+            "dimensions": [
+                1971,
+                1314
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-travel-tourism-hike-and-people-concept-g-2DSY4MP"
+        },
+        {
+            "filename": "travicon06.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/travicon06.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9621,
+            "dimensions": [
+                333,
+                334
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "travicon05.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/travicon05.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9167,
+            "dimensions": [
+                333,
+                334
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "travicon04.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/travicon04.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 11039,
+            "dimensions": [
+                333,
+                334
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "travicon03.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/travicon03.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6418,
+            "dimensions": [
+                333,
+                334
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "travicon02.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/travicon02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 14268,
+            "dimensions": [
+                333,
+                334
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "travicon01.png",
+            "thumbnail_url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/travicon01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9211,
+            "dimensions": [
+                333,
+                334
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

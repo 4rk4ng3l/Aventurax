@@ -1,0 +1,1653 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Xventure",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscription Form",
+            "screenshot": "screenshots\/subscription-form.png",
+            "source": "templates\/subscription-form.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/subscription-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.png",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination Detail",
+            "screenshot": "screenshots\/destination-detail.jpg",
+            "source": "templates\/destination-detail.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/destination-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination",
+            "screenshot": "screenshots\/destination.jpg",
+            "source": "templates\/destination.json",
+            "preview_url": "https:\/\/kitpro.site\/xventure\/template-kit\/destination\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.1.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.1.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.6",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "ElevationMap-01_byGhostlyPixels-low2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/ElevationMap-01_byGhostlyPixels-low2-800x309.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 284728,
+            "dimensions": [
+                2000,
+                773
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "new-zealand-mountain-scenery-PTFCMYE-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/new-zealand-mountain-scenery-PTFCMYE-cropped-800x417.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 390676,
+            "dimensions": [
+                2304,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/new-zealand-mountain-scenery-PTFCMYE"
+        },
+        {
+            "filename": "mountain-element-3-e1614754974521.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-element-3-800x155.png",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 61585,
+            "dimensions": [
+                2500,
+                486
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ElevationMap-01_byGhostlyPixels-low-square.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/ElevationMap-01_byGhostlyPixels-low-square-800x618.png",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 573777,
+            "dimensions": [
+                2000,
+                1546
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "dolomite-alps-italy-PWDDZS7-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/dolomite-alps-italy-PWDDZS7-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 268489,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dolomite-alps-italy-PWDDZS7"
+        },
+        {
+            "filename": "mountain-element-transparent-e1614755333429.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-element-transparent-800x155.png",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 60105,
+            "dimensions": [
+                2500,
+                486
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hike-in-autumn-season-PWTVHJR-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/hike-in-autumn-season-PWTVHJR-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 388380,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\thike-in-autumn-season-PWTVHJR"
+        },
+        {
+            "filename": "autumn-colors-on-forest-over-lake-in-high-mountain-P3YYGAV-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/autumn-colors-on-forest-over-lake-in-high-mountain-P3YYGAV-compressed-800x1199.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 226800,
+            "dimensions": [
+                1025,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-colors-on-forest-over-lake-in-high-mountain-P3YYGAV"
+        },
+        {
+            "filename": "woman-hiker-with-camera-in-winter-mountains-8HZH2E4.JPG-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/woman-hiker-with-camera-in-winter-mountains-8HZH2E4.JPG-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 264523,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-hiker-with-camera-in-winter-mountains-8HZH2E4"
+        },
+        {
+            "filename": "mountain-scenery-in-italy-D49C8MY-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-scenery-in-italy-D49C8MY-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 211652,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mountain-scenery-in-italy-D49C8MY"
+        },
+        {
+            "filename": "hike-in-patagonia-DX4YWRS-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/hike-in-patagonia-DX4YWRS-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 273289,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\thike-in-patagonia-DX4YWRS"
+        },
+        {
+            "filename": "beautiful-mountain-scenery-PS2Q43D-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/beautiful-mountain-scenery-PS2Q43D-compressed-800x531.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 189558,
+            "dimensions": [
+                1536,
+                1020
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-mountain-scenery-PS2Q43D"
+        },
+        {
+            "filename": "Map-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Map-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 9263,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Camera-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Camera-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 8182,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Tend-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Tend-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 7761,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Backpack-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Backpack-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 10505,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "mountain-scenery-on-a-sunny-day-KF25WLT-compressed-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-scenery-on-a-sunny-day-KF25WLT-compressed-cropped.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 165764,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tmountain-scenery-on-a-sunny-day-KF25WLT"
+        },
+        {
+            "filename": "new-zealand-mountain-scenery-PTFCMYE-compressed-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/new-zealand-mountain-scenery-PTFCMYE-compressed-cropped.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 141959,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/new-zealand-mountain-scenery-PTFCMYE"
+        },
+        {
+            "filename": "tre-cime-dolomite-alps-italy-P3MH5Q6-compressed-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/tre-cime-dolomite-alps-italy-P3MH5Q6-compressed-cropped.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 123632,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tre-cime-dolomite-alps-italy-P3MH5Q6"
+        },
+        {
+            "filename": "enjoying-the-beauty-of-nature-YEECQ28-cropped-horizontal.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/enjoying-the-beauty-of-nature-YEECQ28-cropped-horizontal.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 73791,
+            "dimensions": [
+                600,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/enjoying-the-beauty-of-nature-YEECQ28"
+        },
+        {
+            "filename": "mountain-scenery-on-a-sunny-day-KF25WLT-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-scenery-on-a-sunny-day-KF25WLT-compressed-800x1200.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 312722,
+            "dimensions": [
+                1024,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tmountain-scenery-on-a-sunny-day-KF25WLT"
+        },
+        {
+            "filename": "axventureeeee-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/axventureeeee-1-800x342.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 6763,
+            "dimensions": [
+                886,
+                379
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mountain-scenery-on-a-sunny-day-KF25WLT-compressed-cropped-11.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-scenery-on-a-sunny-day-KF25WLT-compressed-cropped-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 135828,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mountain-scenery-on-a-sunny-day-KF25WLT"
+        },
+        {
+            "filename": "new-zealand-mountain-scenery-PTFCMYE-compressed-cropped-11.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/new-zealand-mountain-scenery-PTFCMYE-compressed-cropped-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 117407,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tnew-zealand-mountain-scenery-PTFCMYE"
+        },
+        {
+            "filename": "tre-cime-dolomite-alps-italy-P3MH5Q6-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/tre-cime-dolomite-alps-italy-P3MH5Q6-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 291924,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\ttre-cime-dolomite-alps-italy-P3MH5Q6"
+        },
+        {
+            "filename": "active-mature-man-hiking-GCBYBTJ-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/active-mature-man-hiking-GCBYBTJ-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 181228,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/active-mature-man-hiking-GCBYBTJ"
+        },
+        {
+            "filename": "tibet-scenery-HRUASFV-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/tibet-scenery-HRUASFV-compressed-800x248.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 170807,
+            "dimensions": [
+                1920,
+                595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\ttibet-scenery-HRUASFV"
+        },
+        {
+            "filename": "dolomite-alps-italy-G9AJ2PZ-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/dolomite-alps-italy-G9AJ2PZ-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 251039,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dolomite-alps-italy-G9AJ2PZ"
+        },
+        {
+            "filename": "designer-using-laptop-at-work-G9EF649-compressed-cropped-300.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/designer-using-laptop-at-work-G9EF649-compressed-cropped-300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 44804,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/designer-using-laptop-at-work-G9EF649"
+        },
+        {
+            "filename": "business-man-in-a-blue-shirt-9VY69D5-compressed-300.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/business-man-in-a-blue-shirt-9VY69D5-compressed-300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 36042,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tbusiness-man-in-a-blue-shirt-9VY69D5"
+        },
+        {
+            "filename": "enjoying-the-beauty-of-nature-YEECQ28-cropped-horizontal-300.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/enjoying-the-beauty-of-nature-YEECQ28-cropped-horizontal-300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 43865,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/enjoying-the-beauty-of-nature-YEECQ28"
+        },
+        {
+            "filename": "mountain-scenery-DMPRSU6-cropped-1920.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-scenery-DMPRSU6-cropped-1920-800x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 335989,
+            "dimensions": [
+                1920,
+                973
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mountain-scenery-DMPRSU6"
+        },
+        {
+            "filename": "Medkit-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Medkit-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7167,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Travel-Car-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Travel-Car-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7742,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Compass-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Compass-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11906,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "hike-in-autumn-season-PWTVHJR-cropped-vertical.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/hike-in-autumn-season-PWTVHJR-cropped-vertical.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 235330,
+            "dimensions": [
+                593,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hike-in-autumn-season-PWTVHJR"
+        },
+        {
+            "filename": "Firewood-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Firewood-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11405,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Binocular-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Binocular-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6660,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "Hat-FB5607.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/Hat-FB5607.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7421,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-outline-icon-LPXYT7F"
+        },
+        {
+            "filename": "autumn-landscape-scenery-in-the-julian-alps-mounta-TRVJB9Z-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/autumn-landscape-scenery-in-the-julian-alps-mounta-TRVJB9Z-compressed-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 274170,
+            "dimensions": [
+                1152,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-landscape-scenery-in-the-julian-alps-mounta-TRVJB9Z"
+        },
+        {
+            "filename": "active-hiker-with-backpack-in-pyrenees-P4CQPGN-compressed-vertical.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/active-hiker-with-backpack-in-pyrenees-P4CQPGN-compressed-vertical.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 176089,
+            "dimensions": [
+                608,
+                1025
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tactive-hiker-with-backpack-in-pyrenees-P4CQPGN"
+        },
+        {
+            "filename": "mountain-valley-in-the-bucegi-mountains-romania-PJLL6C4-compressed-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-valley-in-the-bucegi-mountains-romania-PJLL6C4-compressed-cropped.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 132622,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mountain-valley-in-the-bucegi-mountains-romania-PJLL6C4"
+        },
+        {
+            "filename": "logo-11-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-11-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5423,
+            "dimensions": [
+                479,
+                111
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-11.svg"
+        },
+        {
+            "filename": "logo-5-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-5-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7050,
+            "dimensions": [
+                530,
+                141
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-5.svg"
+        },
+        {
+            "filename": "logo-7-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-7-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6636,
+            "dimensions": [
+                499,
+                117
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-7.svg"
+        },
+        {
+            "filename": "logo-8-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-8-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6441,
+            "dimensions": [
+                569,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-8.svg"
+        },
+        {
+            "filename": "logo-4-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-4-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5477,
+            "dimensions": [
+                422,
+                82
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-4.svg"
+        },
+        {
+            "filename": "logo-3-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-3-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5791,
+            "dimensions": [
+                494,
+                103
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-3.svg"
+        },
+        {
+            "filename": "logo-9-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-9-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6399,
+            "dimensions": [
+                625,
+                63
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-9.svg"
+        },
+        {
+            "filename": "logo-2-1B1413.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/logo-2-1B1413.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5414,
+            "dimensions": [
+                518,
+                123
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-2.svg"
+        },
+        {
+            "filename": "autumn-colors-on-forest-over-lake-in-high-mountain-P3YYGAV-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/autumn-colors-on-forest-over-lake-in-high-mountain-P3YYGAV-cropped-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 304043,
+            "dimensions": [
+                1920,
+                1038
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-colors-on-forest-over-lake-in-high-mountain-P3YYGAV"
+        },
+        {
+            "filename": "man-on-the-mountain-peak-looking-on-mountain-valle-QA5BYS7-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/man-on-the-mountain-peak-looking-on-mountain-valle-QA5BYS7-compressed-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 158663,
+            "dimensions": [
+                1536,
+                1025
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-on-the-mountain-peak-looking-on-mountain-valle-QA5BYS7"
+        },
+        {
+            "filename": "dramatic-winter-scenery-with-snowy-mountain-peaks-QLXNVBU-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/dramatic-winter-scenery-with-snowy-mountain-peaks-QLXNVBU-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 224762,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tdramatic-winter-scenery-with-snowy-mountain-peaks-QLXNVBU"
+        },
+        {
+            "filename": "portrait-of-adventurous-hiker-in-forest-H4SXD8J-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/portrait-of-adventurous-hiker-in-forest-H4SXD8J-compressed-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 214258,
+            "dimensions": [
+                1536,
+                1025
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-adventurous-hiker-in-forest-H4SXD8J"
+        },
+        {
+            "filename": "senior-man-trekking-looking-at-camera-4KYK2PD-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/senior-man-trekking-looking-at-camera-4KYK2PD-cropped.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 77389,
+            "dimensions": [
+                450,
+                528
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/senior-man-trekking-looking-at-camera-4KYK2PD"
+        },
+        {
+            "filename": "stylish-hipster-traveler-walking-in-sunny-forest-i-A9HT66L-portrait-450-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/stylish-hipster-traveler-walking-in-sunny-forest-i-A9HT66L-portrait-450-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83850,
+            "dimensions": [
+                450,
+                528
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-hipster-traveler-walking-in-sunny-forest-i-A9HT66L"
+        },
+        {
+            "filename": "mature-man-by-camping-tent-YP4ZRDS-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mature-man-by-camping-tent-YP4ZRDS-cropped.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 72091,
+            "dimensions": [
+                450,
+                528
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tmature-man-by-camping-tent-YP4ZRDS"
+        },
+        {
+            "filename": "hiking-and-camping-gear-in-mountains-4TY7SUG-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/hiking-and-camping-gear-in-mountains-4TY7SUG-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 147895,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hiking-and-camping-gear-in-mountains-4TY7SUG"
+        },
+        {
+            "filename": "active-hiker-with-backpack-in-pyrenees-P4CQPGN-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/active-hiker-with-backpack-in-pyrenees-P4CQPGN-compressed-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 317381,
+            "dimensions": [
+                1536,
+                1025
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tactive-hiker-with-backpack-in-pyrenees-P4CQPGN"
+        },
+        {
+            "filename": "snow-rackets-and-boots-equipment-on-the-snow-winte-RZJDES6-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/snow-rackets-and-boots-equipment-on-the-snow-winte-RZJDES6-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 171701,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/snow-rackets-and-boots-equipment-on-the-snow-winte-RZJDES6"
+        },
+        {
+            "filename": "mountain-river-in-high-tatra-mountains-slovakia-P88G3CQ-cropped.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-river-in-high-tatra-mountains-slovakia-P88G3CQ-cropped-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 649377,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\tmountain-river-in-high-tatra-mountains-slovakia-P88G3CQ"
+        },
+        {
+            "filename": "mountain-scenery-PS5RXHV-compressed.jpeg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-scenery-PS5RXHV-compressed-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 263982,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mountain-scenery-PS5RXHV"
+        },
+        {
+            "filename": "tre-cime-dolomite-alps-italy-P3MH5Q6-compressed-cropped-11.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/tre-cime-dolomite-alps-italy-P3MH5Q6-compressed-cropped-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 106251,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\ttre-cime-dolomite-alps-italy-P3MH5Q6"
+        },
+        {
+            "filename": "mountain-valley-in-the-bucegi-mountains-romania-PJLL6C4-compressed-cropped-11.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/mountain-valley-in-the-bucegi-mountains-romania-PJLL6C4-compressed-cropped-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 116575,
+            "dimensions": [
+                600,
+                601
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mountain-valley-in-the-bucegi-mountains-romania-PJLL6C4"
+        },
+        {
+            "filename": "montserrat-mountains-scenery-L644HUA-compressed-cropped-11.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/montserrat-mountains-scenery-L644HUA-compressed-cropped-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 89827,
+            "dimensions": [
+                600,
+                601
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/montserrat-mountains-scenery-L644HUA-compressed-cropped-11.jpg\tmontserrat-mountains-scenery-L644HUA"
+        },
+        {
+            "filename": "autumn-landscape-scenery-in-the-julian-alps-mounta-TRVJB9Z-compressed-11.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/xventure\/wp-content\/uploads\/sites\/13\/2021\/02\/autumn-landscape-scenery-in-the-julian-alps-mounta-TRVJB9Z-compressed-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 118952,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-landscape-scenery-in-the-julian-alps-mounta-TRVJB9Z"
+        }
+    ]
+}

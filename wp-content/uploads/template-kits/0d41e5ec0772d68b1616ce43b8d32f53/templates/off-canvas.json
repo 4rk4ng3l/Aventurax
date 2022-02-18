@@ -1,0 +1,437 @@
+{
+    "version": "0.4",
+    "title": "Off Canvas",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "2972836c",
+            "settings": {
+                "gap": "wider",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 80,
+                    "sizes": []
+                },
+                "column_position": "stretch",
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "30",
+                    "bottom": "30",
+                    "left": "30",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1d5688ec",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "927e193",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/logobrand-caldwell-black-color.png",
+                                    "id": 79,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "left",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 185,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7e97a334",
+                            "settings": {
+                                "title": "Let's Travel The World With Us",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "0",
+                                    "bottom": "8",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d9f56ad"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "21b202a7",
+                            "settings": {
+                                "title": "hi@caldwell.domain",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Red Hat Text",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "none",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "8",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "243cfe4f",
+                            "settings": {
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "552ca3f6",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 337,
+                                        "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/06\/a-man-of-athletic-build-at-the-waterfall-a-man-tra-5MLT83D.jpg"
+                                    },
+                                    {
+                                        "id": 338,
+                                        "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/06\/stylish-traveler-man-in-hat-taking-photos-on-top-o-9CQ6SM7.jpg"
+                                    },
+                                    {
+                                        "id": 541,
+                                        "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/young-male-traveler-looking-at-his-smart-watch-D4KZ8GS.jpg"
+                                    },
+                                    {
+                                        "id": 444,
+                                        "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/exploring-waterfalls-in-philipines-5KV6JK5.jpg"
+                                    },
+                                    {
+                                        "id": 335,
+                                        "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/06\/nature-photographer-GVFLDB6.jpg"
+                                    },
+                                    {
+                                        "id": 258,
+                                        "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/tourists-on-terrace-near-waterfall-5E5DX4C.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "d0a659f"
+                                    }
+                                ],
+                                "columns": 3,
+                                "aspect_ratio": "1:1",
+                                "show_all_galleries_label": "All",
+                                "overlay_title": "caption",
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=5ec7628"
+                                },
+                                "columns_tablet": 3,
+                                "columns_mobile": 3,
+                                "thumbnail_image_size": "full",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "208b244",
+                            "settings": {
+                                "title": "Sunshine Street The Sky Tower, No. 112, London, 47385",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary",
+                                    "title_color": "globals\/colors?id=e16f5f5"
+                                },
+                                "align_tablet": "center",
+                                "jkit_transform_rotate": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_transform_rotate_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_transform_rotate_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_glass_blur_level": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_glass_blur_level_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_glass_blur_level_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_element_width": "initial",
+                                "_element_width_tablet": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 265,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4f2e7d98",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "20b9e71"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "bec210c"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-youtube",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "8f490e2"
+                                    },
+                                    {
+                                        "_id": "60bcc90",
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin",
+                                            "library": "fa-brands"
+                                        }
+                                    }
+                                ],
+                                "shape": "circle",
+                                "align": "left",
+                                "icon_color": "custom",
+                                "icon_primary_color": "#00000000",
+                                "icon_secondary_color": "#9B9B99",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "image_border_border": "solid",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "icon_secondary_color": "globals\/colors?id=a047deb",
+                                    "icon_primary_color": "",
+                                    "image_border_color": "globals\/colors?id=a047deb",
+                                    "hover_secondary_color": "globals\/colors?id=89c877a",
+                                    "hover_primary_color": "globals\/colors?id=text",
+                                    "hover_border_color": "globals\/colors?id=text"
+                                },
+                                "align_tablet": "center",
+                                "align_mobile": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "columns": "4",
+                                "_element_width": "auto",
+                                "jkit_transform_rotate": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_transform_rotate_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_transform_rotate_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_glass_blur_level": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_glass_blur_level_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "jkit_glass_blur_level_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "image_border_color": "#9B9B99",
+                                "hover_primary_color": "#FF9901"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "px",
+            "size": 448,
+            "sizes": []
+        },
+        "height_type": "custom",
+        "height": {
+            "unit": "vh",
+            "size": 100,
+            "sizes": []
+        },
+        "horizontal_position": "right",
+        "entrance_animation": "fadeInRight",
+        "exit_animation": "fadeInRight"
+    }
+}

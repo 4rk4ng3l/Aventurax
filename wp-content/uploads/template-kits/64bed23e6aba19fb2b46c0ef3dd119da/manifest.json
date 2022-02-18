@@ -1,0 +1,1003 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Traviny - Traveling Agency Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Home",
+            "screenshot": "screenshots\/traviny-home.jpg",
+            "source": "templates\/traviny-home.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Tours",
+            "screenshot": "screenshots\/traviny-tours.jpg",
+            "source": "templates\/traviny-tours.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-tours\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Single Tour",
+            "screenshot": "screenshots\/traviny-single-tour.jpg",
+            "source": "templates\/traviny-single-tour.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-single-tour\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Destinations",
+            "screenshot": "screenshots\/traviny-destinations.jpg",
+            "source": "templates\/traviny-destinations.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-destinations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Single Destination",
+            "screenshot": "screenshots\/traviny-single-destination.jpg",
+            "source": "templates\/traviny-single-destination.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-single-destination\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - About",
+            "screenshot": "screenshots\/traviny-about.jpg",
+            "source": "templates\/traviny-about.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Contact",
+            "screenshot": "screenshots\/traviny-contact.jpg",
+            "source": "templates\/traviny-contact.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Page 404",
+            "screenshot": "screenshots\/traviny-page-404.jpg",
+            "source": "templates\/traviny-page-404.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-page-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Footer",
+            "screenshot": "screenshots\/traviny-footer.jpg",
+            "source": "templates\/traviny-footer.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Traviny - Header",
+            "screenshot": "screenshots\/traviny-header.jpg",
+            "source": "templates\/traviny-header.json",
+            "preview_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/template-kit\/traviny-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.4.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "topography_pattern-min.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/topography_pattern-min.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                },
+                {
+                    "source": "templates\/traviny-contact.json",
+                    "name": "Traviny - Contact"
+                },
+                {
+                    "source": "templates\/traviny-page-404.json",
+                    "name": "Traviny - Page 404"
+                }
+            ],
+            "filesize": 49098,
+            "dimensions": [
+                596,
+                666
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "everse_travel_hero-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_hero-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                }
+            ],
+            "filesize": 65034,
+            "dimensions": [
+                624,
+                499
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-wearing-black-and-white-blouse-and-white-short-standing-on-forest-2106776\/"
+        },
+        {
+            "filename": "everse_travel_hero_2-min-1.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_hero_2-min-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                }
+            ],
+            "filesize": 47673,
+            "dimensions": [
+                624,
+                499
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/sea-city-landscape-vacation-6306940\/"
+        },
+        {
+            "filename": "traviny_destination_1-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_destination_1-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 68036,
+            "dimensions": [
+                476,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/man-holding-an-umbrella-1822605\/"
+        },
+        {
+            "filename": "traviny_destination_2-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_destination_2-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 93152,
+            "dimensions": [
+                476,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/road-between-buildings-705423\/"
+        },
+        {
+            "filename": "traviny_destination_3-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_destination_3-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 80526,
+            "dimensions": [
+                476,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/landscape-photography-of-beach-resort-1320686\/"
+        },
+        {
+            "filename": "traviny_destination_4-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_destination_4-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 45556,
+            "dimensions": [
+                476,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/silhouette-of-tree-near-body-of-water-during-golden-hour-36717\/"
+        },
+        {
+            "filename": "traviny_feature_icon_1.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_feature_icon_1.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                }
+            ],
+            "filesize": 6816,
+            "dimensions": [
+                248,
+                248
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "traviny_feature_icon_2.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_feature_icon_2.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                }
+            ],
+            "filesize": 5879,
+            "dimensions": [
+                248,
+                248
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "traviny_feature_icon_3.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_feature_icon_3.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                }
+            ],
+            "filesize": 8206,
+            "dimensions": [
+                248,
+                248
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "traveling_video_cover-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traveling_video_cover-min-800x417.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-about.json",
+                    "name": "Traviny - About"
+                }
+            ],
+            "filesize": 50850,
+            "dimensions": [
+                1440,
+                751
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/video\/aerial-video-of-coastline-854752\/"
+        },
+        {
+            "filename": "traviny_testimonial_1.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_testimonial_1.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 9003,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-portrait-of-cute-happy-european-redhead-m-NGH2M9S"
+        },
+        {
+            "filename": "everse_travel_testimonial_2.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_testimonial_2.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 10033,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-with-scarf-laughing-against-gray-back-LR7WGXY"
+        },
+        {
+            "filename": "everse_travel_testimonial_3.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_testimonial_3.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-home.json",
+                    "name": "Traviny - Home"
+                },
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 9769,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-person-riding-a-bike-EATBHWL"
+        },
+        {
+            "filename": "everse_traveling_tours_page_title-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_tours_page_title-min-800x344.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                },
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 143498,
+            "dimensions": [
+                1440,
+                620
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/e3n4_Ts95kM"
+        },
+        {
+            "filename": "traviny_tour_1-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_tour_1-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                }
+            ],
+            "filesize": 37424,
+            "dimensions": [
+                400,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/brown-and-black-pagoda-2853964\/"
+        },
+        {
+            "filename": "traviny_tour_2-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_tour_2-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                }
+            ],
+            "filesize": 40166,
+            "dimensions": [
+                400,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/people-on-park-passing-concrete-gate-2300595\/"
+        },
+        {
+            "filename": "traviny_tour_3-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_tour_3-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                }
+            ],
+            "filesize": 12613,
+            "dimensions": [
+                400,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/people-walking-on-the-pier-3601440\/"
+        },
+        {
+            "filename": "everse_travel_tour_4-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_tour_4-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                }
+            ],
+            "filesize": 32922,
+            "dimensions": [
+                400,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/silver-vehicle-on-concrete-arch-bridge-1291766\/"
+        },
+        {
+            "filename": "traviny_tour_5-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_tour_5-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                }
+            ],
+            "filesize": 31675,
+            "dimensions": [
+                400,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/aerial-photography-of-cityscape-during-night-1738997\/"
+        },
+        {
+            "filename": "traviny_tour_6-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_tour_6-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                }
+            ],
+            "filesize": 22260,
+            "dimensions": [
+                400,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/architecture-building-illuminated-night-290597\/"
+        },
+        {
+            "filename": "everse_travel_newletter-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_newletter-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-tours.json",
+                    "name": "Traviny - Tours"
+                },
+                {
+                    "source": "templates\/traviny-single-tour.json",
+                    "name": "Traviny - Single Tour"
+                },
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                },
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 96957,
+            "dimensions": [
+                790,
+                555
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/lighthouse-by-sea-against-sky-247506\/"
+        },
+        {
+            "filename": "everse_traveling_tour_single_page_title-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_tour_single_page_title-min-800x344.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-tour.json",
+                    "name": "Traviny - Single Tour"
+                }
+            ],
+            "filesize": 491556,
+            "dimensions": [
+                1920,
+                826
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/brown-and-black-pagoda-2853964\/"
+        },
+        {
+            "filename": "everse_travel_tour_single_gallery_1-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_tour_single_gallery_1-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-tour.json",
+                    "name": "Traviny - Single Tour"
+                }
+            ],
+            "filesize": 24302,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/national-park-with-volcanic-valley-and-smoking-mist-4107400\/"
+        },
+        {
+            "filename": "everse_travel_tour_single_gallery_2-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_tour_single_gallery_2-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-tour.json",
+                    "name": "Traviny - Single Tour"
+                }
+            ],
+            "filesize": 18387,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/white-ceramic-plate-filled-with-sushi-3763816\/"
+        },
+        {
+            "filename": "everse_travel_tour_single_gallery_3-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_tour_single_gallery_3-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-tour.json",
+                    "name": "Traviny - Single Tour"
+                }
+            ],
+            "filesize": 19664,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/grey-staircase-near-gate-2873648\/"
+        },
+        {
+            "filename": "traviny_destination_5-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_destination_5-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 71384,
+            "dimensions": [
+                476,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/clear-blue-sea-164041\/"
+        },
+        {
+            "filename": "traviny_destination_6-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/traviny_destination_6-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-destinations.json",
+                    "name": "Traviny - Destinations"
+                }
+            ],
+            "filesize": 95867,
+            "dimensions": [
+                476,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/ancient-architecture-arena-buildings-532263\/"
+        },
+        {
+            "filename": "everse_traveling_single_destination_page_title-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_single_destination_page_title-min-800x344.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 136174,
+            "dimensions": [
+                1440,
+                620
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/man-holding-an-umbrella-1822605\/"
+        },
+        {
+            "filename": "everse_traveling_video_cover-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_video_cover-min-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 328652,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/red-and-gray-pagoda-temple-3408354\/"
+        },
+        {
+            "filename": "everse_traveling_destination_gallery_1-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_destination_gallery_1-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 16008,
+            "dimensions": [
+                295,
+                316
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/person-holding-brush-drawing-kanji-script-1498273\/"
+        },
+        {
+            "filename": "everse_traveling_destination_gallery_2-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_destination_gallery_2-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 17616,
+            "dimensions": [
+                251,
+                246
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-under-umbrella-walking-through-the-street-2187673\/"
+        },
+        {
+            "filename": "everse_traveling_destination_gallery_3-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_destination_gallery_3-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 23293,
+            "dimensions": [
+                295,
+                205
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/brown-and-black-pagoda-2853964\/"
+        },
+        {
+            "filename": "everse_traveling_destination_gallery_4-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_destination_gallery_4-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-single-destination.json",
+                    "name": "Traviny - Single Destination"
+                }
+            ],
+            "filesize": 44413,
+            "dimensions": [
+                295,
+                348
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/person-walking-between-the-river-and-trees-2187457\/"
+        },
+        {
+            "filename": "everse_traveling_about_page_title-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_about_page_title-min-800x344.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-about.json",
+                    "name": "Traviny - About"
+                }
+            ],
+            "filesize": 130835,
+            "dimensions": [
+                1440,
+                620
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/woman-taking-pictures-of-ruins-2087391\/"
+        },
+        {
+            "filename": "everse_traveling_about_featured_1-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_about_featured_1-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-about.json",
+                    "name": "Traviny - About"
+                }
+            ],
+            "filesize": 74235,
+            "dimensions": [
+                620,
+                452
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/person-pointing-a-location-on-the-map-1051075\/"
+        },
+        {
+            "filename": "everse_traveling_about_featured_2-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_about_featured_2-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-about.json",
+                    "name": "Traviny - About"
+                }
+            ],
+            "filesize": 90695,
+            "dimensions": [
+                620,
+                452
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/DNE9iZ1Kqzk"
+        },
+        {
+            "filename": "everse_traveling_tripadvisor_logo.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_tripadvisor_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-about.json",
+                    "name": "Traviny - About"
+                }
+            ],
+            "filesize": 18604,
+            "dimensions": [
+                218,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "everse_traveling_contact_page_title-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_contact_page_title-min-800x344.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-contact.json",
+                    "name": "Traviny - Contact"
+                }
+            ],
+            "filesize": 162959,
+            "dimensions": [
+                1440,
+                620
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/green-grass-field-near-mountain-4215113\/"
+        },
+        {
+            "filename": "everse_404-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_404-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-page-404.json",
+                    "name": "Traviny - Page 404"
+                }
+            ],
+            "filesize": 36804,
+            "dimensions": [
+                624,
+                499
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/car-on-road-2263670\/"
+        },
+        {
+            "filename": "everse_travel_footer-min.jpg",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_travel_footer-min-800x225.jpg",
+            "templates": [
+                {
+                    "source": "templates\/traviny-footer.json",
+                    "name": "Traviny - Footer"
+                }
+            ],
+            "filesize": 45834,
+            "dimensions": [
+                1440,
+                405
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/reflection-of-temple-248082\/"
+        },
+        {
+            "filename": "everse_traveling_logo.png",
+            "thumbnail_url": "https:\/\/demo.deothemes.com\/templatekit\/traviny\/wp-content\/uploads\/sites\/8\/2021\/08\/everse_traveling_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/traviny-header.json",
+                    "name": "Traviny - Header"
+                }
+            ],
+            "filesize": 14300,
+            "dimensions": [
+                98,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

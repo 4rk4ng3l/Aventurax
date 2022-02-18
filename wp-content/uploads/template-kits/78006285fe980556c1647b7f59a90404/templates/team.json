@@ -1,0 +1,1360 @@
+{
+    "version": "0.4",
+    "title": "Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "5e9c5694",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beach-lofoten-archipelago-islands-beach.jpg",
+                    "id": 686
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "10",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4615a6d3",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "256c0215",
+                            "settings": {
+                                "blur": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6e2615ee",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"3305070\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "10219868",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7092bd9"
+                                    },
+                                    {
+                                        "text": "List Item #2",
+                                        "selected_icon": {
+                                            "value": "icon icon-chevron-right",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "85cf6e1",
+                                        "__dynamic__": {
+                                            "text": "[elementor-tag id=\"ad73bd2\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_align": "center",
+                                "icon_color": "#FFFFFF",
+                                "text_color": "#FFFFFF",
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2cad4eb0",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_3.png",
+                    "id": 398
+                },
+                "background_overlay_position": "bottom left",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.7,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "791556a8",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 30,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.2)"
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7de81bdb",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3854bf18",
+                            "settings": {
+                                "title": "Team",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e6da331",
+                            "settings": {
+                                "title": "We Are Passionate Team",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "72b3e3cc",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "Lois J Bragg",
+                                "ekit_team_position": "Founder",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-woman-traveler-wearing-hat-and-poncho-standing-in-water-of-river.jpg",
+                                    "id": 561
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "69c06f65",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "Jo L Love",
+                                "ekit_team_position": "Co-Founder",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/person-traveler-travel-destination-concept.jpg",
+                                    "id": 559
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5ce45710",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "Javier J Jackson",
+                                "ekit_team_position": "Staff",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/young-male-traveler-enjoying-the-streets-of-granada-spain.jpg",
+                                    "id": 604
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "334ee9d0",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "Duncan R Elmore",
+                                "ekit_team_position": "Staff",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/portrait-of-smiling-bearded-man-traveler-forester-hunter-in-the-winter-forest.jpg",
+                                    "id": 605
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "a6e119d",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "James J Davidson",
+                                "ekit_team_position": "Staff",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/traveler-with-a-backpack-relaxing-in-a-city-park-after-riding-on-a-retro-bicycle-.jpg",
+                                    "id": 606
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "19c04b0f",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "Katherine D Savage",
+                                "ekit_team_position": "Staff",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-european-female-traveler-has-touristic-route-explores-scenic-landscape-poses-near-river.jpg",
+                                    "id": 607
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1253d7b",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "Guadalupe R Wright",
+                                "ekit_team_position": "Staff",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/cute-teenager-girl-in-leather-jacket-with-headphones-holding-suitcase-happily-looking-in-camera.jpg",
+                                    "id": 608
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "30d721d2",
+                            "settings": {
+                                "ekit_team_style": "overlay",
+                                "ekit_team_name": "John J Paden",
+                                "ekit_team_position": "Staff",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "ekit_team_label": "Facebook",
+                                        "_id": "8972617"
+                                    },
+                                    {
+                                        "ekit_team_label": "Pinterest",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-instagram-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#e60023",
+                                        "_id": "c1d17df"
+                                    },
+                                    {
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#1da1f2",
+                                        "_id": "b689182"
+                                    }
+                                ],
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/young-photographer-in-wintertime.jpg",
+                                    "id": 610
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_close_icon_changes": {
+                                    "value": "icon icon-cross",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_team_content_box_shadow_box_shadow_type": "yes",
+                                "ekit_team_content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "ekit_team_content_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_image_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_width_mobile": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "14a3f5d5",
+            "settings": {
+                "content_position": "middle",
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_2.png",
+                    "id": 368
+                },
+                "background_overlay_position": "top right",
+                "background_overlay_repeat": "no-repeat",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "ba5e042",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 55,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "606c5af7",
+                            "settings": {
+                                "editor": "<p>Cubilia phasellus tellus fringilla. Libero consectetur semper malesuada venenatis duis ipsum vestibulum. Rhoncus ipsum id eros hendrerit feugiat. Aliquet dui erat aliquam et.<\/p><p>Gravida ullamcorper risus mauris phasellus molestie. Laoreet hendrerit lectus pharetra bibendum orci. Integer fermentum leo elit dictum rutrum. Fermentum sagittis purus metus viverra faucibus. Fames hendrerit et tincidunt nascetur augue. Condimentum nisl fringilla natoque tristique tempus rhoncus porttitor. Fringilla nulla pellentesque rhoncus integer sem felis.<\/p>",
+                                "text_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "70ba847a",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 45,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5bea779d",
+                            "settings": {
+                                "blur": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "600b3db6",
+                            "settings": {
+                                "title": "OUR CORE VALUE",
+                                "header_size": "h6",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4b918b4d",
+                            "settings": {
+                                "title": "Why We Are Different.",
+                                "align_mobile": "center",
+                                "title_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1c1a015a",
+                            "settings": {
+                                "align_mobile": "center",
+                                "text_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "67329d37",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%"
+            },
+            "elements": [
+                {
+                    "id": "295ff971",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "7a5a9c4c",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/swiss-alps.jpg",
+                                    "id": 7
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "object-fit": "cover"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7286f97c",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 920,
+                    "sizes": []
+                },
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_3.png",
+                    "id": 398
+                },
+                "background_overlay_position": "bottom left",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "initial",
+                "background_overlay_bg_width": {
+                    "unit": "%",
+                    "size": 50,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "49509a29",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 30,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.2)"
+                        },
+                        "margin": {
+                            "unit": "em",
+                            "top": "-10",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1f613321",
+                            "settings": {
+                                "title": "Join Us",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1e9ae46a",
+                            "settings": {
+                                "title": "Interested Join In Us? Let's Make New Journey.",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e730f5b",
+                            "settings": {
+                                "text": "Let's Talk With Us",
+                                "align": "center",
+                                "size": "md"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

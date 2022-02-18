@@ -1,0 +1,1377 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "TraveX - Travel & Tour Agency Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.1.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template.coomb.co",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination Grid-3",
+            "screenshot": "screenshots\/destination-grid-3.jpg",
+            "source": "templates\/destination-grid-3.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/destination-grid-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination Grid-1",
+            "screenshot": "screenshots\/destination-grid-1.jpg",
+            "source": "templates\/destination-grid-1.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/destination-grid-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Detailed Product Card-2",
+            "screenshot": "screenshots\/detailed-product-card-2.jpg",
+            "source": "templates\/detailed-product-card-2.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/detailed-product-card-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detailed Product Card-1",
+            "screenshot": "screenshots\/detailed-product-card-1.jpg",
+            "source": "templates\/detailed-product-card-1.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/detailed-product-card-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination Grid-2",
+            "screenshot": "screenshots\/destination-grid-2.jpg",
+            "source": "templates\/destination-grid-2.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/destination-grid-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tour Detail",
+            "screenshot": "screenshots\/tour-detail.jpg",
+            "source": "templates\/tour-detail.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/tour-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination Detail",
+            "screenshot": "screenshots\/destination-detail.jpg",
+            "source": "templates\/destination-detail.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/destination-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destinations",
+            "screenshot": "screenshots\/destinations.jpg",
+            "source": "templates\/destinations.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/destinations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template.coomb.co\/travex\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.1.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "destination_0000_adelie-penguin-antarctica-AZRSMGS.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/destination_0000_adelie-penguin-antarctica-AZRSMGS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-3.json",
+                    "name": "Destination Grid-3"
+                },
+                {
+                    "source": "templates\/detailed-product-card-2.json",
+                    "name": "Detailed Product Card-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 121043,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adelie-penguin-antarctica-AZRSMGS"
+        },
+        {
+            "filename": "Travex-13.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-3.json",
+                    "name": "Destination Grid-3"
+                },
+                {
+                    "source": "templates\/destination-grid-1.json",
+                    "name": "Destination Grid-1"
+                },
+                {
+                    "source": "templates\/detailed-product-card-2.json",
+                    "name": "Detailed Product Card-2"
+                },
+                {
+                    "source": "templates\/detailed-product-card-1.json",
+                    "name": "Detailed Product Card-1"
+                },
+                {
+                    "source": "templates\/destination-grid-2.json",
+                    "name": "Destination Grid-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 210983,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plitvice-lakes-in-croatia-national-park-in-summer--F7WNG6X"
+        },
+        {
+            "filename": "Travex-10.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-3.json",
+                    "name": "Destination Grid-3"
+                },
+                {
+                    "source": "templates\/destination-grid-1.json",
+                    "name": "Destination Grid-1"
+                },
+                {
+                    "source": "templates\/detailed-product-card-1.json",
+                    "name": "Detailed Product Card-1"
+                },
+                {
+                    "source": "templates\/destination-grid-2.json",
+                    "name": "Destination Grid-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 124593,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/great-wall-of-china-at-the-jinshanling-section-5MXQC63"
+        },
+        {
+            "filename": "niagara.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/niagara.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-3.json",
+                    "name": "Destination Grid-3"
+                },
+                {
+                    "source": "templates\/destination-grid-1.json",
+                    "name": "Destination Grid-1"
+                },
+                {
+                    "source": "templates\/destination-grid-2.json",
+                    "name": "Destination Grid-2"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 205832,
+            "dimensions": [
+                730,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/niagara-falls-waterfall-landscape-PBJPYFX"
+        },
+        {
+            "filename": "Travex-11.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-3.json",
+                    "name": "Destination Grid-3"
+                },
+                {
+                    "source": "templates\/destination-grid-2.json",
+                    "name": "Destination Grid-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 126513,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/yacht-in-the-bay-view-from-the-air-travel-image-4QHBU3M"
+        },
+        {
+            "filename": "Travex-12.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-3.json",
+                    "name": "Destination Grid-3"
+                },
+                {
+                    "source": "templates\/detailed-product-card-1.json",
+                    "name": "Detailed Product Card-1"
+                },
+                {
+                    "source": "templates\/destination-grid-2.json",
+                    "name": "Destination Grid-2"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 112768,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-standing-on-edge-oh-lions-head-mountain-in-cap-UJXBAHF"
+        },
+        {
+            "filename": "Maldives.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Maldives.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-grid-1.json",
+                    "name": "Destination Grid-1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 202508,
+            "dimensions": [
+                730,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/maldives-ELSM362"
+        },
+        {
+            "filename": "destination_0001_aerial-view-of-beautiful-hotel-on-the-water-in-oce-4PSJRVZ.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/destination_0001_aerial-view-of-beautiful-hotel-on-the-water-in-oce-4PSJRVZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detailed-product-card-2.json",
+                    "name": "Detailed Product Card-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 173263,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PSJRVZ"
+        },
+        {
+            "filename": "travex-10-1.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-10-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 157785,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-surfer-on-a-blue-wave-HWEDA63"
+        },
+        {
+            "filename": "travex-1.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 137704,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/halong-bay-P27ES5E"
+        },
+        {
+            "filename": "travex-6.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 151173,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/wat-pho-PA387SB"
+        },
+        {
+            "filename": "travex-12-1.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-12-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 133816,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/camel-and-the-pyramids-CF37ERF"
+        },
+        {
+            "filename": "Travex-cover-1.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/Travex-cover-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 146682,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/night-scene-with-pyrenees-mountains-in-france-snow-78S2TAF"
+        },
+        {
+            "filename": "LDG_0000_dubrovnik-traveler-PLYDTAL.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/LDG_0000_dubrovnik-traveler-PLYDTAL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 147500,
+            "dimensions": [
+                720,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dubrovnik-traveler-PLYDTAL"
+        },
+        {
+            "filename": "guidetravex_0003_traveler-in-otaru-city-J4BCW62.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/guidetravex_0003_traveler-in-otaru-city-J4BCW62.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 108099,
+            "dimensions": [
+                720,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/traveler-in-otaru-city-J4BCW62"
+        },
+        {
+            "filename": "guidetravex_0002_man-traveler-with-backpack-hiking-travel-lifestyle-WK3XY2L.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/guidetravex_0002_man-traveler-with-backpack-hiking-travel-lifestyle-WK3XY2L.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 256797,
+            "dimensions": [
+                720,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-traveler-with-backpack-hiking-travel-lifestyle-WK3XY2L"
+        },
+        {
+            "filename": "travex-7.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 150164,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/longtail-boats-moored-on-beach-in-thailand-4UE5NXG"
+        },
+        {
+            "filename": "umi-logo-7-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-7-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 2090,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-8-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-8-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 1865,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-1-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-1-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 1733,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-2-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-2-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 2786,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-3-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-3-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 1830,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-4-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-4-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 2130,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-5-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-5-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 2105,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-6-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2021\/05\/umi-logo-6-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 2047,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "travex-8.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 110160,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/surfer-girl-on-a-wave-bali-indonesia-PKA5E6R"
+        },
+        {
+            "filename": "travex-4.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 144196,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-taj-mahal-at-dawn-a-mausoleum-at-agra-in-north-M4JV7QR"
+        },
+        {
+            "filename": "travex-2.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 139548,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/taj-mahal-in-agra-two-woman-carrying-loads-on-thei-GFEEDTY"
+        },
+        {
+            "filename": "accomm_0000_aerial-view-of-beautiful-hotel-on-the-water-in-oce-4PSJRVZ.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/accomm_0000_aerial-view-of-beautiful-hotel-on-the-water-in-oce-4PSJRVZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                }
+            ],
+            "filesize": 88245,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PSJRVZ"
+        },
+        {
+            "filename": "accomm_0003_hotel-room-at-a-luxury-resort-H5AMQ39.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/accomm_0003_hotel-room-at-a-luxury-resort-H5AMQ39.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                }
+            ],
+            "filesize": 58236,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H5AMQ39"
+        },
+        {
+            "filename": "accomm_0001_the-view-from-the-hotel-pool-P27UTDU.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/accomm_0001_the-view-from-the-hotel-pool-P27UTDU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                }
+            ],
+            "filesize": 97453,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P27UTDU"
+        },
+        {
+            "filename": "accomm_0002_hotel-at-the-mountains-MPJF3HB.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/accomm_0002_hotel-at-the-mountains-MPJF3HB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                }
+            ],
+            "filesize": 83390,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MPJF3HB"
+        },
+        {
+            "filename": "travex-3.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 165898,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wild-camels-PYHFAT4"
+        },
+        {
+            "filename": "place_0000_uluru-australia-LN9GT53.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/place_0000_uluru-australia-LN9GT53.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 164779,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/uluru-australia-LN9GT53"
+        },
+        {
+            "filename": "travex-9.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 171785,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/towards-the-light-in-ancient-egypt-48VDB64"
+        },
+        {
+            "filename": "place_0001_wildebeests-kenya-LPSCY7D.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/place_0001_wildebeests-kenya-LPSCY7D.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 131358,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wildebeests-kenya-LPSCY7D"
+        },
+        {
+            "filename": "travex-5.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/travex-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 132201,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/desert-in-egypt-P6HXD8C"
+        },
+        {
+            "filename": "team-travex_0000_professional-business-team-MHN49RQ.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/team-travex_0000_professional-business-team-MHN49RQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 103144,
+            "dimensions": [
+                720,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-business-team-MHN49RQ"
+        },
+        {
+            "filename": "team-travex_0001_smiling-team-of-young-businesspeople-standing-toge-9SL8GBN.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/team-travex_0001_smiling-team-of-young-businesspeople-standing-toge-9SL8GBN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 107394,
+            "dimensions": [
+                720,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-team-of-young-businesspeople-standing-toge-9SL8GBN"
+        },
+        {
+            "filename": "service_0001_the-view-from-the-hotel-pool-P27UTDU.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/service_0001_the-view-from-the-hotel-pool-P27UTDU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 192274,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-view-from-the-hotel-pool-P27UTDU"
+        },
+        {
+            "filename": "team-travex_0000_group-of-friends-with-backpacks-doing-trekking-exc-8D4CMMP.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/team-travex_0000_group-of-friends-with-backpacks-doing-trekking-exc-8D4CMMP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 87526,
+            "dimensions": [
+                360,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-friends-with-backpacks-doing-trekking-exc-8D4CMMP"
+        },
+        {
+            "filename": "service_0000_female-performer-with-arms-raised-singing-during-m-PU4GYDW.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/service_0000_female-performer-with-arms-raised-singing-during-m-PU4GYDW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 62761,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-performer-with-arms-raised-singing-during-m-PU4GYDW"
+        },
+        {
+            "filename": "team-travex_0001_travel-guide-tourism-in-europe-woman-tourist-with-6GA4TE2.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/travex\/wp-content\/uploads\/sites\/5\/2020\/10\/team-travex_0001_travel-guide-tourism-in-europe-woman-tourist-with-6GA4TE2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 62152,
+            "dimensions": [
+                360,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/travel-guide-tourism-in-europe-woman-tourist-with--6GA4TE2"
+        }
+    ]
+}

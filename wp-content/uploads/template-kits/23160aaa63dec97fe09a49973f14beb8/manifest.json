@@ -1,0 +1,1587 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Aventoura - Template Kit for Travel",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Tour",
+            "screenshot": "screenshots\/single-tour.jpg",
+            "source": "templates\/single-tour.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/single-tour\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tour",
+            "screenshot": "screenshots\/tour.jpg",
+            "source": "templates\/tour.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/tour\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Aventoura - Error 404",
+            "screenshot": "screenshots\/aventoura-error-404.jpg",
+            "source": "templates\/aventoura-error-404.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/?elementor_library=aventoura-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Aventoura - Archive Blog",
+            "screenshot": "screenshots\/aventoura-archive-blog.jpg",
+            "source": "templates\/aventoura-archive-blog.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/?elementor_library=aventoura-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Aventoura - Single Post",
+            "screenshot": "screenshots\/aventoura-single-post.jpg",
+            "source": "templates\/aventoura-single-post.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/?elementor_library=aventoura-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Aventoura - Footer",
+            "screenshot": "screenshots\/aventoura-footer.jpg",
+            "source": "templates\/aventoura-footer.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/?elementor_library=aventoura-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Aventoura - Header",
+            "screenshot": "screenshots\/aventoura-header.png",
+            "source": "templates\/aventoura-header.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/aventoura\/?elementor_library=aventoura-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Prime Slider",
+            "version": "1.14.3",
+            "file": "bdthemes-prime-slider-lite\/bdthemes-prime-slider.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.5.4",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.9.0",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Element Pack Lite - Addon for Elementor",
+            "version": "3.1.1",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.2.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "adventure-is-out-there-e1631464162857.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-is-out-there-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 93299,
+            "dimensions": [
+                720,
+                481
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SRXS8KC"
+        },
+        {
+            "filename": "1_Map.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/1_Map.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3275,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "39_Camping.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/39_Camping.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3021,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "38_Compass.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/38_Compass.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3870,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "33_Backpack.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/33_Backpack.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3245,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "friends-adventures-e1631464208688.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/friends-adventures-800x586.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 118118,
+            "dimensions": [
+                840,
+                616
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QRVV536"
+        },
+        {
+            "filename": "adventure-6-e1631464231201.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 90613,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CBFS55S"
+        },
+        {
+            "filename": "adventure-in-the-sierra-nevadas-with-mack-the-adventure-pug-e1631464259446.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-in-the-sierra-nevadas-with-mack-the-adventure-pug-800x593.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 117954,
+            "dimensions": [
+                840,
+                622
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4KGXGNY"
+        },
+        {
+            "filename": "adventures-await-e1631464282351.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventures-await-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 121889,
+            "dimensions": [
+                840,
+                559
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UKAZNQX"
+        },
+        {
+            "filename": "outdoor-adventure-toddler-e1631464343504.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/outdoor-adventure-toddler-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                }
+            ],
+            "filesize": 138785,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NZ7FWM9"
+        },
+        {
+            "filename": "teenagers-camping-in-forest-summer-adventure--e1631464369508.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/teenagers-camping-in-forest-summer-adventure--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                }
+            ],
+            "filesize": 141312,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM2PKNC"
+        },
+        {
+            "filename": "adventure-3-e1631464396819.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                }
+            ],
+            "filesize": 95540,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-82X7AKR"
+        },
+        {
+            "filename": "a-girl-with-a-backpack-in-the-mountains-tourism-and-adventure-e1631464419382.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/a-girl-with-a-backpack-in-the-mountains-tourism-and-adventure-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 73899,
+            "dimensions": [
+                1080,
+                715
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RSKUVYJ"
+        },
+        {
+            "filename": "happy-woman-at-home-during-coronavirus-quarantine-e1631428132425.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/happy-woman-at-home-during-coronavirus-quarantine-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 15875,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FGWLKHN"
+        },
+        {
+            "filename": "cheerful-man-portrait-e1631428148527.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/cheerful-man-portrait-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10418,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXPGBH3"
+        },
+        {
+            "filename": "pretty-teen-brunette-model-in-fashion-b-boy-cap-e1631428159961.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/pretty-teen-brunette-model-in-fashion-b-boy-cap-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19131,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVUC3SY"
+        },
+        {
+            "filename": "bg_map.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/bg_map.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 108673,
+            "dimensions": [
+                720,
+                538
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contour-mapping-FPLZQF"
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17339,
+            "dimensions": [
+                196,
+                207
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6184,
+            "dimensions": [
+                343,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "Logo-3.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 10240,
+            "dimensions": [
+                191,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "Logo-6.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6403,
+            "dimensions": [
+                165,
+                179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "Logo-7.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 10444,
+            "dimensions": [
+                208,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "Logo-11.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6663,
+            "dimensions": [
+                196,
+                153
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "Logo-12.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo-12.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 12152,
+            "dimensions": [
+                207,
+                273
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-outdoor-travel-logos-Q9733N"
+        },
+        {
+            "filename": "ripped-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/ripped-1-800x338.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/aventoura-archive-blog.json",
+                    "name": "Aventoura - Archive Blog"
+                },
+                {
+                    "source": "templates\/aventoura-single-post.json",
+                    "name": "Aventoura - Single Post"
+                }
+            ],
+            "filesize": 12354,
+            "dimensions": [
+                1898,
+                803
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freeject.net\/2019\/03\/free-download-ripped-paper-png-file.html"
+        },
+        {
+            "filename": "moody-snowy-pine-forest-in-winter-snow-fall-e1631464461513.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/moody-snowy-pine-forest-in-winter-snow-fall-800x287.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 125916,
+            "dimensions": [
+                1080,
+                387
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YF5RVMF"
+        },
+        {
+            "filename": "adventure-round-trip-e1631464502235.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-round-trip-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 116629,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5WGUBBA"
+        },
+        {
+            "filename": "cheerful-hiker-e1631464527132.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/cheerful-hiker-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 70149,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-36NEZ67"
+        },
+        {
+            "filename": "woman-travelling-in-venice-italy-e1631464555562.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/woman-travelling-in-venice-italy-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 45288,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8PUJ9C7"
+        },
+        {
+            "filename": "adventure-together-e1631464581642.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-together-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 136877,
+            "dimensions": [
+                840,
+                630
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EK9VYHL"
+        },
+        {
+            "filename": "adventure-5-e1631464601285.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 95343,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YSHB6QY"
+        },
+        {
+            "filename": "backpackers-on-an-adventure-e1631464626177.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/backpackers-on-an-adventure-800x561.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                }
+            ],
+            "filesize": 150810,
+            "dimensions": [
+                840,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6B73DLF"
+        },
+        {
+            "filename": "adventure-is-worthwhile--e1631464653147.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-is-worthwhile--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                }
+            ],
+            "filesize": 127147,
+            "dimensions": [
+                840,
+                559
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9JCF3WZ"
+        },
+        {
+            "filename": "adventure-4-e1631464678477.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/adventure-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 61135,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4A6GRD8"
+        },
+        {
+            "filename": "travel-and-active-life-concept-adventure-and-travel-in-the-mountains-region--e1631464713517.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/travel-and-active-life-concept-adventure-and-travel-in-the-mountains-region--800x488.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-tour.json",
+                    "name": "Single Tour"
+                }
+            ],
+            "filesize": 56924,
+            "dimensions": [
+                840,
+                513
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DP9SVTS"
+        },
+        {
+            "filename": "go-on-an-adventure--e1631464738599.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/go-on-an-adventure--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour.json",
+                    "name": "Tour"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 109005,
+            "dimensions": [
+                840,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVS4PCD"
+        },
+        {
+            "filename": "portrait-of-smiling-bearded-man-traveler-forester-hunter-in-the-winter-forest-e1631427850296.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/portrait-of-smiling-bearded-man-traveler-forester-hunter-in-the-winter-forest-e1631427837755-800x1065.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 42754,
+            "dimensions": [
+                500,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UUUJCRM"
+        },
+        {
+            "filename": "stylish-hipster-traveler-girl-with-old-photo-camera-exploring-in-snowy-woods-in-winter-e1631427949166.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/stylish-hipster-traveler-girl-with-old-photo-camera-exploring-in-snowy-woods-in-winter-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 56939,
+            "dimensions": [
+                500,
+                665
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3ZHFZKE"
+        },
+        {
+            "filename": "a-man-sits-on-a-step-and-using-a-tablet-pc--e1631428109417.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/a-man-sits-on-a-step-and-using-a-tablet-pc--e1631428097177-800x1068.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 56464,
+            "dimensions": [
+                500,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UD648B3"
+        },
+        {
+            "filename": "beautiful-woman-traveler-wearing-hat-and-poncho-standing-in-water-of-river-e1631427892308.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/beautiful-woman-traveler-wearing-hat-and-poncho-standing-in-water-of-river-e1631427881861-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 64066,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y9QENJY"
+        },
+        {
+            "filename": "young-backpacker-enjoying-of-nature--e1631428039394.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/young-backpacker-enjoying-of-nature--e1631428031183-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 54462,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HS67CMP"
+        },
+        {
+            "filename": "beautiful-european-female-traveler-has-touristic-route-explores-scenic-landscape-poses-near-river-e1631428009769.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/beautiful-european-female-traveler-has-touristic-route-explores-scenic-landscape-poses-near-river-e1631428000603-800x1068.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 48369,
+            "dimensions": [
+                500,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TSQ3P27"
+        },
+        {
+            "filename": "balloon-in-the-sky-over-the-river-and-forest-fog-on-the-background-e1631464771929.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/balloon-in-the-sky-over-the-river-and-forest-fog-on-the-background-800x449.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 52839,
+            "dimensions": [
+                840,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-66CTMKN"
+        },
+        {
+            "filename": "68_Gps.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/68_Gps.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2537,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "14_Mountains.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/14_Mountains.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3590,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "15_World.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/15_World.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3899,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "24_Photo-camera.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/24_Photo-camera.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3879,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "6_Caravan.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/6_Caravan.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2849,
+            "dimensions": [
+                129,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "16_Hotel.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/16_Hotel.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2722,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-and-tourism-outline-icons-SZ9PGD7"
+        },
+        {
+            "filename": "hiking-e1631464792318.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/hiking-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 81980,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6RQMGU4"
+        },
+        {
+            "filename": "clouds-with-blue-sky-e1631464819876.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/clouds-with-blue-sky-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/aventoura-error-404.json",
+                    "name": "Aventoura - Error 404"
+                }
+            ],
+            "filesize": 57952,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-77QL7J6"
+        },
+        {
+            "filename": "fairy-sunrise-in-the-mountain-forest-landscape-in-the-morning-the-fog-over-the-majestic-pine-forest-e1631464841966.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/fairy-sunrise-in-the-mountain-forest-landscape-in-the-morning-the-fog-over-the-majestic-pine-forest-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/aventoura-error-404.json",
+                    "name": "Aventoura - Error 404"
+                }
+            ],
+            "filesize": 38472,
+            "dimensions": [
+                840,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-64XF65A"
+        },
+        {
+            "filename": "feminine-hand-writing-on-a-journal-e1631464865511.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/feminine-hand-writing-on-a-journal-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/aventoura-archive-blog.json",
+                    "name": "Aventoura - Archive Blog"
+                }
+            ],
+            "filesize": 62709,
+            "dimensions": [
+                840,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BSZEU7M"
+        },
+        {
+            "filename": "streets-of-paris-e1631464891735.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/streets-of-paris-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/aventoura-footer.json",
+                    "name": "Aventoura - Footer"
+                }
+            ],
+            "filesize": 146028,
+            "dimensions": [
+                840,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WNZ94NS"
+        },
+        {
+            "filename": "Logo_aventoura_w.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo_aventoura_w-800x189.png",
+            "templates": [
+                {
+                    "source": "templates\/aventoura-footer.json",
+                    "name": "Aventoura - Footer"
+                }
+            ],
+            "filesize": 30470,
+            "dimensions": [
+                1458,
+                344
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_aventoura.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/aventoura\/wp-content\/uploads\/sites\/64\/2021\/09\/Logo_aventoura-800x189.png",
+            "templates": [
+                {
+                    "source": "templates\/aventoura-header.json",
+                    "name": "Aventoura - Header"
+                }
+            ],
+            "filesize": 35318,
+            "dimensions": [
+                1458,
+                344
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "version": "0.4",
+    "title": "Avontur V1 &#8211; Error 404",
+    "type": "error-404",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "error-404",
+        "elementor_pro_conditions": [
+            "include\/singular\/not_found404"
+        ],
+        "additional_template_information": [
+            "This is a \"Error 404\" template for Elementor Pro.",
+            "This template will display on: 404 Page."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "1c049346",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 640,
+                    "sizes": []
+                },
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/aerial-view-of-curve-road-and-colorful-autumn-forest-in-finland-.jpg",
+                    "id": 257
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "15",
+                    "right": "0",
+                    "bottom": "15",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5b818d7e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "cf2ffbc",
+                            "settings": {
+                                "blur": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "da03256",
+                            "settings": {
+                                "title": "404",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=4c5a9dd"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6e331ef",
+                            "settings": {
+                                "title": "Page not found",
+                                "align": "center",
+                                "title_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "74751961",
+                            "settings": {
+                                "look": "line_icon",
+                                "text": "Divider",
+                                "icon": {
+                                    "value": "icon icon-leaf",
+                                    "library": "ekiticons"
+                                },
+                                "color": "#FFFFFF",
+                                "primary_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7015d5dd",
+                            "settings": {
+                                "title": "Sorry, the page you are looking for does not exist",
+                                "header_size": "h5",
+                                "align": "center",
+                                "title_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "667d9fa2",
+                            "settings": {
+                                "text": "Home",
+                                "align": "center",
+                                "size": "md",
+                                "__dynamic__": {
+                                    "link": "[elementor-tag id=\"9367347\" name=\"site-url\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

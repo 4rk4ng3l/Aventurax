@@ -1,0 +1,1 @@
+var arrayOrigen = {Bogota, Cali, Medellin};

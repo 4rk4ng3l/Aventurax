@@ -1,0 +1,2318 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OoohBoi Steroids for Elementor\n"
+"POT-Creation-Date: 2022-01-25 11:49+0100\n"
+"PO-Revision-Date: 2022-01-25 11:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ooohboi-steroids.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: controls/ooohboi-breaking-bad.php:89
+msgid "Enable Breaking Bad?"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:90
+msgid ""
+"By enabling Breaking Bad for this SECTION, all the Columns will break in "
+"order to fit the available width."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:93 controls/ooohboi-breaking-bad.php:175
+#: controls/ooohboi-breaking-bad.php:482 controls/ooohboi-breaking-bad.php:557
+#: controls/ooohboi-bullet.php:51 controls/ooohboi-butter-button.php:102
+#: controls/ooohboi-commentz.php:101 controls/ooohboi-commentz.php:1138
+#: controls/ooohboi-glider.php:119 controls/ooohboi-glider.php:134
+#: controls/ooohboi-glider.php:187 controls/ooohboi-glider.php:420
+#: controls/ooohboi-glider.php:580 controls/ooohboi-glider.php:661
+#: controls/ooohboi-glider.php:682 controls/ooohboi-glider.php:704
+#: controls/ooohboi-glider.php:744 controls/ooohboi-glider.php:779
+#: controls/ooohboi-glider.php:797 controls/ooohboi-glider.php:816
+#: controls/ooohboi-glider.php:835 controls/ooohboi-harakiri.php:128
+#: controls/ooohboi-harakiri.php:271 controls/ooohboi-hover-animator.php:108
+#: controls/ooohboi-hover-animator.php:182 controls/ooohboi-icobox.php:96
+#: controls/ooohboi-icobox.php:112 controls/ooohboi-icobox.php:247
+#: controls/ooohboi-imbox.php:97 controls/ooohboi-imbox.php:114
+#: controls/ooohboi-imbox.php:410 controls/ooohboi-overlaiz.php:64
+#: controls/ooohboi-overlay-underlay.php:105
+#: controls/ooohboi-overlay-underlay.php:1398
+#: controls/ooohboi-overlay-underlay.php:1417 controls/ooohboi-paginini.php:220
+#: controls/ooohboi-perspektive.php:105 controls/ooohboi-photomorph.php:97
+#: controls/ooohboi-photomorph.php:173 controls/ooohboi-pseudo.php:113
+#: controls/ooohboi-searchcop.php:79 controls/ooohboi-shadough.php:50
+#: controls/ooohboi-spacerat.php:101 controls/ooohboi-spacerat.php:378
+#: controls/ooohboi-widget-stalker.php:98
+#: inc/exopite-simple-options/fields/upload.php:131
+msgid "Yes"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:94 controls/ooohboi-breaking-bad.php:176
+#: controls/ooohboi-breaking-bad.php:483 controls/ooohboi-breaking-bad.php:558
+#: controls/ooohboi-bullet.php:52 controls/ooohboi-butter-button.php:103
+#: controls/ooohboi-commentz.php:102 controls/ooohboi-commentz.php:1139
+#: controls/ooohboi-glider.php:120 controls/ooohboi-glider.php:135
+#: controls/ooohboi-glider.php:188 controls/ooohboi-glider.php:421
+#: controls/ooohboi-glider.php:581 controls/ooohboi-glider.php:662
+#: controls/ooohboi-glider.php:683 controls/ooohboi-glider.php:705
+#: controls/ooohboi-glider.php:745 controls/ooohboi-glider.php:780
+#: controls/ooohboi-glider.php:798 controls/ooohboi-glider.php:817
+#: controls/ooohboi-glider.php:836 controls/ooohboi-harakiri.php:129
+#: controls/ooohboi-harakiri.php:272 controls/ooohboi-hover-animator.php:109
+#: controls/ooohboi-hover-animator.php:183 controls/ooohboi-icobox.php:97
+#: controls/ooohboi-icobox.php:113 controls/ooohboi-icobox.php:248
+#: controls/ooohboi-imbox.php:98 controls/ooohboi-imbox.php:115
+#: controls/ooohboi-imbox.php:411 controls/ooohboi-overlaiz.php:65
+#: controls/ooohboi-overlay-underlay.php:106
+#: controls/ooohboi-overlay-underlay.php:1399
+#: controls/ooohboi-overlay-underlay.php:1418 controls/ooohboi-paginini.php:221
+#: controls/ooohboi-perspektive.php:106 controls/ooohboi-photomorph.php:98
+#: controls/ooohboi-photomorph.php:174 controls/ooohboi-pseudo.php:114
+#: controls/ooohboi-searchcop.php:80 controls/ooohboi-shadough.php:51
+#: controls/ooohboi-spacerat.php:102 controls/ooohboi-spacerat.php:379
+#: controls/ooohboi-widget-stalker.php:99
+#: inc/exopite-simple-options/fields/upload.php:129
+msgid "No"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:104
+msgid "Align Columns"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:108 controls/ooohboi-breaking-bad.php:154
+#: controls/ooohboi-breaking-bad.php:337 controls/ooohboi-breaking-bad.php:466
+#: controls/ooohboi-breaking-bad.php:591 controls/ooohboi-breaking-bad.php:615
+msgid "Start"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:109 controls/ooohboi-breaking-bad.php:155
+#: controls/ooohboi-breaking-bad.php:315 controls/ooohboi-breaking-bad.php:338
+#: controls/ooohboi-breaking-bad.php:467 controls/ooohboi-breaking-bad.php:592
+#: controls/ooohboi-breaking-bad.php:616 controls/ooohboi-commentz.php:166
+#: controls/ooohboi-commentz.php:707 controls/ooohboi-widget-stalker.php:227
+msgid "Center"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:110 controls/ooohboi-breaking-bad.php:156
+#: controls/ooohboi-breaking-bad.php:316 controls/ooohboi-breaking-bad.php:339
+#: controls/ooohboi-breaking-bad.php:468 controls/ooohboi-breaking-bad.php:593
+#: controls/ooohboi-breaking-bad.php:617
+#: controls/ooohboi-widget-stalker.php:228
+msgid "End"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:111 controls/ooohboi-breaking-bad.php:594
+msgid "Space Between"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:112 controls/ooohboi-breaking-bad.php:595
+msgid "Space Around"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:113 controls/ooohboi-breaking-bad.php:596
+msgid "Space Evenly"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:128
+msgid "Columns Direction"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:132 controls/ooohboi-breaking-bad.php:572
+msgid "Row"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:133 controls/ooohboi-breaking-bad.php:573
+msgid "Column"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:150
+msgid "Align Items"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:172
+msgid "Sticky Section"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:173
+msgid ""
+"It works for the Inner Section only! It keeps it sticky inside the column to "
+"avoid content overlaps."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:192
+#: controls/ooohboi-widget-stalker.php:110
+msgid "Size Method"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:193
+#: controls/ooohboi-widget-stalker.php:111
+msgid "Use Flex or Units?"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:198 controls/ooohboi-breaking-bad.php:210
+#: controls/ooohboi-widget-stalker.php:115
+#: controls/ooohboi-widget-stalker.php:127
+msgid "Flex"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:199
+#: controls/ooohboi-widget-stalker.php:116
+msgid "Units"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:249 controls/ooohboi-overlaiz.php:78
+#: controls/ooohboi-overlaiz.php:588 controls/ooohboi-overlay-underlay.php:218
+#: controls/ooohboi-overlay-underlay.php:632
+#: controls/ooohboi-overlay-underlay.php:858
+#: controls/ooohboi-overlay-underlay.php:1262 controls/ooohboi-pseudo.php:227
+#: controls/ooohboi-pseudo.php:659 controls/ooohboi-pseudo.php:885
+#: controls/ooohboi-pseudo.php:1304 controls/ooohboi-spacerat.php:273
+#: controls/ooohboi-videomasq.php:123
+msgid "Width"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:255 controls/ooohboi-breaking-bad.php:294
+#: controls/ooohboi-breaking-bad.php:406 controls/ooohboi-teleporter.php:137
+#: controls/ooohboi-teleporter.php:155 controls/ooohboi-teleporter.php:186
+#: controls/ooohboi-teleporter.php:203 controls/ooohboi-widget-stalker.php:169
+#: controls/ooohboi-widget-stalker.php:207
+msgid ""
+"You can enter any acceptable CSS value, for example: 50em, 300px, 100%, "
+"calc(100% - 300px)."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:289 controls/ooohboi-breaking-bad.php:402
+#: controls/ooohboi-widget-stalker.php:203
+msgid "Max Width"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:307
+msgid "Align self Vertically"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:308
+msgid ""
+"Align this Inner Section vertically (when the wrapper element widgets "
+"direction is Row or Inherit)."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:313 controls/ooohboi-overlaiz.php:568
+#: controls/ooohboi-overlay-underlay.php:612
+#: controls/ooohboi-overlay-underlay.php:1243 controls/ooohboi-pseudo.php:639
+#: controls/ooohboi-pseudo.php:1285 controls/ooohboi-spacerat.php:254
+#: controls/ooohboi-videomasq.php:105 controls/ooohboi-widget-stalker.php:225
+msgid "Auto"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:314
+#: controls/ooohboi-widget-stalker.php:226
+msgid "Baseline"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:330
+msgid "Align self Horizontally"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:331
+msgid ""
+"Align this Inner Section horizontally (when the wrapper element widgets "
+"direction is Column)."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:336 controls/ooohboi-breaking-bad.php:465
+msgid "Inherit"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:353
+msgid "Stacking Order"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:355 controls/ooohboi-breaking-bad.php:444
+#: controls/ooohboi-widget-stalker.php:244
+#, php-format
+msgid "More info at %sMozilla%s."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:388
+msgid "Custom Width"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:392
+msgid ""
+"You can enter any acceptable CSS value, for example: 50em, 300px, 100%, "
+"calc(100% - 300px). NOTE: If you want to make the columns wrap, Enable "
+"Breaking Bad for this Column parent SECTION!"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:416 controls/ooohboi-harakiri.php:170
+msgid "Custom Height"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:442
+msgid "Column Order"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:460 controls/ooohboi-breaking-bad.php:611
+msgid "Align vertically"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:461
+msgid "Defines the vertical alignmnet of this column only!"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:479
+msgid "Scrollable Column?"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:499
+msgid "Column Link"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:504 controls/ooohboi-spacerat.php:126
+#: controls/ooohboi-teleporter.php:78
+msgid "None"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:505 controls/ooohboi-spacerat.php:127
+#: controls/ooohboi-teleporter.php:79
+msgid "Custom URL"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:516 controls/ooohboi-spacerat.php:122
+#: controls/ooohboi-spacerat.php:139 controls/ooohboi-teleporter.php:73
+#: controls/ooohboi-teleporter.php:90
+msgid "Link"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:523 controls/ooohboi-spacerat.php:145
+#: controls/ooohboi-teleporter.php:97
+msgid "https://your-link.com"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:543
+msgid "Widget Stalker"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:553 controls/ooohboi-widget-stalker.php:94
+msgid "Enable Widget Stalker?"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:554
+msgid ""
+"NOTE: It changes the default alignment of widgets inside this column - "
+"including the Inner Section widget."
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:568
+msgid "Widgets Direction"
+msgstr ""
+
+#: controls/ooohboi-breaking-bad.php:587
+msgid "Align Widgets"
+msgstr ""
+
+#: controls/ooohboi-bullet.php:47
+#, php-format
+msgid "Move bullet to top%sNEW!%s"
+msgstr ""
+
+#: controls/ooohboi-bullet.php:48
+msgid "NOTE: Takes effect with more than just one line of text!"
+msgstr ""
+
+#: controls/ooohboi-bullet.php:63
+msgid "Margin Top"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:99 controls/ooohboi-searchcop.php:76
+msgid "Enable Butter Buttons?"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:114 controls/ooohboi-icobox.php:122
+msgid "Icon Size"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:115
+msgid "Be sure the icon is selected in the Content tab!"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:149
+msgid "Transition Duration"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:175 controls/ooohboi-commentz.php:183
+#: controls/ooohboi-commentz.php:792 controls/ooohboi-commentz.php:1031
+#: controls/ooohboi-glider.php:334 controls/ooohboi-kontrolz.php:107
+#: controls/ooohboi-paginini.php:59
+msgid "Padding"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:195 controls/ooohboi-harakiri.php:111
+#: controls/ooohboi-overlay-underlay.php:177
+#: controls/ooohboi-overlay-underlay.php:817
+#: controls/ooohboi-photomorph.php:112 controls/ooohboi-pseudo.php:185
+#: controls/ooohboi-pseudo.php:844 controls/ooohboi-teleporter.php:129
+msgid "Normal"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:206
+#: controls/ooohboi-butter-button.php:335
+msgid "Text Color"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:226
+#: controls/ooohboi-butter-button.php:356
+msgctxt "Butter Button Text Shadow Control"
+msgid "Text Shadow"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:238
+#: controls/ooohboi-butter-button.php:368
+msgid "The Background Settings"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:240
+#: controls/ooohboi-butter-button.php:370
+msgid ""
+"This won't make any effect unless you set the original NORMAL and HOVER "
+"background colors to transparent!"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:267
+#: controls/ooohboi-butter-button.php:398 controls/ooohboi-commentz.php:285
+#: controls/ooohboi-commentz.php:466 controls/ooohboi-commentz.php:988
+#: controls/ooohboi-imbox.php:209 controls/ooohboi-imbox.php:223
+#: controls/ooohboi-imbox.php:355 controls/ooohboi-imbox.php:369
+#: controls/ooohboi-overlaiz.php:371 controls/ooohboi-overlaiz.php:390
+#: controls/ooohboi-overlay-underlay.php:491
+#: controls/ooohboi-overlay-underlay.php:509
+#: controls/ooohboi-overlay-underlay.php:1123
+#: controls/ooohboi-overlay-underlay.php:1141 controls/ooohboi-paginini.php:146
+#: controls/ooohboi-paginini.php:195 controls/ooohboi-pseudo.php:517
+#: controls/ooohboi-pseudo.php:535 controls/ooohboi-pseudo.php:1164
+#: controls/ooohboi-pseudo.php:1182
+msgid "Border"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:280
+#: controls/ooohboi-butter-button.php:411 controls/ooohboi-commentz.php:296
+#: controls/ooohboi-commentz.php:478 controls/ooohboi-commentz.php:869
+#: controls/ooohboi-commentz.php:999 controls/ooohboi-glider.php:290
+#: controls/ooohboi-glider.php:537 controls/ooohboi-imbox.php:231
+#: controls/ooohboi-imbox.php:377 controls/ooohboi-kontrolz.php:95
+#: controls/ooohboi-kontrolz.php:207 controls/ooohboi-overlaiz.php:402
+#: controls/ooohboi-overlay-underlay.php:520
+#: controls/ooohboi-overlay-underlay.php:1153 controls/ooohboi-paginini.php:154
+#: controls/ooohboi-paginini.php:203 controls/ooohboi-pseudo.php:547
+#: controls/ooohboi-pseudo.php:1194
+msgid "Border Radius"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:298
+#: controls/ooohboi-butter-button.php:429 controls/ooohboi-icobox.php:55
+#: controls/ooohboi-imbox.php:56 controls/ooohboi-imbox.php:333
+#: controls/ooohboi-overlaiz.php:427
+msgid "Box Shadow"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:324 controls/ooohboi-photomorph.php:142
+#: controls/ooohboi-teleporter.php:174
+msgid "Hover"
+msgstr ""
+
+#: controls/ooohboi-butter-button.php:384
+msgid ""
+"NOTE: this won't make any effect unless you set the original HOVER "
+"background color to transparent!"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:98
+msgid "Enable Commentz"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:99
+msgid "That will allow you to style up the post comments."
+msgstr ""
+
+#: controls/ooohboi-commentz.php:115
+msgid "Heading"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:128
+msgid "Heading style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:144 controls/ooohboi-commentz.php:550
+#: controls/ooohboi-commentz.php:626 controls/ooohboi-commentz.php:932
+#: controls/ooohboi-harakiri.php:243
+msgid "Color"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:161
+msgid "Text alignment"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:165 controls/ooohboi-commentz.php:706
+msgid "Left"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:167 controls/ooohboi-commentz.php:708
+msgid "Right"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:203 controls/ooohboi-commentz.php:642
+#: controls/ooohboi-commentz.php:809 controls/ooohboi-commentz.php:948
+#: controls/ooohboi-commentz.php:1051 controls/ooohboi-commentz.php:1115
+#: controls/ooohboi-paginini.php:75
+msgid "Margin"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:237
+msgid "Comment list style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:253
+msgid "Comment body padding"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:269
+msgid "Comment body margin"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:312 controls/ooohboi-commentz.php:1015
+msgid "Background color"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:328
+msgid "Background color replies"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:345
+msgid "Child comments indent"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:378
+msgid "Gravatar"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:382
+msgid "Hide"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:383
+msgid "Show"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:399
+msgid "Gravatar style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:416 controls/ooohboi-glider.php:510
+msgid "Size"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:448
+msgid "Position"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:510
+msgid "Meta-data User"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:522
+msgid "Meta-data Time"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:535
+msgid "Meta-data style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:566
+msgid "Outer Margin"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:597
+msgid "Comment text"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:610
+msgid "Comment text style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:673
+msgid "Reply button"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:686
+msgid "Reply button style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:702
+msgid "Align button"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:724
+msgid "Text color normal"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:740
+msgid "Text color hover"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:757
+msgid "Background color normal"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:775
+msgid "Background color hover"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:826
+msgid "Border color normal"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:840
+msgid "Border color hover"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:854
+msgid "Border Width"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:902
+msgid "Comment form heading"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:916
+msgid "Comment form heading style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:972
+msgid "Comment form style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:1086
+msgid "Comments Nav"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:1099
+msgid "Comments Nav style"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:1134
+msgid "Hide the Website input field?"
+msgstr ""
+
+#: controls/ooohboi-commentz.php:1135
+msgid ""
+"If you make it hidden, be sure it's not mandatory otherwise the comment can "
+"not be posted!"
+msgstr ""
+
+#: controls/ooohboi-glider.php:115
+msgid "Create Slider?"
+msgstr ""
+
+#: controls/ooohboi-glider.php:116
+msgid ""
+"This container containers will become slidable. TIP: Use this Switch to "
+"refresh your Glider."
+msgstr ""
+
+#: controls/ooohboi-glider.php:131
+msgid "Adaptable height?"
+msgstr ""
+
+#: controls/ooohboi-glider.php:149
+msgid "Slider height"
+msgstr ""
+
+#: controls/ooohboi-glider.php:184
+msgid "Hide Navigation"
+msgstr ""
+
+#: controls/ooohboi-glider.php:205 controls/ooohboi-kontrolz.php:46
+msgid "Navigation styles"
+msgstr ""
+
+#: controls/ooohboi-glider.php:222
+msgid "Arrows Color"
+msgstr ""
+
+#: controls/ooohboi-glider.php:239 controls/ooohboi-kontrolz.php:58
+msgid "Arrows Color - Hover"
+msgstr ""
+
+#: controls/ooohboi-glider.php:256 controls/ooohboi-kontrolz.php:71
+#: controls/ooohboi-paginini.php:47 controls/ooohboi-paginini.php:121
+#: controls/ooohboi-paginini.php:182
+msgid "Background Color"
+msgstr ""
+
+#: controls/ooohboi-glider.php:273 controls/ooohboi-kontrolz.php:83
+msgid "Background Color - Hover"
+msgstr ""
+
+#: controls/ooohboi-glider.php:307
+msgid "Icon size"
+msgstr ""
+
+#: controls/ooohboi-glider.php:360 controls/ooohboi-kontrolz.php:128
+msgid "Calc - Y"
+msgstr ""
+
+#: controls/ooohboi-glider.php:361 controls/ooohboi-glider.php:380
+#: controls/ooohboi-glider.php:398 controls/ooohboi-kontrolz.php:129
+#: controls/ooohboi-kontrolz.php:143 controls/ooohboi-kontrolz.php:156
+msgid "Valid CSS only! Like: 25px or 15em or 100% - 50px or 50% + 3rem"
+msgstr ""
+
+#: controls/ooohboi-glider.php:378 controls/ooohboi-kontrolz.php:141
+msgid "Calc Prev - X"
+msgstr ""
+
+#: controls/ooohboi-glider.php:396 controls/ooohboi-kontrolz.php:154
+msgid "Calc Next - X"
+msgstr ""
+
+#: controls/ooohboi-glider.php:417
+msgid "Hide Pagination"
+msgstr ""
+
+#: controls/ooohboi-glider.php:439 controls/ooohboi-kontrolz.php:170
+msgid "Pagination styles"
+msgstr ""
+
+#: controls/ooohboi-glider.php:455
+msgid "Pagination type"
+msgstr ""
+
+#: controls/ooohboi-glider.php:459
+msgid "Bullets"
+msgstr ""
+
+#: controls/ooohboi-glider.php:460
+msgid "Fraction"
+msgstr ""
+
+#: controls/ooohboi-glider.php:461
+msgid "Progress Bar"
+msgstr ""
+
+#: controls/ooohboi-glider.php:475 controls/ooohboi-kontrolz.php:182
+msgid "Pagination Color"
+msgstr ""
+
+#: controls/ooohboi-glider.php:492 controls/ooohboi-kontrolz.php:195
+msgid "Pagination Color - Active"
+msgstr ""
+
+#: controls/ooohboi-glider.php:557
+msgid "Transition type"
+msgstr ""
+
+#: controls/ooohboi-glider.php:562
+msgid "Slide"
+msgstr ""
+
+#: controls/ooohboi-glider.php:563 controls/ooohboi-teleporter.php:317
+msgid "Fade"
+msgstr ""
+
+#: controls/ooohboi-glider.php:577
+msgid "Show Multiple Slides"
+msgstr ""
+
+#: controls/ooohboi-glider.php:598
+msgid "Slides Per View"
+msgstr ""
+
+#: controls/ooohboi-glider.php:619
+msgid "Slides to Scroll"
+msgstr ""
+
+#: controls/ooohboi-glider.php:620
+msgid "Scrolling multiple slides can break infinite loop."
+msgstr ""
+
+#: controls/ooohboi-glider.php:639
+msgid "Space Between Slides (px)"
+msgstr ""
+
+#: controls/ooohboi-glider.php:657
+msgid "Centered Slides"
+msgstr ""
+
+#: controls/ooohboi-glider.php:658
+msgid "Active slide will be centered."
+msgstr ""
+
+#: controls/ooohboi-glider.php:678
+msgid "Centered Slide Bounds"
+msgstr ""
+
+#: controls/ooohboi-glider.php:679
+msgid ""
+"Active slide will be centered without adding gaps at the beginning and end "
+"of slider."
+msgstr ""
+
+#: controls/ooohboi-glider.php:701
+msgid "Infinite Loop"
+msgstr ""
+
+#: controls/ooohboi-glider.php:720
+msgid "Direction"
+msgstr ""
+
+#: controls/ooohboi-glider.php:725
+msgid "Horizontal"
+msgstr ""
+
+#: controls/ooohboi-glider.php:726
+msgid "Vertical"
+msgstr ""
+
+#: controls/ooohboi-glider.php:740
+msgid "Parallax"
+msgstr ""
+
+#: controls/ooohboi-glider.php:741
+msgid "It will work with Elementor PRO Attributes only."
+msgstr ""
+
+#: controls/ooohboi-glider.php:760
+msgid "Transition speed"
+msgstr ""
+
+#: controls/ooohboi-glider.php:776
+msgid "Enable Touch Move"
+msgstr ""
+
+#: controls/ooohboi-glider.php:794
+msgid "Enable Mousewheel"
+msgstr ""
+
+#: controls/ooohboi-glider.php:812
+msgid "Deblur Slides"
+msgstr ""
+
+#: controls/ooohboi-glider.php:813
+msgid "Round values of slides width and height to prevent blurry texts?"
+msgstr ""
+
+#: controls/ooohboi-glider.php:832
+msgid "Autoplay"
+msgstr ""
+
+#: controls/ooohboi-glider.php:850
+msgid "Autoplay delay"
+msgstr ""
+
+#: controls/ooohboi-glider.php:851
+msgid "In miliseconds! 1000 is one second."
+msgstr ""
+
+#: controls/ooohboi-glider.php:869
+msgid "Control Glider externally!"
+msgstr ""
+
+#: controls/ooohboi-glider.php:871
+msgid ""
+"You can control this Glider instance from any link on this page by adding "
+"the custom class name to the link. \n"
+"\t\t\t\t\tCopy the text entirely and append the slide number to go to at the "
+"end. For instance: glider-NNNNNNN-gotoslide-3"
+msgstr ""
+
+#: controls/ooohboi-glider.php:883
+msgid "This Glider control class"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:91
+msgid "Color - HOVER"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:103
+msgid "Writing Mode"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:109
+msgid "Vertical LR"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:110
+msgid "Vertical RL"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:124
+msgid "Flip"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:146 controls/ooohboi-overlaiz.php:145
+#: controls/ooohboi-overlay-underlay.php:279
+#: controls/ooohboi-overlay-underlay.php:917 controls/ooohboi-pseudo.php:292
+#: controls/ooohboi-pseudo.php:946
+msgid "Height"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:150 controls/ooohboi-harakiri.php:229
+#: controls/ooohboi-hover-animator.php:321
+#: controls/ooohboi-hover-animator.php:518
+#: controls/ooohboi-hover-animator.php:715
+#: controls/ooohboi-hover-animator.php:965
+#: controls/ooohboi-hover-animator.php:1131 controls/ooohboi-overlaiz.php:537
+#: controls/ooohboi-overlaiz.php:567 controls/ooohboi-overlay-underlay.php:581
+#: controls/ooohboi-overlay-underlay.php:611
+#: controls/ooohboi-overlay-underlay.php:1213
+#: controls/ooohboi-overlay-underlay.php:1242
+#: controls/ooohboi-photomorph.php:220 controls/ooohboi-pseudo.php:608
+#: controls/ooohboi-pseudo.php:638 controls/ooohboi-pseudo.php:1255
+#: controls/ooohboi-pseudo.php:1284 controls/ooohboi-spacerat.php:224
+#: controls/ooohboi-spacerat.php:253 controls/ooohboi-videomasq.php:76
+#: controls/ooohboi-videomasq.php:104
+msgid "Default"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:151
+msgid "Inline"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:152 controls/ooohboi-overlaiz.php:571
+#: controls/ooohboi-overlay-underlay.php:615
+#: controls/ooohboi-overlay-underlay.php:1246 controls/ooohboi-pseudo.php:642
+#: controls/ooohboi-pseudo.php:1288 controls/ooohboi-spacerat.php:257
+#: controls/ooohboi-videomasq.php:108
+msgid "Custom"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:171
+msgid "NOTE: [%] unit works properly only if Column height is a fixed value!"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:220
+msgid "Mix Blend Mode"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:222
+#, php-format
+msgid "Learn more about this CSS property: %sMozilla.org%s"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:230
+msgid "Multiply"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:231
+msgid "Screen"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:232 controls/ooohboi-overlay-underlay.php:120
+msgid "Overlay"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:233
+msgid "Darken"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:234
+msgid "Lighten"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:235
+msgid "Color-dodge"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:236
+msgid "Color-burn"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:237
+msgid "Hard-light"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:238
+msgid "Soft-light"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:239
+msgid "Difference"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:240
+msgid "Exclusion"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:241
+msgid "Hue"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:242
+msgid "Saturation"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:244
+msgid "Luminosity"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:268
+msgid "Cut off the bottom margin"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:269
+msgid "NOTE: Only the last child P(aragraph) shall be cut off!"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:105
+msgid "Enable HOVERANIMATOR?"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:120
+msgid ""
+"With Hoveranimator you can animate any widget in this container on mouse-"
+"over event. Animation panel is available under the Advanced tab, per widget!"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:129 controls/ooohboi-icobox.php:75
+#: controls/ooohboi-imbox.php:76 controls/ooohboi-perspektive.php:256
+#: controls/ooohboi-teleporter.php:361
+msgid "Content Overflow"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:130
+msgid ""
+"VISIBLE - makes visible all the elements outside this Column boundaries, "
+"HIDDEN - hides everything outside this Column boundaries."
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:135 controls/ooohboi-icobox.php:80
+#: controls/ooohboi-imbox.php:81 controls/ooohboi-perspektive.php:262
+#: controls/ooohboi-teleporter.php:367
+msgid "Visible"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:136 controls/ooohboi-icobox.php:81
+#: controls/ooohboi-imbox.php:82 controls/ooohboi-perspektive.php:263
+#: controls/ooohboi-teleporter.php:368
+msgid "Hidden"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:179
+msgid "Enable Hoveranimator"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:180
+msgid ""
+"That will allow you to animate this widget on mouse-over event of the parent "
+"column."
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:194
+#: controls/ooohboi-overlay-underlay.php:138
+#: controls/ooohboi-overlay-underlay.php:778 controls/ooohboi-pseudo.php:146
+#: controls/ooohboi-pseudo.php:805
+msgid "Opacity"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:210
+msgid "Opacity Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:235
+msgid "Opacity Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:257
+#: controls/ooohboi-hover-animator.php:454
+#: controls/ooohboi-hover-animator.php:651
+#: controls/ooohboi-hover-animator.php:901
+#: controls/ooohboi-hover-animator.php:1067
+msgid "Duration"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:286
+#: controls/ooohboi-hover-animator.php:483
+#: controls/ooohboi-hover-animator.php:680
+#: controls/ooohboi-hover-animator.php:930
+#: controls/ooohboi-hover-animator.php:1096
+msgid "Delay"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:315
+#: controls/ooohboi-hover-animator.php:512
+#: controls/ooohboi-hover-animator.php:709
+#: controls/ooohboi-hover-animator.php:959
+#: controls/ooohboi-hover-animator.php:1125
+msgid "Easing"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:322
+#: controls/ooohboi-hover-animator.php:519
+#: controls/ooohboi-hover-animator.php:716
+#: controls/ooohboi-hover-animator.php:966
+#: controls/ooohboi-hover-animator.php:1132 controls/ooohboi-photomorph.php:221
+msgid "Ease-in"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:323
+#: controls/ooohboi-hover-animator.php:520
+#: controls/ooohboi-hover-animator.php:717
+#: controls/ooohboi-hover-animator.php:967
+#: controls/ooohboi-hover-animator.php:1133 controls/ooohboi-photomorph.php:222
+msgid "Ease-out"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:324
+#: controls/ooohboi-hover-animator.php:521
+#: controls/ooohboi-hover-animator.php:718
+#: controls/ooohboi-hover-animator.php:968
+#: controls/ooohboi-hover-animator.php:1134 controls/ooohboi-photomorph.php:223
+msgid "Ease-in-out"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:344
+#: controls/ooohboi-overlay-underlay.php:340
+#: controls/ooohboi-overlay-underlay.php:976 controls/ooohboi-pseudo.php:357
+#: controls/ooohboi-pseudo.php:1009
+msgid "Offset Top"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:360
+msgid "Offset Top Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:392
+msgid "Calc Offset Top Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:393
+#: controls/ooohboi-hover-animator.php:440
+#: controls/ooohboi-hover-animator.php:590
+#: controls/ooohboi-hover-animator.php:637 controls/ooohboi-overlaiz.php:130
+#: controls/ooohboi-overlaiz.php:197 controls/ooohboi-overlaiz.php:264
+#: controls/ooohboi-overlaiz.php:331 controls/ooohboi-overlay-underlay.php:263
+#: controls/ooohboi-overlay-underlay.php:385
+#: controls/ooohboi-overlay-underlay.php:902
+#: controls/ooohboi-overlay-underlay.php:1020
+#: controls/ooohboi-overlay-underlay.php:1079 controls/ooohboi-pseudo.php:276
+#: controls/ooohboi-pseudo.php:406 controls/ooohboi-pseudo.php:931
+#: controls/ooohboi-pseudo.php:1057 controls/ooohboi-pseudo.php:1120
+msgid "Enter CSS calc value only! Like: 100% - 50px or 100% + 2em"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:410
+msgid "Offset Top Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:439
+msgid "Calc Offset Top Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:541
+#: controls/ooohboi-overlay-underlay.php:401
+#: controls/ooohboi-overlay-underlay.php:1035 controls/ooohboi-pseudo.php:422
+#: controls/ooohboi-pseudo.php:1072
+msgid "Offset Left"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:557
+msgid "Offset Left Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:589
+msgid "Calc Offset Left Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:607
+msgid "Offset Left Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:636
+msgid "Calc Offset Left Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:738
+msgid "Transforms"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:753
+msgid "ScaleX Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:779
+msgid "ScaleX Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:802
+msgid "ScaleY Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:828
+msgid "ScaleY Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:851
+msgid "Rotation Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:877
+msgid "Rotation Hover"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:988 controls/ooohboi-shadough.php:123
+#: controls/ooohboi-spacerat.php:474
+msgid "Blur"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:1004
+msgid "Blur Normal"
+msgstr ""
+
+#: controls/ooohboi-hover-animator.php:1037
+msgid "Blur Hover"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:92
+#, php-format
+msgid "Prevent Icon and Title Collapse%sNEW!%s"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:93
+msgid "The icon sits atop the title on mobiles. Prevent that, huh?"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:108 controls/ooohboi-icobox.php:243
+#: controls/ooohboi-imbox.php:110 controls/ooohboi-imbox.php:406
+msgid "Overrides"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:109 controls/ooohboi-imbox.php:111
+msgid "Allow more basic controls?"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:159
+msgid "Icon Padding"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:175
+msgid "Icon Margin"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:229 controls/ooohboi-imbox.php:306
+msgid "Box Padding"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:244 controls/ooohboi-imbox.php:407
+msgid "Allow separate controls for Title and Description?"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:258 controls/ooohboi-imbox.php:420
+msgid "Title Padding"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:274 controls/ooohboi-imbox.php:436
+msgid "Title Margin"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:289 controls/ooohboi-imbox.php:452
+msgid "Description Padding"
+msgstr ""
+
+#: controls/ooohboi-icobox.php:305 controls/ooohboi-imbox.php:468
+msgid "Description Margin"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:93
+#, php-format
+msgid "Prevent Image and Title Collapse%sNEW!%s"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:94
+msgid "The thumbnail sits atop the title on mobiles. Prevent that, huh?"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:124
+msgid "Image Size"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:161
+msgid "Image Padding"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:177
+msgid "Image Margin"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:192
+msgid "Enable full-height?"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:193
+msgid ""
+"That will make the photo full-height. Makes sense only if the photo is "
+"placed left or the right-hand side!"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:246
+msgid "Image clip path"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:248 controls/ooohboi-overlaiz.php:470
+#: controls/ooohboi-overlay-underlay.php:716
+#: controls/ooohboi-overlay-underlay.php:1344
+#: controls/ooohboi-photomorph.php:120 controls/ooohboi-photomorph.php:150
+#: controls/ooohboi-pseudo.php:743 controls/ooohboi-pseudo.php:1386
+#: controls/ooohboi-spacerat.php:539
+#, php-format
+msgid ""
+"Enter the full clip-path property! See the copy-paste examples at %sClippy%s"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:319
+msgid "Box Margin"
+msgstr ""
+
+#: controls/ooohboi-imbox.php:392
+msgid "Box z-index"
+msgstr ""
+
+#: controls/ooohboi-kontrolz.php:183
+msgid "NOTE: It works only with the pagination style set to Dots!"
+msgstr ""
+
+#: controls/ooohboi-locomotion.php:41
+msgid "Custom Attributes"
+msgstr ""
+
+#: controls/ooohboi-locomotion.php:49
+msgid "key|value"
+msgstr ""
+
+#: controls/ooohboi-locomotion.php:50
+#, php-format
+msgid ""
+"Set custom attributes for the current element/widget. Each attribute must be "
+"in a separate line! The attribute key and the value MUST be separated by the "
+"pipe character, i.e. data-scroll-offset%s100,50em"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:61
+msgid "Enable Overlaiz?"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:129 controls/ooohboi-overlay-underlay.php:262
+#: controls/ooohboi-overlay-underlay.php:901 controls/ooohboi-pseudo.php:275
+#: controls/ooohboi-pseudo.php:930
+msgid "Calc Width"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:196 controls/ooohboi-overlay-underlay.php:323
+#: controls/ooohboi-overlay-underlay.php:960 controls/ooohboi-pseudo.php:340
+#: controls/ooohboi-pseudo.php:993
+msgid "Calc Height"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:212
+msgid "Position - X"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:263
+msgid "Calc Position - X"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:279
+msgid "Position - Y"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:330
+msgid "Calc Position - Y"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:346
+msgid "Rotation"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:453 controls/ooohboi-overlay-underlay.php:714
+#: controls/ooohboi-overlay-underlay.php:1342 controls/ooohboi-pseudo.php:741
+#: controls/ooohboi-pseudo.php:1384 controls/ooohboi-spacerat.php:537
+msgid "Clip path"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:494
+msgid "Mask"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:495 controls/ooohboi-spacerat.php:185
+#: controls/ooohboi-spacerat.php:354
+msgid ""
+"NOTE: In order to see the effect you should add the Background to the Spacer "
+"widget first!"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:513 controls/ooohboi-overlay-underlay.php:557
+#: controls/ooohboi-overlay-underlay.php:1189 controls/ooohboi-pseudo.php:584
+#: controls/ooohboi-pseudo.php:1231 controls/ooohboi-spacerat.php:201
+msgid "Choose Image Mask"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:514 controls/ooohboi-overlay-underlay.php:558
+#: controls/ooohboi-overlay-underlay.php:1190 controls/ooohboi-pseudo.php:585
+#: controls/ooohboi-pseudo.php:1232 controls/ooohboi-spacerat.php:202
+#, php-format
+msgid ""
+"NOTE: Image Mask should be black-and-transparent SVG file! Anything that’s "
+"100% black in the image mask with be completely visible, anything that’s "
+"transparent will be completely hidden."
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:533 controls/ooohboi-overlay-underlay.php:577
+#: controls/ooohboi-overlay-underlay.php:1209 controls/ooohboi-pseudo.php:604
+#: controls/ooohboi-pseudo.php:1251 controls/ooohboi-spacerat.php:220
+#: controls/ooohboi-videomasq.php:72
+msgid "Mask position"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:538 controls/ooohboi-overlay-underlay.php:582
+#: controls/ooohboi-overlay-underlay.php:1214 controls/ooohboi-pseudo.php:609
+#: controls/ooohboi-pseudo.php:1256 controls/ooohboi-spacerat.php:225
+#: controls/ooohboi-videomasq.php:77
+msgid "Center Center"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:539 controls/ooohboi-overlay-underlay.php:583
+#: controls/ooohboi-overlay-underlay.php:1215 controls/ooohboi-pseudo.php:610
+#: controls/ooohboi-pseudo.php:1257 controls/ooohboi-spacerat.php:226
+#: controls/ooohboi-videomasq.php:78
+msgid "Center Left"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:540 controls/ooohboi-overlay-underlay.php:584
+#: controls/ooohboi-overlay-underlay.php:1216 controls/ooohboi-pseudo.php:611
+#: controls/ooohboi-pseudo.php:1258 controls/ooohboi-spacerat.php:227
+#: controls/ooohboi-videomasq.php:79
+msgid "Center Right"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:541 controls/ooohboi-overlay-underlay.php:585
+#: controls/ooohboi-overlay-underlay.php:1217 controls/ooohboi-pseudo.php:612
+#: controls/ooohboi-pseudo.php:1259 controls/ooohboi-spacerat.php:228
+#: controls/ooohboi-videomasq.php:80
+msgid "Top Center"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:542 controls/ooohboi-overlay-underlay.php:586
+#: controls/ooohboi-overlay-underlay.php:1218 controls/ooohboi-pseudo.php:613
+#: controls/ooohboi-pseudo.php:1260 controls/ooohboi-spacerat.php:229
+#: controls/ooohboi-videomasq.php:81
+msgid "Top Left"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:543 controls/ooohboi-overlay-underlay.php:587
+#: controls/ooohboi-overlay-underlay.php:1219 controls/ooohboi-pseudo.php:614
+#: controls/ooohboi-pseudo.php:1261 controls/ooohboi-spacerat.php:230
+#: controls/ooohboi-videomasq.php:82
+msgid "Top Right"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:544 controls/ooohboi-overlay-underlay.php:588
+#: controls/ooohboi-overlay-underlay.php:1220 controls/ooohboi-pseudo.php:615
+#: controls/ooohboi-pseudo.php:1262 controls/ooohboi-spacerat.php:231
+#: controls/ooohboi-videomasq.php:83
+msgid "Bottom Center"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:545 controls/ooohboi-overlay-underlay.php:589
+#: controls/ooohboi-overlay-underlay.php:1221 controls/ooohboi-pseudo.php:616
+#: controls/ooohboi-pseudo.php:1263 controls/ooohboi-spacerat.php:232
+#: controls/ooohboi-videomasq.php:84
+msgid "Bottom Left"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:546 controls/ooohboi-overlay-underlay.php:590
+#: controls/ooohboi-overlay-underlay.php:1222 controls/ooohboi-pseudo.php:617
+#: controls/ooohboi-pseudo.php:1264 controls/ooohboi-spacerat.php:233
+#: controls/ooohboi-videomasq.php:85
+msgid "Bottom Right"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:563 controls/ooohboi-overlay-underlay.php:607
+#: controls/ooohboi-overlay-underlay.php:1238 controls/ooohboi-pseudo.php:634
+#: controls/ooohboi-pseudo.php:1280 controls/ooohboi-spacerat.php:249
+#: controls/ooohboi-videomasq.php:100
+msgid "Mask size"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:569 controls/ooohboi-overlay-underlay.php:613
+#: controls/ooohboi-overlay-underlay.php:1244 controls/ooohboi-pseudo.php:640
+#: controls/ooohboi-pseudo.php:1286 controls/ooohboi-spacerat.php:255
+#: controls/ooohboi-videomasq.php:106
+msgid "Cover"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:570 controls/ooohboi-overlay-underlay.php:614
+#: controls/ooohboi-overlay-underlay.php:1245 controls/ooohboi-pseudo.php:641
+#: controls/ooohboi-pseudo.php:1287 controls/ooohboi-spacerat.php:256
+#: controls/ooohboi-videomasq.php:107
+msgid "Contain"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:645 controls/ooohboi-overlay-underlay.php:687
+#: controls/ooohboi-overlay-underlay.php:1316 controls/ooohboi-pseudo.php:714
+#: controls/ooohboi-pseudo.php:1358 controls/ooohboi-spacerat.php:327
+#: controls/ooohboi-videomasq.php:172
+msgid "Mask repeat"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:649 controls/ooohboi-overlay-underlay.php:691
+#: controls/ooohboi-overlay-underlay.php:1320 controls/ooohboi-pseudo.php:718
+#: controls/ooohboi-pseudo.php:1362 controls/ooohboi-spacerat.php:331
+#: controls/ooohboi-videomasq.php:176
+msgid "No-repeat"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:650 controls/ooohboi-overlay-underlay.php:692
+#: controls/ooohboi-overlay-underlay.php:1321 controls/ooohboi-pseudo.php:719
+#: controls/ooohboi-pseudo.php:1363 controls/ooohboi-spacerat.php:332
+#: controls/ooohboi-videomasq.php:177
+msgid "Repeat"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:651 controls/ooohboi-overlay-underlay.php:693
+#: controls/ooohboi-overlay-underlay.php:1322 controls/ooohboi-pseudo.php:720
+#: controls/ooohboi-pseudo.php:1364 controls/ooohboi-spacerat.php:333
+#: controls/ooohboi-videomasq.php:178
+msgid "Repeat-x"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:652 controls/ooohboi-overlay-underlay.php:694
+#: controls/ooohboi-overlay-underlay.php:1323 controls/ooohboi-pseudo.php:721
+#: controls/ooohboi-pseudo.php:1365 controls/ooohboi-spacerat.php:334
+#: controls/ooohboi-videomasq.php:179
+msgid "Repeat-y"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:672 controls/ooohboi-overlay-underlay.php:737
+#: controls/ooohboi-overlay-underlay.php:1365 controls/ooohboi-pseudo.php:764
+#: controls/ooohboi-pseudo.php:1407
+msgid "Z-Index"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:102
+msgid "Enable PoopArt?"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:174
+#: controls/ooohboi-overlay-underlay.php:814 controls/ooohboi-pseudo.php:182
+#: controls/ooohboi-pseudo.php:841
+msgid "Blend Mode"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:201
+#: controls/ooohboi-overlay-underlay.php:841 controls/ooohboi-pseudo.php:210
+#: controls/ooohboi-pseudo.php:868
+msgid "Position and Size"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:324
+#: controls/ooohboi-overlay-underlay.php:446
+#: controls/ooohboi-overlay-underlay.php:961 controls/ooohboi-pseudo.php:341
+#: controls/ooohboi-pseudo.php:471 controls/ooohboi-pseudo.php:994
+msgid "Enter CSS calc value only! Like: 45% + 85px or 100% - 3em"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:384
+#: controls/ooohboi-overlay-underlay.php:1019 controls/ooohboi-pseudo.php:405
+#: controls/ooohboi-pseudo.php:1056
+msgid "Calc Offset Top"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:445
+#: controls/ooohboi-overlay-underlay.php:1078 controls/ooohboi-pseudo.php:470
+#: controls/ooohboi-pseudo.php:1119
+msgid "Calc Offset Left"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:463
+#: controls/ooohboi-overlay-underlay.php:1095 controls/ooohboi-pseudo.php:488
+#: controls/ooohboi-pseudo.php:1136
+msgid "Rotate"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:540
+msgid "Overlay Mask"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:759
+msgid "Underlay"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1173
+msgid "Underlay Mask"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1395
+msgid "Get rid of the Horizontal scroller?"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1396
+msgid ""
+"OoohBoi POOOPART may cause Horizontal Scroller to show up. This is how you "
+"can remove it."
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1414
+msgid "Baseline Grid"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1415
+msgid "Baseline grid helps you maintain accuracy and consistency"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1428
+msgid "Grid style"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1432
+msgid "Squares"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1433
+msgid "Vertical lines"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1434
+msgid "Horizontal lines"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1444
+msgid "Grid color"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1455
+msgid "Grid size"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1479
+msgid "Vertical Spacing"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:1503
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: controls/ooohboi-paginini.php:91
+msgid "Page Number Padding"
+msgstr ""
+
+#: controls/ooohboi-paginini.php:108
+msgid "Page numbers"
+msgstr ""
+
+#: controls/ooohboi-paginini.php:133
+msgid "Background Color - HOVER"
+msgstr ""
+
+#: controls/ooohboi-paginini.php:169
+msgid "Current Page"
+msgstr ""
+
+#: controls/ooohboi-paginini.php:218
+msgid "Unstyle Prev and Next?"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:101
+msgid "Enable Perspektive?"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:102
+msgid ""
+"NOTE: Perspektive interferes with z-index! The background of the element "
+"with the Perspektive will not be affected by the Perspektive."
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:117
+msgid "Perspective"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:150
+msgid "Perspective Origin"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:175
+msgid "Translate Z"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:208
+msgid "Rotate X"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:232
+msgid "Rotate Y"
+msgstr ""
+
+#: controls/ooohboi-perspektive.php:257
+msgid "Just in case the wrapper is \"overflow: hidden\""
+msgstr ""
+
+#: controls/ooohboi-photogiraffe.php:46
+msgid "Enable PhotoGiraffe"
+msgstr ""
+
+#: controls/ooohboi-photogiraffe.php:47
+msgid ""
+"That will make the photo full-height. Be sure that the parent conteiner "
+"(Column) uses the fixed height."
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:94
+msgid "Enable PhotoMorph"
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:95
+msgid ""
+"That will allow you to add the custom clip-path for both Normal and Hover "
+"Image widget."
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:170
+msgid "Animate Hover?"
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:171
+msgid ""
+"To ensure the smooth transition, be sure that the number of nodes of the "
+"Normal state clip-path EQUALS the number of nodes of the Hover state!"
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:187
+msgid "Animation duration"
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:214
+msgid "Animation effect"
+msgstr ""
+
+#: controls/ooohboi-photomorph.php:239
+msgid "Animation delay"
+msgstr ""
+
+#: controls/ooohboi-pseudo.php:109
+msgid "Enable Pseudo?"
+msgstr ""
+
+#: controls/ooohboi-pseudo.php:110
+msgid ""
+"This is how you can create and manage :before and :after pseudo elements for "
+"this column"
+msgstr ""
+
+#: controls/ooohboi-pseudo.php:128
+msgid "Before"
+msgstr ""
+
+#: controls/ooohboi-pseudo.php:567
+msgid "Before Mask"
+msgstr ""
+
+#: controls/ooohboi-pseudo.php:786
+msgid "After"
+msgstr ""
+
+#: controls/ooohboi-pseudo.php:1214
+msgid "After Mask"
+msgstr ""
+
+#: controls/ooohboi-searchcop.php:91
+msgid "Search Target"
+msgstr ""
+
+#: controls/ooohboi-searchcop.php:96
+msgid "Search Posts"
+msgstr ""
+
+#: controls/ooohboi-searchcop.php:97
+msgid "Search Pages"
+msgstr ""
+
+#: controls/ooohboi-searchcop.php:98
+msgid "Search Products"
+msgstr ""
+
+#: controls/ooohboi-searchcop.php:99
+msgid "Search All"
+msgstr ""
+
+#: controls/ooohboi-shadough.php:46
+msgid "Enable Shadough?"
+msgstr ""
+
+#: controls/ooohboi-shadough.php:47
+msgid "Creates a shadow that conforms to the shape."
+msgstr ""
+
+#: controls/ooohboi-shadough.php:61 controls/ooohboi-spacerat.php:408
+msgid "Offset X"
+msgstr ""
+
+#: controls/ooohboi-shadough.php:92 controls/ooohboi-spacerat.php:441
+msgid "Offset Y"
+msgstr ""
+
+#: controls/ooohboi-shadough.php:153 controls/ooohboi-spacerat.php:506
+msgid "Shadow Color"
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:97
+msgid "Enable SpaceRat?"
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:98
+msgid "Awesome gear for the pretty-much dull Spacer widget."
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:157 controls/ooohboi-teleporter.php:109
+msgid "Cursor Pointer"
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:158 controls/ooohboi-teleporter.php:110
+msgid "Keep the default cursor or show pointer on Hover?"
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:184
+msgid "SpaceRat Mask"
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:376
+msgid "Add shadow?"
+msgstr ""
+
+#: controls/ooohboi-spacerat.php:391
+msgid "Define Shadow"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:61
+msgid "Enable Teleporter"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:136 controls/ooohboi-teleporter.php:181
+msgid "Content Position - X"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:154 controls/ooohboi-teleporter.php:199
+msgid "Content Position - Y"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:216
+msgid "Teleport to parent"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:217
+msgid "Column Hover event is teleported to the parent element instead!"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:232
+msgid "Which parent?"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:238
+msgid "Section"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:239
+msgid "Container"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:251
+msgid "Disable on Tablet"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:266
+msgid "Disable on Mobile"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:294
+msgid "Overlay Color"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:311
+msgid "Hover effect"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:318
+msgid "Zoom"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:319
+msgid "Stutter"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:331
+msgid "Effect Duration"
+msgstr ""
+
+#: controls/ooohboi-teleporter.php:362
+msgid "Strongly advised: HIDDEN."
+msgstr ""
+
+#: controls/ooohboi-videomasq.php:54
+msgid "Choose Video Mask"
+msgstr ""
+
+#: controls/ooohboi-videomasq.php:55
+#, php-format
+msgid ""
+"NOTE: The video mask should be black-and-transparent SVG file! Anything "
+"that’s 100% black in the mask image with be completely visible, anything "
+"that’s transparent will be completely hidden."
+msgstr ""
+
+#: controls/ooohboi-widget-stalker.php:95
+msgid ""
+"NOTE: Position, alignment, direction and justification of all widgets is "
+"controlled by the parent Container!"
+msgstr ""
+
+#: controls/ooohboi-widget-stalker.php:165
+msgid "Widget width"
+msgstr ""
+
+#: controls/ooohboi-widget-stalker.php:220
+msgid "Align self"
+msgstr ""
+
+#: controls/ooohboi-widget-stalker.php:221
+msgid "Align this widget vertically"
+msgstr ""
+
+#: controls/ooohboi-widget-stalker.php:242
+msgid "Widget Order"
+msgstr ""
+
+#: inc/common-functions.php:43
+msgid "What's New?"
+msgstr ""
+
+#: inc/common-functions.php:56
+msgid "Manage Extensions"
+msgstr ""
+
+#: inc/common-functions.php:62
+#, php-format
+msgid ""
+"%sThe following extensions are currently available with Steroids for "
+"Elementor add-on. Enable or disable particular extension by switching it ON "
+"or OFF.%s"
+msgstr ""
+
+#: inc/common-functions.php:69
+#, php-format
+msgid ""
+"%sAllows you to change the writing mode of the Heading and Text Editor "
+"widgets%s"
+msgstr ""
+
+#: inc/common-functions.php:76
+#, php-format
+msgid "%sAdd an overlay or underlay ghost-element to any Elementor Widget%s"
+msgstr ""
+
+#: inc/common-functions.php:83
+#, php-format
+msgid ""
+"%sAn awesome set of options for the Background Overlay element manipulation%s"
+msgstr ""
+
+#: inc/common-functions.php:90
+#, php-format
+msgid "%sIt allows you to style up the posts pagination in Elementor%s"
+msgstr ""
+
+#: inc/common-functions.php:97
+#, php-format
+msgid "%sA must to have extension for the Section and Columns%s"
+msgstr ""
+
+#: inc/common-functions.php:104
+#, php-format
+msgid "%sThe content slider made out of Section and Columns (Swiper)%s"
+msgstr ""
+
+#: inc/common-functions.php:111
+#, php-format
+msgid "%sMake the Image widget full-height of the container%s"
+msgstr ""
+
+#: inc/common-functions.php:118
+#, php-format
+msgid "%sThe Column hover controls for an exceptional effects%s"
+msgstr ""
+
+#: inc/common-functions.php:125
+#, php-format
+msgid "%sDecide what to search for; posts only, pages only or everything%s"
+msgstr ""
+
+#: inc/common-functions.php:132
+#, php-format
+msgid ""
+"%sAdd the SVG mask to the Section video background and let the video play "
+"inside any shape%s"
+msgstr ""
+
+#: inc/common-functions.php:139
+#, php-format
+msgid "%sDesign awesome buttons in Elementor%s"
+msgstr ""
+
+#: inc/common-functions.php:146
+#, php-format
+msgid "%sA small set of options that allow you to move widgets in 3D space%s"
+msgstr ""
+
+#: inc/common-functions.php:153
+#, php-format
+msgid "%sCreate the shadow that conforms the shape%s"
+msgstr ""
+
+#: inc/common-functions.php:160
+#, php-format
+msgid ""
+"%sAllows you to add the clip-path to the Image widget for Normal and Hover "
+"state%s"
+msgstr ""
+
+#: inc/common-functions.php:167
+#, php-format
+msgid "%sAllows you to style up the post comments."
+msgstr ""
+
+#: inc/common-functions.php:174
+#, php-format
+msgid "%sAdds new shine to the Spacer widget."
+msgstr ""
+
+#: inc/common-functions.php:181
+#, php-format
+msgid "%sImage Box widget extra controls"
+msgstr ""
+
+#: inc/common-functions.php:188
+#, php-format
+msgid "%sIcon Box widget extra controls"
+msgstr ""
+
+#: inc/common-functions.php:195
+#, php-format
+msgid "%sAnimate widgets on columns mouse-over event"
+msgstr ""
+
+#: inc/common-functions.php:202
+#, php-format
+msgid ""
+"%sAllows you to additionaly style Image Carousel and Media Carousel controls"
+"%s"
+msgstr ""
+
+#: inc/common-functions.php:209
+#, php-format
+msgid "%sStack widgets like flex elements%s"
+msgstr ""
+
+#: inc/common-functions.php:216
+#, php-format
+msgid "%sTake control over the Column's pseudo elements%s"
+msgstr ""
+
+#: inc/common-functions.php:223
+#, php-format
+msgid "%sAllows you to move the Icon List widget bullet to top%s"
+msgstr ""
+
+#: inc/common-functions.php:231
+msgid "Manage JS Libraries"
+msgstr ""
+
+#: inc/common-functions.php:237
+#, php-format
+msgid ""
+"%sThe following libraries are currently available with Steroids for "
+"Elementor add-on. Enable or disable particular library by switching it ON or "
+"OFF.%s"
+msgstr ""
+
+#: inc/common-functions.php:243
+msgid "LOCOMOTIVE SCROLL"
+msgstr ""
+
+#: inc/common-functions.php:244
+#, php-format
+msgid ""
+"%1$sDetection of elements in viewport and smooth scrolling with parallax.%3$s"
+"%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/common-functions.php:255
+msgid "Enable for Tablets"
+msgstr ""
+
+#: inc/common-functions.php:256
+msgid "Enable for Mobiles"
+msgstr ""
+
+#: inc/common-functions.php:265
+msgid "Multiplier"
+msgstr ""
+
+#: inc/common-functions.php:266
+#, php-format
+msgid "%sBoost/reduce scrolling speed. 1 is the default.%s"
+msgstr ""
+
+#: inc/common-functions.php:275
+msgid "Refresh on resize?"
+msgstr ""
+
+#: inc/common-functions.php:276
+msgid ""
+"Things get messy on resize. That will do the silent page refresh upon the "
+"window resize/orientationchange."
+msgstr ""
+
+#: inc/common-functions.php:283
+msgid "Enable freehand mode?"
+msgstr ""
+
+#: inc/common-functions.php:284
+#, php-format
+msgid ""
+"That removes all the default %sdata-scroll-section%s attributes so you can "
+"set them at will."
+msgstr ""
+
+#: inc/common-functions.php:295
+#, php-format
+msgid ""
+"%1$s A lightweight JavaScript animation library with a simple, yet powerful "
+"API.%3$s%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/common-functions.php:302
+#, php-format
+msgid ""
+"%1$s Create badass fluid and smooth transitions between your website's pages."
+"%3$s%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/common-functions.php:316
+#, php-format
+msgid ""
+"%1$sGreenSock's GSAP JavaScript animation library (including Draggable).%3$s"
+"%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/common-functions.php:323
+#, php-format
+msgid "%1$sLet your page react to scroll changes.%3$s%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/common-functions.php:330
+#, php-format
+msgid ""
+"%1$sAnimates the scroll position of the window or a DOM element.%3$s"
+"%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/common-functions.php:337
+#, php-format
+msgid ""
+"%1$sAnimate anything (SVG, DOM, canvas, generic objects, whatever) along a "
+"motion path in any browser.%3$s%4$sSOURCE%5$s%2$s"
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:710
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:733
+msgid "Settings"
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:796
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:800
+msgid "Plugin Options"
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:1500
+msgid "ERROR:"
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:1501
+msgid "This field class is not available!"
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:1573
+msgid "Saving..."
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:1573
+msgid "Saved Successfully."
+msgstr ""
+
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:1596
+#: inc/exopite-simple-options/exopite-simple-options-framework-class.php:1611
+msgid "Save Settings"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/attached.php:45
+#, php-format
+msgid "There is no attachment with type %s for this %s."
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:41
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:42
+msgid "Are you sure, you want to overwrite existing options?"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:42
+msgid "Import a Backup"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:46
+msgid "Download Backup"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:49
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:50
+msgid "Are you sure, you want to reset all options?"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/backup.php:50
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/gallery.php:25
+msgid "Add to gallery"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/gallery.php:26
+msgid "Select images for gallery"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/gallery.php:27
+msgid "Add"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/group.php:350
+msgid "Max items:"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/image.php:77
+msgid "Add Image"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/typography.php:81
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/typography.php:87
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/typography.php:177
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:73
+msgid "Drop files here"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:83
+msgid "Select files"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:86
+msgid "Upload"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:90
+msgid "Processing dropped files..."
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:108
+#: inc/exopite-simple-options/fields/upload.php:140
+msgid "Cancel"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:110
+msgid "Retry"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:112
+msgid "Delete"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:121
+msgid "Close"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:142
+msgid "Ok"
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:181
+msgid "Max amount of files: "
+msgstr ""
+
+#: inc/exopite-simple-options/fields/upload.php:182
+msgid "Max file upload size: "
+msgstr ""
+
+#: inc/exopite-simple-options/fields/video.php:74
+msgid "Add Video"
+msgstr ""
+
+#: inc/exopite-simple-options/assets/editors/ace/worker-coffee.js:1
+msgid "arguments"
+msgstr ""
+
+#: inc/exopite-simple-options/assets/editors/ace/worker-coffee.js:1
+msgid "RegExp"
+msgstr ""
+
+#: inc/exopite-simple-options/assets/editors/ace/worker-coffee.js:1
+msgid "Math"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OoohBoi Steroids for Elementor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An awesome set of tools, options and settings that expand Elementor "
+"defaults. Instead of creating new Elementor Widgets, these act like an "
+"upgrade of existing options or the self-standing panels."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "OoohBoi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.youtube.com/c/OoohBoi"
+msgstr ""

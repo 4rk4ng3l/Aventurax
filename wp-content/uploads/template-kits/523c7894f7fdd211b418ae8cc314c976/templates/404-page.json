@@ -1,0 +1,431 @@
+{
+    "version": "0.4",
+    "title": "404 Page",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1be603ab",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1500,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_position": "center center",
+                "background_size": "cover",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "60",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "40",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6a348dee",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_position": "initial",
+                        "background_ypos": {
+                            "unit": "px",
+                            "size": -130,
+                            "sizes": []
+                        },
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "70",
+                            "right": "0",
+                            "bottom": "70",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "background_position_tablet": "center center",
+                        "background_size_tablet": "cover",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "20",
+                            "bottom": "100",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "70",
+                            "right": "0",
+                            "bottom": "70",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "background_color": "#F2F5F6",
+                        "__globals__": {
+                            "background_color": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6a7ad6b6",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1310,
+                                    "sizes": []
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "structure": "20",
+                                "reverse_order_mobile": "reverse-mobile"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2fbe6d4e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "content_position": "center",
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "20",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "12798c0b",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/Asset-1_5.png",
+                                                    "id": 480
+                                                },
+                                                "image_size": "full",
+                                                "align": "left",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 39,
+                                                    "sizes": []
+                                                },
+                                                "align_mobile": "center",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 55,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeIn"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "28ed55ea",
+                                            "settings": {
+                                                "title": "Sorry, the page you are looking for does not exist",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=secondary",
+                                                    "typography_typography": "globals\/typography?id=260ca47"
+                                                },
+                                                "align_mobile": "center",
+                                                "_animation": "fadeIn",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "62e1477f",
+                                            "settings": {
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "100",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align_mobile": "center",
+                                                "_margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeIn",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1ba164fe",
+                                            "settings": {
+                                                "text": "Back to Homepage",
+                                                "align": "left",
+                                                "background_color": "#2B2B2B00",
+                                                "hover_color": "#FFFFFF",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "40",
+                                                    "bottom": "20",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "button_hover_border_color": "#2B2B2B",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "border_color": "#2B2B2B",
+                                                "align_tablet": "left",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "button_text_color": "globals\/colors?id=primary",
+                                                    "button_background_hover_color": "globals\/colors?id=primary"
+                                                },
+                                                "link": {
+                                                    "url": "https:\/\/kit.juliha.com\/walkon\/home\/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "align_mobile": "center",
+                                                "_animation": "fadeIn",
+                                                "_animation_delay": 400
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6552fd27",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 247,
+                                                "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/stefan-stefancik-0wMmxNB6Xzc-unsplash.jpeg"
+                                            },
+                                            {
+                                                "id": 143,
+                                                "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/cody-board-Y4d9lT7uZHM-unsplash.jpeg"
+                                            },
+                                            {
+                                                "id": 139,
+                                                "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/jared-rice-qErAC7r1Q8E-unsplash.jpeg"
+                                            },
+                                            {
+                                                "id": 137,
+                                                "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/iswanto-arif-u0lAovoUsaU-unsplash.jpeg"
+                                            },
+                                            {
+                                                "id": 136,
+                                                "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/le-tan-qF0_dB5fJyA-unsplash.jpeg"
+                                            },
+                                            {
+                                                "id": 120,
+                                                "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/fabio-comparelli-uq2E2V4LhCY-unsplash.jpeg"
+                                            }
+                                        ],
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "animation": "fadeIn",
+                                        "animation_delay": 200
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1601f3d2",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/cover_Asset-3_5.png",
+                                                    "id": 482
+                                                },
+                                                "image_size": "full",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-5",
+                                                    "right": "-5",
+                                                    "bottom": "-5",
+                                                    "left": "-5",
+                                                    "isLinked": true
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

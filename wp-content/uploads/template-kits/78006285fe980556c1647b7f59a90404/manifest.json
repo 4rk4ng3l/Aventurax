@@ -1,0 +1,1479 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Avontur - Template Kit For Adventure Travel & Tourism",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/brosurku.online\/kits",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.png",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.png",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.png",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.png",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Avontur V1 - Error 404",
+            "screenshot": "screenshots\/avontur-v1-error-404.png",
+            "source": "templates\/avontur-v1-error-404.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/?elementor_library=avontur-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Avontur V1 - Archive",
+            "screenshot": "screenshots\/avontur-v1-archive.png",
+            "source": "templates\/avontur-v1-archive.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/?elementor_library=avontur-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Avontur V1 - Footer",
+            "screenshot": "screenshots\/avontur-v1-footer.png",
+            "source": "templates\/avontur-v1-footer.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/?elementor_library=avontur-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Avontur V1 - Single Post",
+            "screenshot": "screenshots\/avontur-v1-single-post.png",
+            "source": "templates\/avontur-v1-single-post.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/?elementor_library=avontur-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Avontur V1 - Header",
+            "screenshot": "screenshots\/avontur-v1-header.png",
+            "source": "templates\/avontur-v1-header.json",
+            "preview_url": "https:\/\/brosurku.online\/kits\/avontur\/?elementor_library=avontur-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.9",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.1.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "OoohBoi Steroids for Elementor",
+            "version": "1.6.2",
+            "file": "ooohboi-steroids-for-elementor\/ooohboi-steroids.php",
+            "author": "OoohBoi"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.2.4",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "WN Elementor Glassy Columns",
+            "version": "1.0",
+            "file": "wn-elementor-glassy\/wn-elementor-glassy.php",
+            "author": "Yaidier Perez"
+        }
+    ],
+    "images": [
+        {
+            "filename": "aerial-view-of-curve-road-and-colorful-autumn-forest-in-finland--e1614258434248.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/aerial-view-of-curve-road-and-colorful-autumn-forest-in-finland--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/avontur-v1-error-404.json",
+                    "name": "Avontur V1 - Error 404"
+                },
+                {
+                    "source": "templates\/avontur-v1-archive.json",
+                    "name": "Avontur V1 - Archive"
+                }
+            ],
+            "filesize": 262115,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HSVFSFB"
+        },
+        {
+            "filename": "memphis_2.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_2-800x569.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/avontur-v1-archive.json",
+                    "name": "Avontur V1 - Archive"
+                },
+                {
+                    "source": "templates\/avontur-v1-single-post.json",
+                    "name": "Avontur V1 - Single Post"
+                }
+            ],
+            "filesize": 126946,
+            "dimensions": [
+                1440,
+                1024
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bromo-vocalno-at-sunrise-east-java-indonesia.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/bromo-vocalno-at-sunrise-east-java-indonesia-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 475489,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCLVTZF"
+        },
+        {
+            "filename": "mountain-view-from-mount-saentis-switzerland-swiss-alps--e1614749112113.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/mountain-view-from-mount-saentis-switzerland-swiss-alps--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 162051,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJDE2B4"
+        },
+        {
+            "filename": "portrait-of-smiling-bearded-man-traveler-forester-hunter-in-the-winter-forest.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/portrait-of-smiling-bearded-man-traveler-forester-hunter-in-the-winter-forest-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 343132,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UUUJCRM"
+        },
+        {
+            "filename": "aerial-view-of-umbrellas-palms-on-the-sandy-beach-e1614749141886.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/aerial-view-of-umbrellas-palms-on-the-sandy-beach-800x598.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 170588,
+            "dimensions": [
+                1080,
+                807
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V6WDM4T"
+        },
+        {
+            "filename": "empty-road-trough-spring-pine-forest-aerial-e1614258477507.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/empty-road-trough-spring-pine-forest-aerial-800x599.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 237292,
+            "dimensions": [
+                1080,
+                809
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P75S9TJ"
+        },
+        {
+            "filename": "friends-hiking-together-outdoors-exploring-the-wilderness.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/friends-hiking-together-outdoors-exploring-the-wilderness-800x509.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 341667,
+            "dimensions": [
+                2000,
+                1273
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RX73AKL"
+        },
+        {
+            "filename": "hikers-backpacking-on-mountain.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/hikers-backpacking-on-mountain-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 345677,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D83NCRB"
+        },
+        {
+            "filename": "mountain-view-from-mount-saentis-switzerland-swiss-alps-1-1-e1614258506636.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/mountain-view-from-mount-saentis-switzerland-swiss-alps-1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 204993,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMSMDZ2"
+        },
+        {
+            "filename": "grandfather-mountain-e1614749174351.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/grandfather-mountain-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 222901,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-34NRQS5"
+        },
+        {
+            "filename": "swiss-alps.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/swiss-alps-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 452857,
+            "dimensions": [
+                2000,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3EHXYJG"
+        },
+        {
+            "filename": "mountain-fuji-and-maple-tree-e1614258527147.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/mountain-fuji-and-maple-tree-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 228329,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N975R7Q"
+        },
+        {
+            "filename": "picturesque-sea-landscape-ha-long-bay-vietnam-e1614749214240.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/picturesque-sea-landscape-ha-long-bay-vietnam-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 141972,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-45QV6XU"
+        },
+        {
+            "filename": "everest-base-camp-mountains-landscape-e1614749275834.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/everest-base-camp-mountains-landscape-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 258417,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSU9LDG"
+        },
+        {
+            "filename": "memphis_3.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_3-800x569.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 172276,
+            "dimensions": [
+                1440,
+                1024
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-23.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-23.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3274,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-22.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-22.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4580,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-18.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-18.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5272,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-20.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-20.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3771,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "young-happy-woman-walking-outside-e1614749308153.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/young-happy-woman-walking-outside-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 131315,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZYW99AV"
+        },
+        {
+            "filename": "beautiful-young-asian-woman-smile-and-happy-with-travel-trip-in-e1614246747146.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-young-asian-woman-smile-and-happy-with-travel-trip-in-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 69468,
+            "dimensions": [
+                655,
+                655
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X3JSLUB"
+        },
+        {
+            "filename": "women-casual-jeans-hat-girl-freedom-simplicity-concept-e1614749901375.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/women-casual-jeans-hat-girl-freedom-simplicity-concept-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/avontur-v1-single-post.json",
+                    "name": "Avontur V1 - Single Post"
+                }
+            ],
+            "filesize": 127046,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXPLFSW"
+        },
+        {
+            "filename": "lover-s-beach-e1614749338459.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/lover-s-beach-800x362.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 130402,
+            "dimensions": [
+                1080,
+                488
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AMPWYWU"
+        },
+        {
+            "filename": "road-and-traditional-icelandic-houses-with-grass-roofs-iceland-e1614749367435.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/road-and-traditional-icelandic-houses-with-grass-roofs-iceland-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 184171,
+            "dimensions": [
+                1080,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F65AZ4E"
+        },
+        {
+            "filename": "traveller-lost-in-the-mountains-e1614258552618.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/traveller-lost-in-the-mountains-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 223630,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2XBRFPS"
+        },
+        {
+            "filename": "happy-man-on-the-mountain-peak-and-arched-milky-way-e1614749402342.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/happy-man-on-the-mountain-peak-and-arched-milky-way-800x635.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 180109,
+            "dimensions": [
+                1080,
+                857
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AEG9Q4W"
+        },
+        {
+            "filename": "deforestation-in-the-mountains-of-carpathian-e1614258579580.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/deforestation-in-the-mountains-of-carpathian-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 192819,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UT72EFU"
+        },
+        {
+            "filename": "into-the-forest--e1614258600766.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/into-the-forest--800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 205562,
+            "dimensions": [
+                1000,
+                662
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7J63QLV"
+        },
+        {
+            "filename": "beautiful-forest-landscape-e1614258622635.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-forest-landscape-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 251964,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MXSQKKF"
+        },
+        {
+            "filename": "forest-tree-roots-and-bark-abstract-wooden-texture-and-background-with-copy-space-e1614749437403.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/forest-tree-roots-and-bark-abstract-wooden-texture-and-background-with-copy-space-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 192866,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NPBTYGM"
+        },
+        {
+            "filename": "beach-e1614749964849.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beach-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 120629,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF6PVH7"
+        },
+        {
+            "filename": "colorful-beach-huts-on-the-beach-on-a-sunny-day-e1614749993403.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/colorful-beach-huts-on-the-beach-on-a-sunny-day-800x408.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 120108,
+            "dimensions": [
+                1080,
+                551
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YKLBMQ6"
+        },
+        {
+            "filename": "beach-lofoten-archipelago-islands-beach.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beach-lofoten-archipelago-islands-beach-800x283.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 420139,
+            "dimensions": [
+                2000,
+                708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3KBKZYX"
+        },
+        {
+            "filename": "beautiful-woman-traveler-wearing-hat-and-poncho-standing-in-water-of-river-e1614749681305.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-woman-traveler-wearing-hat-and-poncho-standing-in-water-of-river-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 126315,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-56BZMDZ"
+        },
+        {
+            "filename": "person-traveler-travel-destination-concept.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/person-traveler-travel-destination-concept-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 388459,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNZU7KG"
+        },
+        {
+            "filename": "young-male-traveler-enjoying-the-streets-of-granada-spain.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/young-male-traveler-enjoying-the-streets-of-granada-spain-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 344653,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR4Q5MB"
+        },
+        {
+            "filename": "traveler-with-a-backpack-relaxing-in-a-city-park-after-riding-on-a-retro-bicycle--e1614749472292.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/traveler-with-a-backpack-relaxing-in-a-city-park-after-riding-on-a-retro-bicycle--800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 156541,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WNKKCBA"
+        },
+        {
+            "filename": "beautiful-european-female-traveler-has-touristic-route-explores-scenic-landscape-poses-near-river.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-european-female-traveler-has-touristic-route-explores-scenic-landscape-poses-near-river-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 286651,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TSQ3P27"
+        },
+        {
+            "filename": "cute-teenager-girl-in-leather-jacket-with-headphones-holding-suitcase-happily-looking-in-camera.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/cute-teenager-girl-in-leather-jacket-with-headphones-holding-suitcase-happily-looking-in-camera-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 244945,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D3WJSZM"
+        },
+        {
+            "filename": "young-photographer-in-wintertime.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/young-photographer-in-wintertime-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 275986,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UPF2B9N"
+        },
+        {
+            "filename": "compass-among-fern-leaves-in-a-tropical-jungle-adventure-discovery-navigation-concept-e1614749641341.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/compass-among-fern-leaves-in-a-tropical-jungle-adventure-discovery-navigation-concept-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 137944,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZR3KKCM"
+        },
+        {
+            "filename": "memphis_4.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 81943,
+            "dimensions": [
+                471,
+                725
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "side-view-of-man-and-woman-with-backpacks-hiking-in-woods-e1614202829770.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/side-view-of-man-and-woman-with-backpacks-hiking-in-woods-e1614202829770-800x1161.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 173014,
+            "dimensions": [
+                920,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U9RSPAU"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "camp-forest-adventure-travel-remote-relax-concept.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/camp-forest-adventure-travel-remote-relax-concept-800x266.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 288457,
+            "dimensions": [
+                2000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJ5AS4H"
+        },
+        {
+            "filename": "switzerland-mountains-e1614749612669.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/switzerland-mountains-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 118062,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DLS48WM"
+        },
+        {
+            "filename": "notre-dame-cathedral-in-paris-e1614749568308.jpg",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/notre-dame-cathedral-in-paris-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 146323,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFX3MY2"
+        },
+        {
+            "filename": "logo-avontur.png",
+            "thumbnail_url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-avontur.png",
+            "templates": [
+                {
+                    "source": "templates\/avontur-v1-footer.json",
+                    "name": "Avontur V1 - Footer"
+                },
+                {
+                    "source": "templates\/avontur-v1-header.json",
+                    "name": "Avontur V1 - Header"
+                }
+            ],
+            "filesize": 18985,
+            "dimensions": [
+                656,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

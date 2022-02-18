@@ -1,0 +1,346 @@
+{
+    "version": "0.4",
+    "title": "Avontur V1 &#8211; Footer",
+    "type": "footer",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "footer",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Footer\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "609869eb",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "30",
+                "background_background": "gradient",
+                "background_color": "#272B36",
+                "background_color_b": "#384056",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 45,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2cf4fd64",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 40,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "43c333ad",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-avontur.png",
+                                    "id": 19
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "align_mobile": "center",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7c8c57b9",
+                            "settings": {
+                                "editor": "<p>The Best Adventure Travel Agent &amp; Tourism. We are proud to present the best destination place in the world.<\/p>",
+                                "align_mobile": "center",
+                                "text_color": "#F9F9F9"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7a1441f4",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "6d283fb"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "ac0cd4c"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-youtube",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "c9ff141"
+                                    }
+                                ],
+                                "align": "",
+                                "align_mobile": "center",
+                                "icon_color": "custom",
+                                "icon_primary_color": "#02010100",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "hover_primary_color": "#02010100",
+                                "hover_secondary_color": "#FF6041"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "469a3359",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 29.664,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "262ed56a",
+                            "settings": {
+                                "look": "line_text",
+                                "text": "Information",
+                                "html_tag": "h6",
+                                "color": "#FFFFFF",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "text_align": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ecd3c1e",
+                            "settings": {
+                                "layout": "vertical",
+                                "pointer": "none",
+                                "indicator": "none",
+                                "dropdown": "none",
+                                "color_menu_item": "#FFFFFF",
+                                "color_menu_item_hover": "#FF6041",
+                                "padding_horizontal_menu_item": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "padding_vertical_menu_item": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "nav-menu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "70fff175",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 30,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "33f33095",
+                            "settings": {
+                                "look": "line_text",
+                                "text": "Our Office",
+                                "html_tag": "h6",
+                                "color": "#FFFFFF",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "text_align": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "64a5f457",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Jl Cempaka Wangi No 22 - Jakarta, ID",
+                                        "selected_icon": {
+                                            "value": "icon icon-map-marker1",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "723b2c4"
+                                    },
+                                    {
+                                        "text": "+123.2323.4000",
+                                        "selected_icon": {
+                                            "value": "icon icon-phone1",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "0472f3f"
+                                    },
+                                    {
+                                        "text": "support@yourdomain.tld",
+                                        "selected_icon": {
+                                            "value": "icon icon-envelope1",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "d7005d4"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_color": "#FFFFFF",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "text_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6a19375e",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "padding": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "140a768f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "d83876f",
+                            "settings": {
+                                "editor": "<p>\u00a9 2021 Avontur template kit. All rights reserved. Design by QuickenWorks.co<\/p>",
+                                "align": "center",
+                                "text_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

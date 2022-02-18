@@ -1,0 +1,2239 @@
+{
+    "version": "0.4",
+    "title": "Tour Guide",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "54008c31",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "id": 121,
+                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img7.jpg",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "bottom center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.65,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-185",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "-165",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "-265",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "258",
+                    "right": "15",
+                    "bottom": "165",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "242",
+                    "right": "15",
+                    "bottom": "160",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "344",
+                    "right": "15",
+                    "bottom": "160",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=e5e9561"
+                },
+                "_title": "inner-banner"
+            },
+            "elements": [
+                {
+                    "id": "258158c5",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "692e9117",
+                            "settings": {
+                                "title": "Tour Guide",
+                                "header_size": "h1",
+                                "align": "center",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 56
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "typography_font_weight": "700",
+                                "typography_text_transform": "uppercase",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "100",
+                                    "bottom": "0",
+                                    "left": "100",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=21bfb04"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5417cdb5",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img8.png",
+                    "id": 113,
+                    "alt": "",
+                    "source": "library"
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-100",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "_title": "overlay-shape"
+            },
+            "elements": [
+                {
+                    "id": "57a8c9c0",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "15d1d86b",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 150,
+                                    "sizes": []
+                                },
+                                "space_tablet": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "42f85539",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1160,
+                    "sizes": []
+                },
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": 0,
+                    "bottom": "100",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "45",
+                    "right": 0,
+                    "bottom": "100",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": 0,
+                    "bottom": "80",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "15",
+                    "bottom": "0",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Team"
+            },
+            "elements": [
+                {
+                    "id": "58ab1c6f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "473af390",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1160,
+                                    "sizes": []
+                                },
+                                "gap": "no",
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6e2eafa8",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "28f417d6",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img50.jpg",
+                                                    "id": 1826,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "ae92f6e",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "3bc92ab2",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "space_between_widgets": 0,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.05)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "-80",
+                                                            "right": "20",
+                                                            "bottom": "0",
+                                                            "left": "20",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": false
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04"
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "1f7c7357",
+                                                            "settings": {
+                                                                "title": "William Scott",
+                                                                "header_size": "h4",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "194da701",
+                                                            "settings": {
+                                                                "title": "Tour Supervisor",
+                                                                "header_size": "h6",
+                                                                "align": "center",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "67194dfe",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullampor.<\/p>",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "7c7a67fc",
+                                                            "settings": {
+                                                                "social_icon_list": [
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-facebook",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "db856c9",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-twitter",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "e7fd037",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-youtube",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "a2d4db3",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-instagram",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "d4e7518"
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-linkedin",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "577fd48"
+                                                                    }
+                                                                ],
+                                                                "icon_color": "custom",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_padding": {
+                                                                    "unit": "em",
+                                                                    "size": 0.6,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_spacing": {
+                                                                    "unit": "px",
+                                                                    "size": 8,
+                                                                    "sizes": []
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_primary_color": "globals\/colors?id=accent",
+                                                                    "hover_primary_color": "globals\/colors?id=fc28385"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "social-icons",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2984603d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "a8c35db",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img52.jpg",
+                                                    "id": 1828,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "65acb644",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "ecb49ed",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "space_between_widgets": 0,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.05)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "-80",
+                                                            "right": "20",
+                                                            "bottom": "0",
+                                                            "left": "20",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": false
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04"
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "729bc29e",
+                                                            "settings": {
+                                                                "title": "Jennie Bennett",
+                                                                "header_size": "h4",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "60a81afa",
+                                                            "settings": {
+                                                                "title": "Travel Agent",
+                                                                "header_size": "h6",
+                                                                "align": "center",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "2de164d3",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullampor.<\/p>",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "2f8507cf",
+                                                            "settings": {
+                                                                "social_icon_list": [
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-facebook",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "db856c9",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-twitter",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "e7fd037",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-youtube",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "a2d4db3",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-instagram",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "d4e7518"
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-linkedin",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "577fd48"
+                                                                    }
+                                                                ],
+                                                                "icon_color": "custom",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_padding": {
+                                                                    "unit": "em",
+                                                                    "size": 0.6,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_spacing": {
+                                                                    "unit": "px",
+                                                                    "size": 8,
+                                                                    "sizes": []
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_primary_color": "globals\/colors?id=accent",
+                                                                    "hover_primary_color": "globals\/colors?id=fc28385"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "social-icons",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2547a32d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7dac37e0",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img53.jpg",
+                                                    "id": 1829,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6a284d87",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "7bc088bb",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "space_between_widgets": 0,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.05)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "-80",
+                                                            "right": "20",
+                                                            "bottom": "0",
+                                                            "left": "20",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": false
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04"
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "1c2e04a6",
+                                                            "settings": {
+                                                                "title": "James Hardy",
+                                                                "header_size": "h4",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "48e9aec2",
+                                                            "settings": {
+                                                                "title": "Travel Agent",
+                                                                "header_size": "h6",
+                                                                "align": "center",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "4194f85e",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullampor.<\/p>",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "16a97e61",
+                                                            "settings": {
+                                                                "social_icon_list": [
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-facebook",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "db856c9",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-twitter",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "e7fd037",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-youtube",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "a2d4db3",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-instagram",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "d4e7518"
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-linkedin",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "577fd48"
+                                                                    }
+                                                                ],
+                                                                "icon_color": "custom",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_padding": {
+                                                                    "unit": "em",
+                                                                    "size": 0.6,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_spacing": {
+                                                                    "unit": "px",
+                                                                    "size": 8,
+                                                                    "sizes": []
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_primary_color": "globals\/colors?id=accent",
+                                                                    "hover_primary_color": "globals\/colors?id=fc28385"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "social-icons",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1c9ba3d1",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1160,
+                                    "sizes": []
+                                },
+                                "gap": "no",
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "106a472b",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7dbdf8d5",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img51.jpg",
+                                                    "id": 1827,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "8a0d28b",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "e9a61a9",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "space_between_widgets": 0,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.05)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "-80",
+                                                            "right": "20",
+                                                            "bottom": "0",
+                                                            "left": "20",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": false
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04"
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6bf408bd",
+                                                            "settings": {
+                                                                "title": "Harry Wilson",
+                                                                "header_size": "h4",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "409dbdf5",
+                                                            "settings": {
+                                                                "title": "Travel Agent",
+                                                                "header_size": "h6",
+                                                                "align": "center",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "290f4576",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullampor.<\/p>",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "52cdd7a5",
+                                                            "settings": {
+                                                                "social_icon_list": [
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-facebook",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "db856c9",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-twitter",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "e7fd037",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-youtube",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "a2d4db3",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-instagram",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "d4e7518"
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-linkedin",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "577fd48"
+                                                                    }
+                                                                ],
+                                                                "icon_color": "custom",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_padding": {
+                                                                    "unit": "em",
+                                                                    "size": 0.6,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_spacing": {
+                                                                    "unit": "px",
+                                                                    "size": 8,
+                                                                    "sizes": []
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_primary_color": "globals\/colors?id=accent",
+                                                                    "hover_primary_color": "globals\/colors?id=fc28385"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "social-icons",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1cacfdf",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3830d8a8",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img54.jpg",
+                                                    "id": 1830,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7158cc81",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "3688d53b",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "space_between_widgets": 0,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.05)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "-80",
+                                                            "right": "20",
+                                                            "bottom": "0",
+                                                            "left": "20",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": false
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04"
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "4aa6fd53",
+                                                            "settings": {
+                                                                "title": "Sally Watson",
+                                                                "header_size": "h4",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "50d3f82f",
+                                                            "settings": {
+                                                                "title": "Travel Guide",
+                                                                "header_size": "h6",
+                                                                "align": "center",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "503eae79",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullampor.<\/p>",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "7b81e21c",
+                                                            "settings": {
+                                                                "social_icon_list": [
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-facebook",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "db856c9",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-twitter",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "e7fd037",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-youtube",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "a2d4db3",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-instagram",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "d4e7518"
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-linkedin",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "577fd48"
+                                                                    }
+                                                                ],
+                                                                "icon_color": "custom",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_padding": {
+                                                                    "unit": "em",
+                                                                    "size": 0.6,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_spacing": {
+                                                                    "unit": "px",
+                                                                    "size": 8,
+                                                                    "sizes": []
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_primary_color": "globals\/colors?id=accent",
+                                                                    "hover_primary_color": "globals\/colors?id=fc28385"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "social-icons",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3e67305b",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "30aaf379",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img55.jpg",
+                                                    "id": 1831,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "49aa3c1b",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "5d74194e",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "space_between_widgets": 0,
+                                                        "background_background": "classic",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 35,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.05)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "-80",
+                                                            "right": "20",
+                                                            "bottom": "0",
+                                                            "left": "20",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "25",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": false
+                                                        },
+                                                        "__globals__": {
+                                                            "background_color": "globals\/colors?id=21bfb04"
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "60465051",
+                                                            "settings": {
+                                                                "title": "Sandy Warth",
+                                                                "header_size": "h4",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "25f74dcb",
+                                                            "settings": {
+                                                                "title": "Travel Guide",
+                                                                "header_size": "h6",
+                                                                "align": "center",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "3cf7189f",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullampor.<\/p>",
+                                                                "align": "center"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "2daec70b",
+                                                            "settings": {
+                                                                "social_icon_list": [
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-facebook",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "db856c9",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-twitter",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "e7fd037",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-youtube",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "_id": "a2d4db3",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-instagram",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "d4e7518"
+                                                                    },
+                                                                    {
+                                                                        "social_icon": {
+                                                                            "value": "fab fa-linkedin",
+                                                                            "library": "fa-brands"
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "true",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "577fd48"
+                                                                    }
+                                                                ],
+                                                                "icon_color": "custom",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_padding": {
+                                                                    "unit": "em",
+                                                                    "size": 0.6,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_spacing": {
+                                                                    "unit": "px",
+                                                                    "size": 8,
+                                                                    "sizes": []
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_primary_color": "globals\/colors?id=accent",
+                                                                    "hover_primary_color": "globals\/colors?id=fc28385"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "social-icons",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5ed510ff",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "15",
+                    "bottom": "0",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Clients"
+            },
+            "elements": [
+                {
+                    "id": "193ce86",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "-96",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "15",
+                            "bottom": "40",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "z_index": 1,
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=primary"
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "10",
+                            "bottom": "30",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5cc532ac",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 637,
+                                        "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img19.png"
+                                    },
+                                    {
+                                        "id": 638,
+                                        "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img20.png"
+                                    },
+                                    {
+                                        "id": 639,
+                                        "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img21.png"
+                                    },
+                                    {
+                                        "id": 640,
+                                        "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img22.png"
+                                    },
+                                    {
+                                        "id": 641,
+                                        "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img23.png"
+                                    }
+                                ],
+                                "slides_to_show": "5",
+                                "slides_to_scroll": "1",
+                                "navigation": "none",
+                                "autoplay": "no",
+                                "slides_to_show_tablet": "3",
+                                "slides_to_show_mobile": "2",
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "40479c52",
+            "settings": {
+                "gap": "no",
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img010.jpg",
+                    "id": 238,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.65,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "196",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=secondary"
+                },
+                "_title": "callback",
+                "background_attachment": "fixed",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "176",
+                    "right": "15",
+                    "bottom": "80",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "57d0311c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 57,
+                        "_inline_size_tablet": 80
+                    },
+                    "elements": [
+                        {
+                            "id": "e07b2f2",
+                            "settings": {
+                                "gap": "no",
+                                "content_position": "middle",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5d84cb3e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 15,
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1eae344b",
+                                            "settings": {
+                                                "look": "line_icon",
+                                                "text": "Divider",
+                                                "icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "icon_align": "right",
+                                                "rotate": {
+                                                    "unit": "deg",
+                                                    "size": 70,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=d345fd2",
+                                                    "primary_color": "globals\/colors?id=21bfb04"
+                                                },
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "521529e9",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 85,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 75
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2cfa1faf",
+                                            "settings": {
+                                                "title": "INVOLVE NOW",
+                                                "header_size": "h6",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=21bfb04"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "78c5a9bf",
+                            "settings": {
+                                "title": "BE A PART OF OUR TEAM. JOIN US NOW !!",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=21bfb04",
+                                    "typography_typography": ""
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_font_family": "Raleway",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "900",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "56b7096",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Eaque adipiscing, luctus eleifend temporibus occaecat luctus eleifend tempo ribus. Earum mollitia vitae eos vulputate? Suspendisse mi beatae odit senectus nostrud lacinia venenatis quia debitis! Viverra quisquam cubilia.<\/p>",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=ad41708"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6b1ce5b2",
+                            "settings": {
+                                "text": "JOIN US NOW"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "246c59e8",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 43
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

@@ -1,0 +1,370 @@
+{
+    "version": "0.4",
+    "title": "Optin",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "739266ca",
+            "settings": {
+                "gap": "wider",
+                "border_radius_mobile": {
+                    "unit": "px",
+                    "top": "8",
+                    "right": "8",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "347a0e90",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7b0b5db5",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 255,
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 148,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "-30",
+                                    "right": "-30",
+                                    "bottom": "24",
+                                    "left": "-30",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_image": {
+                                    "url": "https:\/\/elementor.deverust.com\/caldwell\/wp-content\/uploads\/sites\/12\/2021\/11\/coconut-tree-on-beach-D2XFKSA.jpg",
+                                    "id": 1411,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position": "center center",
+                                "_background_ypos": {
+                                    "unit": "px",
+                                    "size": -33,
+                                    "sizes": []
+                                },
+                                "_background_size": "cover",
+                                "_background_position_mobile": "center center",
+                                "_background_xpos_mobile": {
+                                    "unit": "px",
+                                    "size": -33,
+                                    "sizes": []
+                                },
+                                "_background_ypos_mobile": {
+                                    "unit": "px",
+                                    "size": -16,
+                                    "sizes": []
+                                },
+                                "_background_size_mobile": "initial",
+                                "_background_bg_width_mobile": {
+                                    "unit": "%",
+                                    "size": 110,
+                                    "sizes": []
+                                },
+                                "_border_radius_mobile": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f0c7b8f",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "27929942",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 35,
+                                        "content_position": "center",
+                                        "background_background": "classic",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=text"
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "16",
+                                            "bottom": "16",
+                                            "left": "16",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4175b144",
+                                            "settings": {
+                                                "editor": "<p>Weekly articles about traveling to make your live better than before<\/p>",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-24",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=primary",
+                                                    "text_color": "globals\/colors?id=360160c"
+                                                },
+                                                "align_mobile": "center",
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "257808f6",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 65,
+                                        "content_position": "space-around",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4b6baa62",
+                                            "settings": {
+                                                "title": "Sign Up For Our Newsletter",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=d9f56ad"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "58c63ed1",
+                                            "settings": {
+                                                "form_name": "New Form",
+                                                "form_fields": [
+                                                    {
+                                                        "custom_id": "email",
+                                                        "field_type": "email",
+                                                        "required": "true",
+                                                        "field_label": "Email",
+                                                        "placeholder": "Email",
+                                                        "_id": "8e6e0b9"
+                                                    }
+                                                ],
+                                                "input_size": "md",
+                                                "button_size": "md",
+                                                "step_next_label": "Next",
+                                                "step_previous_label": "Previous",
+                                                "button_text": "Subscribe",
+                                                "email_content": "[all-fields]",
+                                                "email_content_2": "[all-fields]",
+                                                "success_message": "The form was sent successfully.",
+                                                "error_message": "An error occurred.",
+                                                "required_field_message": "This field is required.",
+                                                "invalid_message": "There's something wrong. The form is invalid.",
+                                                "label_spacing": {
+                                                    "unit": "px",
+                                                    "size": 4,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "form",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "643f6e95",
+                                            "settings": {
+                                                "editor": "<p>We promise you will not recieve spam from us. You can unsubscribe anytime<\/p>",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "0",
+                                                    "bottom": "-20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=5ec7628"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width_mobile": {
+            "unit": "vw",
+            "size": 85,
+            "sizes": []
+        },
+        "border_radius": {
+            "unit": "px",
+            "top": "16",
+            "right": "16",
+            "bottom": "16",
+            "left": "16",
+            "isLinked": true
+        },
+        "close_button_vertical": {
+            "unit": "%",
+            "size": 5,
+            "sizes": []
+        },
+        "close_button_horizontal": {
+            "unit": "%",
+            "size": 4.5,
+            "sizes": []
+        },
+        "close_button_background_color": "#FFFFFF",
+        "icon_size": {
+            "unit": "px",
+            "size": 24,
+            "sizes": []
+        },
+        "__globals__": {
+            "close_button_background_color": ""
+        }
+    }
+}

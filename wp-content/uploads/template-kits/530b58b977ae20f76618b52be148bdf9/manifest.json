@@ -1,0 +1,2309 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Travele - Travel & Tour Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.bosathemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single page",
+            "screenshot": "screenshots\/single-page.jpg",
+            "source": "templates\/single-page.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=single-page",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Pages."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Search Results",
+            "screenshot": "screenshots\/search-results.jpg",
+            "source": "templates\/search-results.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=search-results",
+            "type": "search-results",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-search",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "search-results",
+                "elementor_pro_conditions": [
+                    "include\/archive\/search"
+                ],
+                "additional_template_information": [
+                    "This is a \"Search Results\" template for Elementor Pro.",
+                    "This template will display on: Search Results."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=shop",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/?elementor_library=single-product",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination",
+            "screenshot": "screenshots\/destination.jpg",
+            "source": "templates\/destination.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/destination\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tour packages",
+            "screenshot": "screenshots\/tour-packages.jpg",
+            "source": "templates\/tour-packages.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/tour-packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Package offer",
+            "screenshot": "screenshots\/package-offer.jpg",
+            "source": "templates\/package-offer.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/package-offer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Package detail",
+            "screenshot": "screenshots\/package-detail.jpg",
+            "source": "templates\/package-detail.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/package-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career detail",
+            "screenshot": "screenshots\/career-detail.jpg",
+            "source": "templates\/career-detail.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/career-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tour Guide",
+            "screenshot": "screenshots\/tour-guide.jpg",
+            "source": "templates\/tour-guide.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/tour-guide\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/travele\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "5.6.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "travelon-img40.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/travelon-img40.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3432,
+            "dimensions": [
+                205,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img20.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img20.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 1052,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img62.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img62-800x490.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 178763,
+            "dimensions": [
+                1550,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sveti-stefan-from-above-Y9WQHVJ"
+        },
+        {
+            "filename": "img6.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img6-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 155602,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/geiranger-fjord-beautiful-nature-norway-YSEHKRJ"
+        },
+        {
+            "filename": "img8.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img8-800x60.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                },
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 24701,
+            "dimensions": [
+                1919,
+                145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img32.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img32.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 102631,
+            "dimensions": [
+                400,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/238ec162-656c-4d96-b6bb-7d865fbd9774"
+        },
+        {
+            "filename": "img64.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img64.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                }
+            ],
+            "filesize": 30884,
+            "dimensions": [
+                360,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/glacier-park-KMCBYB4"
+        },
+        {
+            "filename": "img35.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 45196,
+            "dimensions": [
+                400,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/assos-village-on-kefalonia-island-greece-white-boa-8SUDTCP"
+        },
+        {
+            "filename": "img34.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img34.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 44523,
+            "dimensions": [
+                450,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golden-temple-amritsar-PTZJU68"
+        },
+        {
+            "filename": "img3.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img3-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 247491,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-couple-sitting-on-deck-by-beautiful-lake-in--69XAC8Q"
+        },
+        {
+            "filename": "img65.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img65-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                },
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                }
+            ],
+            "filesize": 127571,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-team-of-travelers-looking-at-the-lake-in-austria-PKFYRFV"
+        },
+        {
+            "filename": "img15.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 66786,
+            "dimensions": [
+                515,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-group-of-friends-enjoying-travel-and-vacatio-VC4SFBC"
+        },
+        {
+            "filename": "img024.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img024.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 1797,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-icons-FC7UPB"
+        },
+        {
+            "filename": "img028.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img028.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 1770,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-icons-FC7UPB"
+        },
+        {
+            "filename": "img027.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img027.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 1968,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-icons-FC7UPB"
+        },
+        {
+            "filename": "img026.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img026.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 812,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-icons-FC7UPB"
+        },
+        {
+            "filename": "img025.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img025.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 1359,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-icons-FC7UPB"
+        },
+        {
+            "filename": "img029.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img029.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 1803,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-icons-FC7UPB"
+        },
+        {
+            "filename": "img46.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img46.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                }
+            ],
+            "filesize": 28681,
+            "dimensions": [
+                360,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-team-of-travelers-looking-at-the-lake-in-austria-PKFYRFV"
+        },
+        {
+            "filename": "img40.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img40.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 44384,
+            "dimensions": [
+                360,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hike-in-patagonia-W8JVQJG"
+        },
+        {
+            "filename": "img42.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img42.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                },
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 43652,
+            "dimensions": [
+                360,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tourist-at-santorini-town-attraction-9BULWA3"
+        },
+        {
+            "filename": "img037.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img037.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 64763,
+            "dimensions": [
+                455,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-backpacker-or-hiker-has-rest-on-stone-after--EPM5D3M"
+        },
+        {
+            "filename": "img038.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img038.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 28587,
+            "dimensions": [
+                315,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tourist-man-holding-his-finger-on-notre-dame-cathe-PGCRUQA"
+        },
+        {
+            "filename": "img039.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img039.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 39933,
+            "dimensions": [
+                315,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rear-view-of-young-woman-sitting-on-edge-of-cliff--TQ32BLS"
+        },
+        {
+            "filename": "img036.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img036.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 95652,
+            "dimensions": [
+                655,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-tourist-in-red-summer-dress-on-thai-asian-bo-QFETK4V"
+        },
+        {
+            "filename": "img19.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img19.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 2874,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img21.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img21.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 1535,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img22.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img22.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 843,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img23.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img23.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 2010,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img13.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img13-800x343.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                },
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                }
+            ],
+            "filesize": 83538,
+            "dimensions": [
+                1400,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vacation-with-kayak-PMG4EE2"
+        },
+        {
+            "filename": "img16.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img16-800x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89886,
+            "dimensions": [
+                1920,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-in-a-foggy-dolomites-valley-italy-2DM2RVD"
+        },
+        {
+            "filename": "img9.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 5804,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-model-in-fashionable-clothes-is-outdoor-HEQYEQP"
+        },
+        {
+            "filename": "img18.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 4156,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-friends-walking-with-backpacks-adventure-t-XMRUVSP"
+        },
+        {
+            "filename": "img17.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 4473,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-smiling-friends-hiking-with-backpacks-out-83EJGAE"
+        },
+        {
+            "filename": "img43.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img43.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 62599,
+            "dimensions": [
+                410,
+                390
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-female-friends-in-sunglasses-amazedly-lookin-P2EXBGK"
+        },
+        {
+            "filename": "img68.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img68-800x490.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 371137,
+            "dimensions": [
+                1550,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/overpass-in-the-night-P9MULFL"
+        },
+        {
+            "filename": "img45.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img45.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                }
+            ],
+            "filesize": 31463,
+            "dimensions": [
+                360,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/ab76eafa-7bb1-48db-8e97-c5d54fc0ace9"
+        },
+        {
+            "filename": "img49.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img49.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2399,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img48.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img48.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3189,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img47.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img47.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1262,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img46.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img46.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2010,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img45.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img45.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1005,
+            "dimensions": [
+                150,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img010.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img010-800x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 352777,
+            "dimensions": [
+                1400,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/geiranger-fjord-beautiful-nature-norway-YSEHKRJ"
+        },
+        {
+            "filename": "img70.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img70.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 2228,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img72.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img72.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 2464,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img73.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img73.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 2523,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img74.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img74.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 1555,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img75.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img75.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 1995,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img71.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/09\/img71.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 2340,
+            "dimensions": [
+                92,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img50.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img50.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 14638,
+            "dimensions": [
+                315,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-model-in-fashionable-clothes-is-outdoor-HEQYEQP"
+        },
+        {
+            "filename": "img54.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img54.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 34804,
+            "dimensions": [
+                315,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-friends-walking-with-backpacks-adventure-t-XMRUVSP"
+        },
+        {
+            "filename": "img55.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img55.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 33465,
+            "dimensions": [
+                315,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-smiling-friends-hiking-with-backpacks-out-83EJGAE"
+        },
+        {
+            "filename": "img52.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img52.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 21997,
+            "dimensions": [
+                315,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-backpacker-or-hiker-has-rest-on-stone-after--EPM5D3M"
+        },
+        {
+            "filename": "img01.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img01-800x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming soon"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 229678,
+            "dimensions": [
+                1400,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/acfb121f-12e5-496e-b909-bba97f7bc66a"
+        },
+        {
+            "filename": "img7.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img7-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                },
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                },
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 253984,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hike-in-canada-69NG5PV"
+        },
+        {
+            "filename": "product07.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 10992,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/mens-boots-brown-AZ3TL52"
+        },
+        {
+            "filename": "product5.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 7539,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camping-tent-VF6YN9"
+        },
+        {
+            "filename": "product4.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 11810,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/portable-gas-stove-CS32HU5"
+        },
+        {
+            "filename": "product04.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 14119,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/muddy-running-shoes-MYHUG4"
+        },
+        {
+            "filename": "product3.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 5219,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/flashlight-EZ96W9"
+        },
+        {
+            "filename": "product2.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 9103,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hammock-EGUSW3"
+        },
+        {
+            "filename": "img12.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img12-800x60.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 54734,
+            "dimensions": [
+                1919,
+                145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "product1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 9803,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/folded-sleeping-bag-green-GVF5CG"
+        },
+        {
+            "filename": "product02.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/product02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 11123,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/jacket-beige-HPT5SGJ"
+        },
+        {
+            "filename": "img4.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img4-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 276146,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hike-in-peru-PCHPLNT"
+        },
+        {
+            "filename": "img12.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img12-800x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour packages"
+                }
+            ],
+            "filesize": 176000,
+            "dimensions": [
+                1400,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-hiker-in-a-boat-LGHB5M7"
+        },
+        {
+            "filename": "img47.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img47.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package-offer.json",
+                    "name": "Package offer"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 55508,
+            "dimensions": [
+                360,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dubai-downtown-view-by-sunset-dubai-united-arab-em-N6HX7G5"
+        },
+        {
+            "filename": "img1-1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img1-1-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                }
+            ],
+            "filesize": 116280,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-friends-walking-with-backpacks-adventure-t-XMRUVSP"
+        },
+        {
+            "filename": "img02-1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img02-1-800x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package-detail.json",
+                    "name": "Package detail"
+                }
+            ],
+            "filesize": 352157,
+            "dimensions": [
+                1400,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/assos-village-on-kefalonia-island-greece-white-boa-8SUDTCP"
+        },
+        {
+            "filename": "img5.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img5-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 114497,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/adventure-travel-tourism-hike-and-people-concept-h-YED6AWP"
+        },
+        {
+            "filename": "img1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img1-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 116280,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-friends-walking-with-backpacks-adventure-t-XMRUVSP"
+        },
+        {
+            "filename": "img53.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img53.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 31004,
+            "dimensions": [
+                315,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tourist-man-holding-his-finger-on-notre-dame-cathe-PGCRUQA"
+        },
+        {
+            "filename": "img51.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img51.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-guide.json",
+                    "name": "Tour Guide"
+                }
+            ],
+            "filesize": 16424,
+            "dimensions": [
+                315,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sketching-new-models-2BTE64C"
+        },
+        {
+            "filename": "img56.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img56.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 24397,
+            "dimensions": [
+                368,
+                255
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/954f45ac-7f29-471d-9d61-89e06b538231"
+        },
+        {
+            "filename": "img50.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/travele\/wp-content\/uploads\/sites\/13\/2021\/08\/img50.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 2389,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

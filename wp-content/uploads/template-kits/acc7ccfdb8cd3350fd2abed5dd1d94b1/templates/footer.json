@@ -1,0 +1,746 @@
+{
+    "version": "0.4",
+    "title": "Footer",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "39bd4b93",
+            "settings": {
+                "structure": "30",
+                "background_background": "classic",
+                "background_color": "#F5F5F5",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7fffefe3",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "718c69ec",
+                            "settings": {
+                                "title": "About Us",
+                                "header_size": "h4",
+                                "title_color": "#0DCDC2",
+                                "typography_typography": "custom",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5dbb9791",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7c37b06a",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6ace1f60",
+                            "settings": {
+                                "title": "Connect With Us",
+                                "header_size": "h4",
+                                "title_color": "#0DCDC2",
+                                "typography_typography": "custom",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3afa9fc7",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "2bec828",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": ""
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "65022ce",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": ""
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-youtube",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "a07d1fd",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": ""
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "_id": "112fece"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-pinterest",
+                                            "library": "fa-brands"
+                                        },
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "_id": "771a72c"
+                                    }
+                                ],
+                                "shape": "circle",
+                                "align": "left",
+                                "icon_color": "custom",
+                                "icon_primary_color": "#F5F5F5",
+                                "icon_secondary_color": "#808080",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "em",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "38e5c1f2",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6516b004",
+                            "settings": {
+                                "title": "gallery",
+                                "header_size": "h4",
+                                "title_color": "#0DCDC2",
+                                "typography_typography": "custom",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "62193959",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6329426e",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "animation": "fadeIn",
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "549032b9",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/waterfall-on-korana-river-canyon-in-village-of-ras-small.jpg",
+                                                    "id": 48
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "487fc0b4",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "407154bb",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/innerdalen-valley-beautiful-hiking-destination-nor-small.jpg",
+                                                    "id": 47
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "52ca9832",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2de2f8e0",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/sveti-stefan-from-above-small.jpg",
+                                                    "id": 45
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5b8c281b",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "8a67a6f",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/view-at-waterfall-path-along-mountain-stream-touri-potrait-1.jpg",
+                                                    "id": 55
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "57d99657",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "21fdd926",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "animation": "fadeIn",
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "40d86a20",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/the-old-city-of-toledo-in-spain-small.jpg",
+                                                    "id": 125
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4c63b4ea",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "36c4449c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/the-cave-potrait.jpg",
+                                                    "id": 58
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "76c4071a",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "b771d19",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/aerial-view-of-cruise-ship-at-harbor-at-night-small.jpg",
+                                                    "id": 98
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2f0b84d5",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 25
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3162edc5",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/landscape-of-snowy-mountains-swiss-alps-potrait.jpg",
+                                                    "id": 60
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "80",
+                                                    "height": "80"
+                                                },
+                                                "hover_animation": "grow",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "30ed2b38",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#0DCDC2",
+                "padding": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "10",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "bf58697",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "812e4c7",
+                            "settings": {
+                                "title": "\u00a9 Copyright 2020 | Travosca Template by Kulokale",
+                                "header_size": "h6",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 13,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

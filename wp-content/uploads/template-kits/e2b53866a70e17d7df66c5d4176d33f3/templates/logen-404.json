@@ -1,0 +1,135 @@
+{
+    "version": "0.4",
+    "title": "Logen 404",
+    "type": "error-404",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "error-404",
+        "elementor_pro_conditions": [
+            "include\/singular\/not_found404"
+        ],
+        "additional_template_information": [
+            "This is a \"Error 404\" template for Elementor Pro.",
+            "This template will display on: 404 Page."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "3cf1fec9",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1170,
+                    "sizes": []
+                },
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": 0,
+                    "bottom": "120",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "15",
+                    "bottom": "0",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "404"
+            },
+            "elements": [
+                {
+                    "id": "252e8ee3",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1f480e3b",
+                            "settings": {
+                                "layout": "full_width",
+                                "gap": "no",
+                                "background_image": {
+                                    "url": "https:\/\/allthebestsofts.com\/atoms_elementorkit\/wp-content\/uploads\/2021\/06\/page-404.jpg",
+                                    "id": 1250
+                                },
+                                "background_position": "center center",
+                                "background_repeat": "no-repeat",
+                                "background_size": "contain"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1a85a914",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 0
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "530b1d39",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/allthebestsofts.com\/atoms_elementorkit\/wp-content\/uploads\/2021\/06\/page-404.jpg",
+                                                    "id": 1250
+                                                },
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 900,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "55a8b017",
+                                            "settings": {
+                                                "editor": "<p>We're sorry, but we can't find the page you were looking for.<\/p>",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=text",
+                                                    "typography_typography": "globals\/typography?id=03c48f3"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,1805 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "WalkOn - Adventure, Travel & Tourism Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.juliha.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tour Detail",
+            "screenshot": "screenshots\/tour-detail.jpg",
+            "source": "templates\/tour-detail.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/tour-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination",
+            "screenshot": "screenshots\/destination.jpg",
+            "source": "templates\/destination.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/destination\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.juliha.com\/walkon\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.1.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.8",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.6.7.1",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.10.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1-e1624436884581.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/logo_Asset-1-800x172.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 68864,
+            "dimensions": [
+                2000,
+                430
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-2_4.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/logo_Asset-2_4-800x146.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 29902,
+            "dimensions": [
+                2417,
+                442
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "kyle-cottrell-5D2af8aFE5k-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/kyle-cottrell-5D2af8aFE5k-unsplash-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 246790,
+            "dimensions": [
+                2400,
+                1601
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5D2af8aFE5k"
+        },
+        {
+            "filename": "pic_Asset-2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/pic_Asset-2-800x791.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 222901,
+            "dimensions": [
+                1448,
+                1432
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "pic_Asset-3.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/pic_Asset-3-800x823.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 228609,
+            "dimensions": [
+                1378,
+                1417
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "pic_Asset-4.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/pic_Asset-4-800x816.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 139351,
+            "dimensions": [
+                1389,
+                1416
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "steven-coffey-pAEeGAf30dg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/steven-coffey-pAEeGAf30dg-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 163347,
+            "dimensions": [
+                1667,
+                1667
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pAEeGAf30dg"
+        },
+        {
+            "filename": "fabio-comparelli-uq2E2V4LhCY-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/fabio-comparelli-uq2E2V4LhCY-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 263611,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uq2E2V4LhCY"
+        },
+        {
+            "filename": "daniel-jensen-tQpypKA92k8-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/daniel-jensen-tQpypKA92k8-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 249012,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/tQpypKA92k8"
+        },
+        {
+            "filename": "ibrahim-rifath-0oupcJsr_lo-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/ibrahim-rifath-0oupcJsr_lo-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 258042,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/0oupcJsr_lo"
+        },
+        {
+            "filename": "mask_Artboard-1.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/mask_Artboard-1-800x742.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 16686,
+            "dimensions": [
+                1128,
+                1046
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "travel-image-traveler-look-on-the-mountain-lake-tr-SVAQUBG_2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/travel-image-traveler-look-on-the-mountain-lake-tr-SVAQUBG_2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 283203,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/travel-image-traveler-look-on-the-mountain-lake-tr-SVAQUBG"
+        },
+        {
+            "filename": "portrait-LDEZNYR.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/portrait-LDEZNYR-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 260618,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-LDEZNYR"
+        },
+        {
+            "filename": "portrait-8HGWUX8.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/portrait-8HGWUX8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 217770,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-8HGWUX8"
+        },
+        {
+            "filename": "roberto-nickson-dPBdgcSXHXY-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/roberto-nickson-dPBdgcSXHXY-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 167268,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/dPBdgcSXHXY"
+        },
+        {
+            "filename": "iswanto-arif-u0lAovoUsaU-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/iswanto-arif-u0lAovoUsaU-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 269534,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/u0lAovoUsaU"
+        },
+        {
+            "filename": "le-tan-qF0_dB5fJyA-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/le-tan-qF0_dB5fJyA-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 122533,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/qF0_dB5fJyA"
+        },
+        {
+            "filename": "jared-rice-HN9X7gNreqA-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/jared-rice-HN9X7gNreqA-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 186495,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/HN9X7gNreqA"
+        },
+        {
+            "filename": "dave-ruck-pxjN_6Z_3x8-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/dave-ruck-pxjN_6Z_3x8-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 160665,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pxjN_6Z_3x8"
+        },
+        {
+            "filename": "cody-board-Y4d9lT7uZHM-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/cody-board-Y4d9lT7uZHM-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 135121,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Y4d9lT7uZHM"
+        },
+        {
+            "filename": "jared-rice-qErAC7r1Q8E-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/jared-rice-qErAC7r1Q8E-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 143901,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/qErAC7r1Q8E"
+        },
+        {
+            "filename": "brynden-nd9cHbBG1Ms-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/brynden-nd9cHbBG1Ms-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 136771,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/nd9cHbBG1Ms"
+        },
+        {
+            "filename": "traveler-against-train-station-in-clouds-ZMJ2443.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/traveler-against-train-station-in-clouds-ZMJ2443-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 285551,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/traveler-against-train-station-in-clouds-ZMJ2443"
+        },
+        {
+            "filename": "mask_Artboard-2-copy-2_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/mask_Artboard-2-copy-2_2-800x763.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 55957,
+            "dimensions": [
+                2595,
+                2476
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bgc_Artboard-3_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/bgc_Artboard-3_2-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 298908,
+            "dimensions": [
+                2400,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bgc_Artboard-3.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/bgc_Artboard-3-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 272682,
+            "dimensions": [
+                2400,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "girl-traveler-holding-hat-and-looking-at-mountains-34AREZ5_2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/girl-traveler-holding-hat-and-looking-at-mountains-34AREZ5_2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 253573,
+            "dimensions": [
+                900,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-traveler-holding-hat-and-looking-at-mountains-34AREZ5"
+        },
+        {
+            "filename": "mask_Asset-1_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/mask_Asset-1_2-800x867.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 133714,
+            "dimensions": [
+                4326,
+                4688
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "stylish-traveler-man-sitting-on-top-of-mountains-i-NPGLPC6_2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/stylish-traveler-man-sitting-on-top-of-mountains-i-NPGLPC6_2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 238922,
+            "dimensions": [
+                900,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-traveler-man-sitting-on-top-of-mountains-i-NPGLPC6"
+        },
+        {
+            "filename": "mask_Artboard-2-copy.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/mask_Artboard-2-copy-800x867.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 60615,
+            "dimensions": [
+                2596,
+                2814
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "traveler-at-quiraing-8NNF8TF-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/traveler-at-quiraing-8NNF8TF-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 236271,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/traveler-at-quiraing-8NNF8TF"
+        },
+        {
+            "filename": "ari-he-idIUCsynuS4-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/ari-he-idIUCsynuS4-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 266171,
+            "dimensions": [
+                2400,
+                1800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/idIUCsynuS4"
+        },
+        {
+            "filename": "junhan-foong-ERLAcTp-8MQ-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/junhan-foong-ERLAcTp-8MQ-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 276753,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ERLAcTp-8MQ"
+        },
+        {
+            "filename": "traveler-at-landmannalaugar-LYXTMBA-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/traveler-at-landmannalaugar-LYXTMBA-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 213138,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/traveler-at-landmannalaugar-LYXTMBA"
+        },
+        {
+            "filename": "view-of-seljalandsfoss-waterfall-in-iceland-6FMJ3QU-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/view-of-seljalandsfoss-waterfall-in-iceland-6FMJ3QU-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/tour-detail.json",
+                    "name": "Tour Detail"
+                }
+            ],
+            "filesize": 243578,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/view-of-seljalandsfoss-waterfall-in-iceland-6FMJ3QU"
+        },
+        {
+            "filename": "stefan-stefancik-0wMmxNB6Xzc-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/stefan-stefancik-0wMmxNB6Xzc-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 248293,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/0wMmxNB6Xzc"
+        },
+        {
+            "filename": "davide-ragusa-QbDkhVZ80To-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/davide-ragusa-QbDkhVZ80To-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 248313,
+            "dimensions": [
+                2400,
+                1800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QbDkhVZ80To"
+        },
+        {
+            "filename": "seascape-PVU8VZQ-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/seascape-PVU8VZQ-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 124405,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/seascape-PVU8VZQ"
+        },
+        {
+            "filename": "david-emrich-InYrwwAukOI-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/david-emrich-InYrwwAukOI-unsplash-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 277501,
+            "dimensions": [
+                2400,
+                1603
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/InYrwwAukOI"
+        },
+        {
+            "filename": "icon_Artboard-1_4.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 58573,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 69453,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_3.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 60034,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_5.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_5-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 29832,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "a-traveller-stop-to-take-a-photo-while-travelling-RRALCGN.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/a-traveller-stop-to-take-a-photo-while-travelling-RRALCGN-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 265264,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_6.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 24403,
+            "dimensions": [
+                1356,
+                1356
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_7.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_7-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 47717,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_8.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_8-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 57541,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_Artboard-1_9.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/icon_Artboard-1_9-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 41659,
+            "dimensions": [
+                1536,
+                1536
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mckayla-crump-hjanvZlqoB8-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/mckayla-crump-hjanvZlqoB8-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 299172,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/hjanvZlqoB8"
+        },
+        {
+            "filename": "traveler-at-quiraing-ZSG6UWV.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/traveler-at-quiraing-ZSG6UWV-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 192702,
+            "dimensions": [
+                2400,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/traveler-at-quiraing-ZSG6UWV"
+        },
+        {
+            "filename": "focus-photography-mauritius-VOBjXNubjHs-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/focus-photography-mauritius-VOBjXNubjHs-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 208700,
+            "dimensions": [
+                1500,
+                1125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/VOBjXNubjHs"
+        },
+        {
+            "filename": "happy-young-traveler-woman-walking-and-enjoying-am-TSKQP26.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/happy-young-traveler-woman-walking-and-enjoying-am-TSKQP26-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 218102,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-traveler-woman-walking-and-enjoying-am-TSKQP26"
+        },
+        {
+            "filename": "young-traveler-in-obersee-JAWGQ3J.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/young-traveler-in-obersee-JAWGQ3J-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 214994,
+            "dimensions": [
+                900,
+                899
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-traveler-in-obersee-JAWGQ3J"
+        },
+        {
+            "filename": "mask_Artboard-2-copy_3.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/mask_Artboard-2-copy_3-800x867.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 60791,
+            "dimensions": [
+                2596,
+                2814
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "traveler-in-the-highlands-FAMPR3D.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/traveler-in-the-highlands-FAMPR3D-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 175316,
+            "dimensions": [
+                1500,
+                1499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/traveler-in-the-highlands-FAMPR3D"
+        },
+        {
+            "filename": "young-caucasian-man-traveler-with-big-backpack-hik-VULVY45.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/young-caucasian-man-traveler-with-big-backpack-hik-VULVY45-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 250103,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-caucasian-man-traveler-with-big-backpack-hik-VULVY45"
+        },
+        {
+            "filename": "girl-in-nature-flying-a-kite-at-sunrise-kite-97WP5GJ.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/girl-in-nature-flying-a-kite-at-sunrise-kite-97WP5GJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 289690,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-in-nature-flying-a-kite-at-sunrise-kite-97WP5GJ"
+        },
+        {
+            "filename": "toa-heftiba-_K0sTUUHQDE-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/toa-heftiba-_K0sTUUHQDE-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 294057,
+            "dimensions": [
+                2400,
+                1800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_K0sTUUHQDE"
+        },
+        {
+            "filename": "jack-delulio-qkV6WPoVrN8-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/jack-delulio-qkV6WPoVrN8-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 189140,
+            "dimensions": [
+                1500,
+                1125
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/qkV6WPoVrN8"
+        },
+        {
+            "filename": "luis-islas-_IGdoGB_wGo-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/luis-islas-_IGdoGB_wGo-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 257889,
+            "dimensions": [
+                2418,
+                1814
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_IGdoGB_wGo"
+        },
+        {
+            "filename": "juan-burgos-M739VonMJpA-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/juan-burgos-M739VonMJpA-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 265246,
+            "dimensions": [
+                1700,
+                1275
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/M739VonMJpA"
+        },
+        {
+            "filename": "rayyu-maldives-photographer-sKaDbRS8FO0-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/rayyu-maldives-photographer-sKaDbRS8FO0-unsplash-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 253643,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/sKaDbRS8FO0"
+        },
+        {
+            "filename": "moment-at-nature-LDJCJJ5.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/moment-at-nature-LDJCJJ5-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 255587,
+            "dimensions": [
+                2400,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/moment-at-nature-LDJCJJ5"
+        },
+        {
+            "filename": "nature-D5R2BX2.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/nature-D5R2BX2-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 196073,
+            "dimensions": [
+                2400,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nature-D5R2BX2"
+        },
+        {
+            "filename": "nature-QPVPUF2.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/nature-QPVPUF2-800x487.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 231502,
+            "dimensions": [
+                2400,
+                1460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nature-QPVPUF2"
+        },
+        {
+            "filename": "Asset-1_5.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/Asset-1_5-800x342.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 27298,
+            "dimensions": [
+                2041,
+                873
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cover_Asset-3_5.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/cover_Asset-3_5-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 33589,
+            "dimensions": [
+                1764,
+                1763
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "nature-JLTRDV9.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/walkon\/wp-content\/uploads\/sites\/17\/2021\/06\/nature-JLTRDV9-800x600.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 254867,
+            "dimensions": [
+                2400,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nature-JLTRDV9"
+        }
+    ]
+}

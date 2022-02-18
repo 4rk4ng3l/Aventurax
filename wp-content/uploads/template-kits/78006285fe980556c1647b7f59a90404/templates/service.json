@@ -1,0 +1,2319 @@
+{
+    "version": "0.4",
+    "title": "Service",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "457ec44b",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/aerial-view-of-umbrellas-palms-on-the-sandy-beach.jpg",
+                    "id": 683
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "10",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "50bd4c57",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "48ca05ef",
+                            "settings": {
+                                "blur": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "23f9c82c",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"3305070\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2cdb0b1d",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7092bd9"
+                                    },
+                                    {
+                                        "text": "List Item #2",
+                                        "selected_icon": {
+                                            "value": "icon icon-chevron-right",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "85cf6e1",
+                                        "__dynamic__": {
+                                            "text": "[elementor-tag id=\"ad73bd2\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_align": "center",
+                                "icon_color": "#FFFFFF",
+                                "text_color": "#FFFFFF",
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "412a60d5",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_2.png",
+                    "id": 368
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "2",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1afb3762",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 60,
+                        "align": "flex-start",
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "22dee621",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/empty-road-trough-spring-pine-forest-aerial.jpg",
+                                    "id": 252
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 85,
+                                    "sizes": []
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "image_box_shadow_box_shadow_type": "yes",
+                                "image_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_margin_mobile": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "9cf6aa7",
+                            "settings": {
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "em",
+                                    "top": "-7",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "40a58df4",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "margin": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_mobile": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6b046770",
+                                            "settings": {
+                                                "blockquote_skin": "boxed",
+                                                "alignment": "center",
+                                                "blockquote_content": "Trusted in 25 Country as",
+                                                "author_name": "The Best Travel Agent",
+                                                "tweet_button": "",
+                                                "tweet_button_label": "Tweet",
+                                                "box_background_color": "#FFFFFF",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "box_box_shadow_box_shadow_type": "yes",
+                                                "box_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "_margin": {
+                                                    "unit": "em",
+                                                    "top": "-2",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "-2",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "500",
+                                                "author_text_color": "#FF6041",
+                                                "author_typography_typography": "custom",
+                                                "author_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 21,
+                                                    "sizes": []
+                                                },
+                                                "author_typography_font_weight": "700"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "blockquote",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2bee8372",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 100,
+                                        "margin_mobile": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5780c5b8",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/friends-hiking-together-outdoors-exploring-the-wilderness.jpg",
+                                                    "id": 454
+                                                },
+                                                "image_size": "full",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                },
+                                                "image_box_shadow_box_shadow_type": "yes",
+                                                "image_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.3)"
+                                                },
+                                                "_margin": {
+                                                    "unit": "em",
+                                                    "top": "-4",
+                                                    "right": "-1",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "613592c9",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5f0c79c5",
+                            "settings": {
+                                "title": "Services",
+                                "header_size": "h6",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6b1a10be",
+                            "settings": {
+                                "title": "The Best Adventure & Travel Agent.",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "19d5338b",
+                            "settings": {
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "432c607",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "31b7e63",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "75270ac1",
+                            "settings": {
+                                "title": "Featured",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "20c723d7",
+                            "settings": {
+                                "title": "Popular Package Tour",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "719fec01",
+                            "settings": {
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "67293165",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "64ef1ec2",
+                                            "settings": {
+                                                "enable_equal_height": "enable",
+                                                "ekit_icon_box_enable_header_icon": "image",
+                                                "ekit_icon_box_header_image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/hikers-backpacking-on-mountain.jpg",
+                                                    "id": 151
+                                                },
+                                                "ekit_icon_box_title_text": "Expedition Everest",
+                                                "ekit_icon_box_description_text": "Eros cursus aptent sodales nunc metus sociosqu nam letius velit class mattis penatibus nascetur tempor",
+                                                "ekit_icon_box_enable_btn": "yes",
+                                                "ekit_icon_box_enable_hover_btn": "",
+                                                "ekit_icon_box_btn_text": "Book Now",
+                                                "ekit_icon_box_icons": {
+                                                    "value": "icon icon-phone-call2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_global_link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "ekit_icon_box_badge_control": "yes",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "",
+                                                "ekit_icon_description_typography_group_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_typography_group_typography": "custom",
+                                                "ekit_icon_box_typography_group_font_family": "Poppins",
+                                                "ekit_icon_box_typography_group_font_weight": "500",
+                                                "ekit_icon_box_btn_icon_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_button_text_color": "#FFFFFF",
+                                                "ekit_icon_box_btn_background_group_background": "classic",
+                                                "ekit_icon_box_btn_background_group_color": "#FF6041",
+                                                "ekit_icon_box_btn_background_hover_group_background": "classic",
+                                                "ekit_icon_box_btn_background_hover_group_color": "#EA406F",
+                                                "ekit_icon_box_badge_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_badge_background_background": "classic",
+                                                "ekit_icon_box_badge_background_color": "#FF6041"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3898a66f",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "576544b9",
+                                            "settings": {
+                                                "enable_equal_height": "enable",
+                                                "ekit_icon_box_enable_header_icon": "image",
+                                                "ekit_icon_box_header_image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/mountain-view-from-mount-saentis-switzerland-swiss-alps-1-1.jpg",
+                                                    "id": 9
+                                                },
+                                                "ekit_icon_box_title_text": "Climbing Switzerland Rock",
+                                                "ekit_icon_box_description_text": "Eros cursus aptent sodales nunc metus sociosqu nam letius velit class mattis penatibus nascetur tempor",
+                                                "ekit_icon_box_enable_btn": "yes",
+                                                "ekit_icon_box_enable_hover_btn": "",
+                                                "ekit_icon_box_btn_text": "Book Now",
+                                                "ekit_icon_box_icons": {
+                                                    "value": "icon icon-phone-call2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_global_link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "ekit_icon_box_badge_control": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "",
+                                                "ekit_icon_description_typography_group_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_typography_group_typography": "custom",
+                                                "ekit_icon_box_typography_group_font_family": "Poppins",
+                                                "ekit_icon_box_typography_group_font_weight": "500",
+                                                "ekit_icon_box_btn_icon_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_button_text_color": "#FFFFFF",
+                                                "ekit_icon_box_btn_background_group_background": "classic",
+                                                "ekit_icon_box_btn_background_group_color": "#FF6041",
+                                                "ekit_icon_box_btn_background_hover_group_background": "classic",
+                                                "ekit_icon_box_btn_background_hover_group_color": "#EA406F",
+                                                "ekit_icon_box_badge_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_badge_background_background": "classic",
+                                                "ekit_icon_box_badge_background_color": "#FF6041"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "24eec177",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "386bfad5",
+                                            "settings": {
+                                                "enable_equal_height": "enable",
+                                                "ekit_icon_box_enable_header_icon": "image",
+                                                "ekit_icon_box_header_image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/grandfather-mountain.jpg",
+                                                    "id": 678
+                                                },
+                                                "ekit_icon_box_title_text": "Hiking Mountain",
+                                                "ekit_icon_box_description_text": "Eros cursus aptent sodales nunc metus sociosqu nam letius velit class mattis penatibus nascetur tempor",
+                                                "ekit_icon_box_enable_btn": "yes",
+                                                "ekit_icon_box_enable_hover_btn": "",
+                                                "ekit_icon_box_btn_text": "Book Now",
+                                                "ekit_icon_box_icons": {
+                                                    "value": "icon icon-phone-call2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_global_link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "ekit_icon_box_badge_control": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "",
+                                                "ekit_icon_description_typography_group_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_typography_group_typography": "custom",
+                                                "ekit_icon_box_typography_group_font_family": "Poppins",
+                                                "ekit_icon_box_typography_group_font_weight": "500",
+                                                "ekit_icon_box_btn_icon_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_button_text_color": "#FFFFFF",
+                                                "ekit_icon_box_btn_background_group_background": "classic",
+                                                "ekit_icon_box_btn_background_group_color": "#FF6041",
+                                                "ekit_icon_box_btn_background_hover_group_background": "classic",
+                                                "ekit_icon_box_btn_background_hover_group_color": "#EA406F",
+                                                "ekit_icon_box_badge_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_badge_background_background": "classic",
+                                                "ekit_icon_box_badge_background_color": "#FF6041"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "2c292e7e",
+                            "settings": {
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "41322d7c",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "25d59d79",
+                                            "settings": {
+                                                "enable_equal_height": "enable",
+                                                "ekit_icon_box_enable_header_icon": "image",
+                                                "ekit_icon_box_header_image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/hikers-backpacking-on-mountain.jpg",
+                                                    "id": 151
+                                                },
+                                                "ekit_icon_box_title_text": "Expedition Everest",
+                                                "ekit_icon_box_description_text": "Eros cursus aptent sodales nunc metus sociosqu nam letius velit class mattis penatibus nascetur tempor",
+                                                "ekit_icon_box_enable_btn": "yes",
+                                                "ekit_icon_box_enable_hover_btn": "",
+                                                "ekit_icon_box_btn_text": "Book Now",
+                                                "ekit_icon_box_icons": {
+                                                    "value": "icon icon-phone-call2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_global_link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "ekit_icon_box_badge_control": "yes",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "",
+                                                "ekit_icon_description_typography_group_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_typography_group_typography": "custom",
+                                                "ekit_icon_box_typography_group_font_family": "Poppins",
+                                                "ekit_icon_box_typography_group_font_weight": "500",
+                                                "ekit_icon_box_btn_icon_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_button_text_color": "#FFFFFF",
+                                                "ekit_icon_box_btn_background_group_background": "classic",
+                                                "ekit_icon_box_btn_background_group_color": "#FF6041",
+                                                "ekit_icon_box_btn_background_hover_group_background": "classic",
+                                                "ekit_icon_box_btn_background_hover_group_color": "#EA406F",
+                                                "ekit_icon_box_badge_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_badge_background_background": "classic",
+                                                "ekit_icon_box_badge_background_color": "#FF6041"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "c735ea6",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "59fdf441",
+                                            "settings": {
+                                                "enable_equal_height": "enable",
+                                                "ekit_icon_box_enable_header_icon": "image",
+                                                "ekit_icon_box_header_image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/mountain-view-from-mount-saentis-switzerland-swiss-alps-1-1.jpg",
+                                                    "id": 9
+                                                },
+                                                "ekit_icon_box_title_text": "Climbing Switzerland Rock",
+                                                "ekit_icon_box_description_text": "Eros cursus aptent sodales nunc metus sociosqu nam letius velit class mattis penatibus nascetur tempor",
+                                                "ekit_icon_box_enable_btn": "yes",
+                                                "ekit_icon_box_enable_hover_btn": "",
+                                                "ekit_icon_box_btn_text": "Book Now",
+                                                "ekit_icon_box_icons": {
+                                                    "value": "icon icon-phone-call2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_global_link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "ekit_icon_box_badge_control": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "",
+                                                "ekit_icon_description_typography_group_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_typography_group_typography": "custom",
+                                                "ekit_icon_box_typography_group_font_family": "Poppins",
+                                                "ekit_icon_box_typography_group_font_weight": "500",
+                                                "ekit_icon_box_btn_icon_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_button_text_color": "#FFFFFF",
+                                                "ekit_icon_box_btn_background_group_background": "classic",
+                                                "ekit_icon_box_btn_background_group_color": "#FF6041",
+                                                "ekit_icon_box_btn_background_hover_group_background": "classic",
+                                                "ekit_icon_box_btn_background_hover_group_color": "#EA406F",
+                                                "ekit_icon_box_badge_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_badge_background_background": "classic",
+                                                "ekit_icon_box_badge_background_color": "#FF6041"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "73d36fc",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "27186592",
+                                            "settings": {
+                                                "enable_equal_height": "enable",
+                                                "ekit_icon_box_enable_header_icon": "image",
+                                                "ekit_icon_box_header_image": {
+                                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/grandfather-mountain.jpg",
+                                                    "id": 678
+                                                },
+                                                "ekit_icon_box_title_text": "Hiking Mountain",
+                                                "ekit_icon_box_description_text": "Eros cursus aptent sodales nunc metus sociosqu nam letius velit class mattis penatibus nascetur tempor",
+                                                "ekit_icon_box_enable_btn": "yes",
+                                                "ekit_icon_box_enable_hover_btn": "",
+                                                "ekit_icon_box_btn_text": "Book Now",
+                                                "ekit_icon_box_icons": {
+                                                    "value": "icon icon-phone-call2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_global_link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "ekit_icon_box_badge_control": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 30,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.1)"
+                                                },
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 20,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "",
+                                                "ekit_icon_description_typography_group_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_typography_group_typography": "custom",
+                                                "ekit_icon_box_typography_group_font_family": "Poppins",
+                                                "ekit_icon_box_typography_group_font_weight": "500",
+                                                "ekit_icon_box_btn_icon_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "ekit_icon_box_button_text_color": "#FFFFFF",
+                                                "ekit_icon_box_btn_background_group_background": "classic",
+                                                "ekit_icon_box_btn_background_group_color": "#FF6041",
+                                                "ekit_icon_box_btn_background_hover_group_background": "classic",
+                                                "ekit_icon_box_btn_background_hover_group_color": "#EA406F",
+                                                "ekit_icon_box_badge_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_badge_background_background": "classic",
+                                                "ekit_icon_box_badge_background_color": "#FF6041"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "242a11ac",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_2.png",
+                    "id": 368
+                },
+                "background_overlay_position": "top right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "initial",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "14dc1c06",
+                    "settings": {
+                        "_column_size": 50,
+                        "padding": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 60,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5856089a",
+                            "settings": {
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "20",
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "2",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "40e352c1",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1bf73aa8",
+                                            "settings": {
+                                                "ekit_icon_box_header_icons": {
+                                                    "value": "icon icon-star",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_title_text": "Experienced Travel Agent",
+                                                "ekit_icon_box_description_text": "Nec dictum finibus senectus amet nibh posuere massa",
+                                                "ekit_icon_box_btn_text": "Learn more ",
+                                                "ekit_icon_box_show_global_link": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "1",
+                                                    "bottom": "2",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                                "ekit_icon_box_iocnbox_border_group_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_color": "#FFFFFF",
+                                                "ekit_icon_box_infobox_border_radious": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_bg_hover_group_background": "classic",
+                                                "ekit_icon_box_infobox_bg_hover_group_color": "#272B36",
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                                "ekit_icon_box_icon_primary_color": "#FF6041",
+                                                "ekit_icon_box_hover_primary_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "77f211e8",
+                                            "settings": {
+                                                "ekit_icon_box_header_icons": {
+                                                    "value": "icon icon-globe",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_title_text": "World Class Tourism Agency",
+                                                "ekit_icon_box_description_text": "Nec dictum finibus senectus amet nibh posuere massa",
+                                                "ekit_icon_box_btn_text": "Learn more ",
+                                                "ekit_icon_box_show_global_link": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "1",
+                                                    "bottom": "2",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                                "ekit_icon_box_iocnbox_border_group_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_color": "#FFFFFF",
+                                                "ekit_icon_box_infobox_border_radious": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_bg_hover_group_background": "classic",
+                                                "ekit_icon_box_infobox_bg_hover_group_color": "#272B36",
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                                "ekit_icon_box_icon_primary_color": "#FF6041",
+                                                "ekit_icon_box_hover_primary_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4c6a603c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "margin": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "792c3dce",
+                                            "settings": {
+                                                "ekit_icon_box_header_icons": {
+                                                    "value": "icon icon-coin",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_title_text": "Reasonable Price Package",
+                                                "ekit_icon_box_description_text": "Nec dictum finibus senectus amet nibh posuere massa",
+                                                "ekit_icon_box_btn_text": "Learn more ",
+                                                "ekit_icon_box_show_global_link": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "1",
+                                                    "bottom": "2",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                                "ekit_icon_box_iocnbox_border_group_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_color": "#FFFFFF",
+                                                "ekit_icon_box_infobox_border_radious": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_bg_hover_group_background": "classic",
+                                                "ekit_icon_box_infobox_bg_hover_group_color": "#272B36",
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                                "ekit_icon_box_icon_primary_color": "#FF6041",
+                                                "ekit_icon_box_hover_primary_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "330e2cde",
+                                            "settings": {
+                                                "ekit_icon_box_header_icons": {
+                                                    "value": "icon icon-team",
+                                                    "library": "ekiticons"
+                                                },
+                                                "ekit_icon_box_title_text": "Affordable Guide Teams",
+                                                "ekit_icon_box_description_text": "Nec dictum finibus senectus amet nibh posuere massa",
+                                                "ekit_icon_box_btn_text": "Learn more ",
+                                                "ekit_icon_box_show_global_link": "",
+                                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                                "ekit_icon_box_infobox_bg_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "1",
+                                                    "bottom": "2",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                                "ekit_icon_box_iocnbox_border_group_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_iocnbox_border_group_color": "#FFFFFF",
+                                                "ekit_icon_box_infobox_border_radious": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_icon_box_infobox_bg_hover_group_background": "classic",
+                                                "ekit_icon_box_infobox_bg_hover_group_color": "#272B36",
+                                                "ekit_icon_title_color": "",
+                                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                                "ekit_icon_description_color": "",
+                                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                                "ekit_icon_box_icon_primary_color": "#FF6041",
+                                                "ekit_icon_box_hover_primary_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "797bcccd",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40,
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 30,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.3)"
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 40,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "446636db",
+                            "settings": {
+                                "blur": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7ba955ed",
+                            "settings": {
+                                "title": "Why Choose Us",
+                                "header_size": "h6",
+                                "title_color": "#FFFFFF",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4486d48a",
+                            "settings": {
+                                "title": "With age, comes wisdom. With travel, comes understanding.",
+                                "title_color": "#FFFFFF",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "40cdda63",
+                            "settings": {
+                                "text_color": "#FFFFFF",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "536ca299",
+                            "settings": {
+                                "text": "Book Now",
+                                "size": "md",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "27597b98",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "6f01ea8f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "ee18bad",
+                            "settings": {
+                                "title": "Destination",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "287b710",
+                            "settings": {
+                                "title": "Our Best Destination.",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "c4f7681",
+                            "settings": {
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "layout": "full_width",
+                                "gap": "no"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1404491e",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "78bd59f0",
+                                            "settings": {
+                                                "ekit_img_accordion_items": [
+                                                    {
+                                                        "ekit_img_accordion_title": "Switzerland",
+                                                        "_id": "72e9328",
+                                                        "ekit_img_accordion_bg": {
+                                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/swiss-alps.jpg",
+                                                            "id": 7
+                                                        },
+                                                        "ekit_img_accordion_button_label": "Discover More",
+                                                        "ekit_img_accordion_button_url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "ekit_img_accordion_title": "Indonesia",
+                                                        "ekit_img_accordion_bg": {
+                                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/bromo-vocalno-at-sunrise-east-java-indonesia.jpg",
+                                                            "id": 775
+                                                        },
+                                                        "ekit_img_accordion_button_label": "Discover More",
+                                                        "ekit_img_accordion_button_url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "f0c7cce"
+                                                    },
+                                                    {
+                                                        "ekit_img_accordion_title": "Japan",
+                                                        "ekit_img_accordion_bg": {
+                                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/mountain-fuji-and-maple-tree.jpg",
+                                                            "id": 776
+                                                        },
+                                                        "ekit_img_accordion_button_label": "Discover More",
+                                                        "ekit_img_accordion_button_url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "b444e47"
+                                                    },
+                                                    {
+                                                        "ekit_img_accordion_title": "Vietnam",
+                                                        "ekit_img_accordion_active": "",
+                                                        "ekit_img_accordion_bg": {
+                                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/picturesque-sea-landscape-ha-long-bay-vietnam.jpg",
+                                                            "id": 777
+                                                        },
+                                                        "ekit_img_accordion_button_label": "Discover More",
+                                                        "ekit_img_accordion_button_url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "7aa5c07"
+                                                    },
+                                                    {
+                                                        "ekit_img_accordion_title": "Nepal",
+                                                        "ekit_img_accordion_bg": {
+                                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/everest-base-camp-mountains-landscape.jpg",
+                                                            "id": 778
+                                                        },
+                                                        "ekit_img_accordion_button_label": "Discover More",
+                                                        "ekit_img_accordion_button_url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "5190733"
+                                                    }
+                                                ],
+                                                "active_behavior": "hover",
+                                                "ekit_img_accordion_gutter": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "ekit_img_accordion_section_img_accordion_icon_title": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_img_accordion_title_typography_group_typography": "custom",
+                                                "ekit_img_accordion_title_typography_group_font_family": "Poppins",
+                                                "ekit_img_accordion_title_typography_group_font_weight": "600",
+                                                "ekit_img_accordion_section_img_accordion_content_padding": {
+                                                    "unit": "em",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "ekit_img_accordion_section_img_accordion_content_position": "flex-end",
+                                                "ekit_img_accordion_btn_bg_color_group_background": "classic",
+                                                "ekit_img_accordion_btn_bg_color_group_color": "#FF6041",
+                                                "ekit_img_accordion_btn_border_group_border": "",
+                                                "ekit_img_accordion_btn_bg_hover_color_group_background": "classic",
+                                                "ekit_img_accordion_btn_bg_hover_color_group_color": "#EA406F",
+                                                "items_style_mobile": "vertical"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-image-accordion",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5e80b6e5",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_3.png",
+                    "id": 398
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "1",
+                    "bottom": "2",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "content_position": "middle"
+            },
+            "elements": [
+                {
+                    "id": "12d1e9f",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 40,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 30,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.1)"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "53da9257",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "26a44603",
+                            "settings": {
+                                "title": "Achievement",
+                                "header_size": "h6",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "569620a4",
+                            "settings": {
+                                "title": "Our Achievement and Award",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "361129ae",
+                            "settings": {
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7d1d8d92",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 60,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 60,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5c4a0e18",
+                            "settings": {
+                                "editor": "<p>Luctus porta semper aptent morbi. Vestibulum lectus tempus augue dictumst enim commodo facilisis. Mus laoreet scelerisque habitant urna dui sem diam. Purus dis nam eget. Scelerisque placerat lectus lorem etiam. Elementum integer phasellus lectus.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1f940bed",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-23.png",
+                                    "id": 832
+                                },
+                                "image_size": "full",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4e986e59",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-22.png",
+                                    "id": 831
+                                },
+                                "image_size": "full",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4e0cf61",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-18.png",
+                                    "id": 829
+                                },
+                                "image_size": "full",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "173e480",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/logo-20.png",
+                                    "id": 830
+                                },
+                                "image_size": "full",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "68a52425",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "content_position": "middle",
+                "background_background": "classic",
+                "background_color": "#272B36",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/memphis_2.png",
+                    "id": 368
+                },
+                "background_overlay_position": "top right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "initial",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "17d0958d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 30,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.3)"
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2adcdaa5",
+                            "settings": {
+                                "blur": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wn-elementor-glassy-widget",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1bbcacf9",
+                            "settings": {
+                                "title": "testimonial",
+                                "header_size": "h6",
+                                "title_color": "#FFFFFF",
+                                "align_mobile": "center",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4b539e4a",
+                            "settings": {
+                                "title": "What They Say",
+                                "title_color": "#FFFFFF",
+                                "align_mobile": "center",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7aadb8d",
+                            "settings": {
+                                "ekit_testimonial_style": "style5",
+                                "ekit_testimonial_wartermarks": {
+                                    "value": "icon icon-quote2",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_testimonial_wartermark_custom_position": "",
+                                "ekit_testimonial_data": [
+                                    {
+                                        "client_name": "Niki",
+                                        "_id": "1306c12",
+                                        "designation": "Traveler",
+                                        "review": "At posuere elit fermentum amet habitant vulputate eros. Enim mattis class elit habitasse justo morbi nibh interdum.",
+                                        "client_photo": {
+                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/young-happy-woman-walking-outside.jpg",
+                                            "id": 794
+                                        }
+                                    },
+                                    {
+                                        "client_name": "Melinda Lee",
+                                        "designation": "Traveler",
+                                        "review": "At posuere elit fermentum amet habitant vulputate eros. Enim mattis class elit habitasse justo morbi nibh interdum.",
+                                        "client_photo": {
+                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/beautiful-young-asian-woman-smile-and-happy-with-travel-trip-in-e1614246747146.jpg",
+                                            "id": 609
+                                        },
+                                        "_id": "59a4d46"
+                                    },
+                                    {
+                                        "client_name": "Yukito",
+                                        "designation": "Traveler",
+                                        "review": "At posuere elit fermentum amet habitant vulputate eros. Enim mattis class elit habitasse justo morbi nibh interdum.",
+                                        "client_photo": {
+                                            "url": "https:\/\/brosurku.online\/kits\/avontur\/wp-content\/uploads\/sites\/22\/2021\/02\/women-casual-jeans-hat-girl-freedom-simplicity-concept.jpg",
+                                            "id": 204
+                                        },
+                                        "_id": "eaf3898"
+                                    }
+                                ],
+                                "ekit_testimonial_left_right_spacing": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_slidetoshow": 3,
+                                "ekit_testimonial_layout_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_testimonial_client_name_normal_color": "#272B36",
+                                "ekit_testimonial_client_name_typography_typography": "custom",
+                                "ekit_testimonial_client_name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_designation_typography_typography": "custom",
+                                "ekit_testimonial_designation_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

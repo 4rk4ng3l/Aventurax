@@ -1,0 +1,1407 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Travosca",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/theme.kulokale.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination Detail",
+            "screenshot": "screenshots\/destination-detail.jpg",
+            "source": "templates\/destination-detail.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/destination-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tour Package",
+            "screenshot": "screenshots\/tour-package.jpg",
+            "source": "templates\/tour-package.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/tour-package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destinations",
+            "screenshot": "screenshots\/destinations.jpg",
+            "source": "templates\/destinations.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/destinations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/theme.kulokale.com\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "waterfall-on-korana-river-canyon-in-village-of-ras-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/waterfall-on-korana-river-canyon-in-village-of-ras-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 313323,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waterfall-on-korana-river-canyon-in-village-of-ras-PZGCJ2X"
+        },
+        {
+            "filename": "innerdalen-valley-beautiful-hiking-destination-nor-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/innerdalen-valley-beautiful-hiking-destination-nor-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 363712,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/innerdalen-valley-beautiful-hiking-destination-nor-P9A2RG6"
+        },
+        {
+            "filename": "sveti-stefan-from-above-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/sveti-stefan-from-above-small-600x397.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 182363,
+            "dimensions": [
+                1500,
+                992
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sveti-stefan-from-above-Y9WQHVJ"
+        },
+        {
+            "filename": "view-at-waterfall-path-along-mountain-stream-touri-potrait-1.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/view-at-waterfall-path-along-mountain-stream-touri-potrait-1-600x804.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 314343,
+            "dimensions": [
+                1000,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/view-at-waterfall-path-along-mountain-stream-touri-B3FPY8C"
+        },
+        {
+            "filename": "the-old-city-of-toledo-in-spain-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/the-old-city-of-toledo-in-spain-small-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 199149,
+            "dimensions": [
+                1500,
+                1003
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-old-city-of-toledo-in-spain-PBRXU8Z"
+        },
+        {
+            "filename": "aerial-view-of-cruise-ship-at-harbor-at-night-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/aerial-view-of-cruise-ship-at-harbor-at-night-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 120533,
+            "dimensions": [
+                1200,
+                799
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/aerial-view-of-cruise-ship-at-harbor-at-night-Z3FQXU9"
+        },
+        {
+            "filename": "dots-green.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/dots-green.png",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3747,
+            "dimensions": [
+                242,
+                214
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-6.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 8908,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "Icon-12.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-12.png",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 7492,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "Icon-10.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 11666,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "Icon-11.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                }
+            ],
+            "filesize": 8119,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "the-cave-potrait.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/the-cave-potrait-600x698.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 269179,
+            "dimensions": [
+                1000,
+                1163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-cave-PXYZLST"
+        },
+        {
+            "filename": "landscape-of-snowy-mountains-swiss-alps-potrait.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/landscape-of-snowy-mountains-swiss-alps-potrait-600x698.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 311533,
+            "dimensions": [
+                1000,
+                1163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/landscape-of-snowy-mountains-swiss-alps-PLM9XJV"
+        },
+        {
+            "filename": "water-street-of-venice-potrait.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/water-street-of-venice-potrait-600x698.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 257241,
+            "dimensions": [
+                1000,
+                1163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/water-street-of-venice-BMCNEGQ"
+        },
+        {
+            "filename": "star-new.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/star-new.png",
+            "templates": [
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 4384,
+            "dimensions": [
+                200,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sunset-and-eiffel-tower-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/sunset-and-eiffel-tower-small-600x429.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 166400,
+            "dimensions": [
+                1200,
+                857
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sunset-and-eiffel-tower-P4YHTWL"
+        },
+        {
+            "filename": "marina-bay-sands-at-night-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/marina-bay-sands-at-night-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 174200,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/marina-bay-sands-at-night-PWGHTRP"
+        },
+        {
+            "filename": "dolomites-italy-landscape-at-passo-gardena-aerial-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/dolomites-italy-landscape-at-passo-gardena-aerial-small-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 216072,
+            "dimensions": [
+                1500,
+                1124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dolomites-italy-landscape-at-passo-gardena-aerial--6TJUHAC"
+        },
+        {
+            "filename": "the-office-building-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/the-office-building-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-package.json",
+                    "name": "Tour Package"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 217704,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-office-building-LHVEMU3"
+        },
+        {
+            "filename": "our-team-1.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/our-team-1-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 81234,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-smile-camera-taking-selfie-photo-in-wint-PLABW2M"
+        },
+        {
+            "filename": "our-team-2.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/our-team-2-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 65052,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/travel-guide-tourism-in-europe-woman-tourist-with--6GA4TE2"
+        },
+        {
+            "filename": "our-team-3.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/our-team-3-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 72128,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/casual-man-with-laptop-YSLZVR4"
+        },
+        {
+            "filename": "our-team-4.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/our-team-4-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 64922,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/arab-girl-in-casual-clothes-in-the-street-YLXCMB6"
+        },
+        {
+            "filename": "our-team-6.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/our-team-6-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 93381,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/photo-of-successful-happy-man-standing-and-drinkin-NPPG3RZ"
+        },
+        {
+            "filename": "our-team-5.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/our-team-5-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 103199,
+            "dimensions": [
+                800,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-smiling-girl-in-denim-jacket-with-stylis-DZBNC9T"
+        },
+        {
+            "filename": "beautiful-cliff-formation-with-yellow-pool-bizarre-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/beautiful-cliff-formation-with-yellow-pool-bizarre-small-600x337.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 285922,
+            "dimensions": [
+                1378,
+                775
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-cliff-formation-with-yellow-pool-bizarre-GT2BRKJ"
+        },
+        {
+            "filename": "beautiful-nature-norway-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/beautiful-nature-norway-small-600x337.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 318184,
+            "dimensions": [
+                1500,
+                843
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-nature-norway-G2B2H52"
+        },
+        {
+            "filename": "london-landmark-towerbridge-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/london-landmark-towerbridge-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 80318,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/london-landmark-towerbridge-P7RZQN8"
+        },
+        {
+            "filename": "rice-fields-near-ubud-bali-indonesia-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/rice-fields-near-ubud-bali-indonesia-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 241270,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rice-fields-near-ubud-bali-indonesia-ML9NMTY"
+        },
+        {
+            "filename": "venice-landmark-burano-island-canal-colorful-house-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/venice-landmark-burano-island-canal-colorful-house-small-600x406.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 199490,
+            "dimensions": [
+                1200,
+                811
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/venice-landmark-burano-island-canal-colorful-house-P7PA8DK"
+        },
+        {
+            "filename": "rice-fields-near-ubud-bali-indonesia-potrait.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/rice-fields-near-ubud-bali-indonesia-potrait-600x698.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 261405,
+            "dimensions": [
+                1000,
+                1163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rice-fields-near-ubud-bali-indonesia-ML9NMTY"
+        },
+        {
+            "filename": "honeymoon-couple-travel-europe-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/honeymoon-couple-travel-europe-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 101841,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/honeymoon-couple-travel-europe-BBTM9ZT"
+        },
+        {
+            "filename": "young-man-smile-camera-taking-selfie-photo-in-wint-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/young-man-smile-camera-taking-selfie-photo-in-wint-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 60074,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-smile-camera-taking-selfie-photo-in-wint-PLABW2M"
+        },
+        {
+            "filename": "Icon-5.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 10037,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "Icon-7.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 5443,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "Icon-9.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/Icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 14397,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 13860,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 11368,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 4606,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icons-CBC7D8"
+        },
+        {
+            "filename": "view-at-waterfall-path-along-mountain-stream-touri-potrait.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/view-at-waterfall-path-along-mountain-stream-touri-potrait-600x698.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 281860,
+            "dimensions": [
+                1000,
+                1163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/view-at-waterfall-path-along-mountain-stream-touri-B3FPY8C"
+        },
+        {
+            "filename": "tourist-couple-traveling-travel-walking-on-street-small.jpg",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/tourist-couple-traveling-travel-walking-on-street-small-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 71534,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tourist-couple-traveling-travel-walking-on-street--8Y9869J"
+        },
+        {
+            "filename": "travel-07.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/travel-07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 100942,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icon-5ZB9FF8"
+        },
+        {
+            "filename": "travel-12.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/travel-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 37267,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icon-5ZB9FF8"
+        },
+        {
+            "filename": "travel-08.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/travel-08.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 25926,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icon-5ZB9FF8"
+        },
+        {
+            "filename": "travel-01.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/travel-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 33558,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/travel-icon-5ZB9FF8"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3901,
+            "dimensions": [
+                500,
+                281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 4953,
+            "dimensions": [
+                500,
+                281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 5171,
+            "dimensions": [
+                500,
+                281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-8.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 5182,
+            "dimensions": [
+                500,
+                281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-10.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/logo-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 4544,
+            "dimensions": [
+                500,
+                281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/theme.kulokale.com\/wp-content\/uploads\/2020\/07\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3475,
+            "dimensions": [
+                500,
+                281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        }
+    ]
+}

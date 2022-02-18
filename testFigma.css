@@ -1,0 +1,219 @@
+.boxTour{
+    width: 356px;
+    height: 543px;
+    top: 48px;
+    left: 10px;
+    background-color: white;
+}
+
+.rectangleYellowDiscount{
+    position: absolute;
+    width: 192px;
+    height: 27px;
+    top: 21px;
+    left: 23px;
+    border-radius: 20px;
+    background-color: #FFB421;
+    box-shadow: 0, 2, 4 , 0;
+}
+
+.textYellowDiscount{
+    position: absolute;
+    width: 170px;
+    height: 111px;
+    top: 2px;
+    bottom: 3px;
+    left: 11px;
+    right: 11px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+
+.textWhiteDiscount{
+    position: absolute;
+    top: 63px;
+    left: 24px;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.18px;
+}
+.textGrayDiscount{
+    position: absolute;
+    top: 92px;
+    left: 25px;
+    font-family: 'Poppins';
+    font-size: 21px;   
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0.15px;
+    color: #6F727C;
+    text-decoration: line-through;
+}
+.primerDropdown{
+    position: absolute;
+    top:130px;
+    left: 22px;
+}
+
+.segundoDropdown{
+    position: absolute;
+    top: 194px;
+    left: 22px;
+}
+
+.tercerDropdown{
+    position: absolute;
+    top: 258px;
+    left: 22px;
+}
+
+.dropdownTour{
+    width: 313px;
+    height: 55px;
+    border: 1px solid #BDBDBD;
+    border-radius: 10px;
+}
+
+.icono{
+    position: absolute;
+    top: 20px;
+    left: 19.25px;
+}
+
+
+.titleDropdown{
+    position: absolute;
+    top: 9px;
+    left: 42px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 0.4px;
+    color: #6F727C;
+}
+
+.textoDropdown{
+    position: absolute;
+    top: 24px;
+    left: 42px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color: #1A281F;
+}
+
+.iconoDesplegable{
+    position: absolute;
+    top: 24px;
+    left: 283px;
+}
+
+.dropdownTour ul{
+    position: relative;
+    top: 0px;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+.dropdownTour li{
+    color: #9E9E9E;
+    background: white;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.1px;
+}
+
+
+
+.dropdownTour ul li{
+    visibility:hidden;
+    opacity: 1;
+}
+
+.dropdownTour ul:hover > li{
+    transform: translateY(56px);
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    z-index: 10;
+}
+
+.dropdownTour ul li:hover{
+    font-weight: 600;
+    color: #1A281F;
+}
+
+.boxFechas{
+    position: absolute;
+    top: 322px;
+    left: 22px;
+    width: 313px;
+    height: 130px;
+    border: 1px solid #BDBDBD;
+    border-radius: 10px;
+}
+
+.boxFecha{
+    width: 134px;
+    height: 27px;
+    border-radius: 10px;
+    border: 1px solid #6F727C;
+    opacity: 40%;
+}
+
+.boxFecha:hover{
+    background: #B0DD94;
+}
+
+.primerFecha{
+    position:absolute;
+    top: 51px;
+    left: 12px;
+}
+
+.iconoFecha{
+    position: absolute;
+    top: 20.5;
+    left: 18.5;
+}
+
+.textoFecha{
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #393A47;
+    top: 16px;
+    left: 42px;
+}
+
+.boxFecha span{
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    color: #393A47;
+    opacity: 1;
+    letter-spacing: 0.4px;
+}

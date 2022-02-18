@@ -1,0 +1,775 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Travelio - Travel & Tourism Information Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kreativ.space",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination Detail",
+            "screenshot": "screenshots\/destination-detail.jpg",
+            "source": "templates\/destination-detail.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/destination-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destination",
+            "screenshot": "screenshots\/destination.jpg",
+            "source": "templates\/destination.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/destination\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detail Trip",
+            "screenshot": "screenshots\/detail-trip.jpg",
+            "source": "templates\/detail-trip.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/detail-trip\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Trip Service",
+            "screenshot": "screenshots\/trip-service.jpg",
+            "source": "templates\/trip-service.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/trip-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive",
+                    "include\/archive\/category",
+                    "include\/archive\/post_tag"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive &amp; Categories &amp; Tags."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kreativ.space\/travelio\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.7",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.4.7",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Group-10-5.png",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/Group-10-5-800x563.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 281149,
+            "dimensions": [
+                1092,
+                769
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "travel-4-e1637916013188.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-4-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145974,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C2XWWGR"
+        },
+        {
+            "filename": "travel-e1637916037140.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 210400,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LE7XSNQ"
+        },
+        {
+            "filename": "travel-2-e1637916027749.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92967,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3YRUJLL"
+        },
+        {
+            "filename": "travel-3-e1637916022695.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-3-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109641,
+            "dimensions": [
+                1000,
+                664
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XACXJZU"
+        },
+        {
+            "filename": "travel-5-e1637916006812.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-5-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 230777,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V3LUX2Z"
+        },
+        {
+            "filename": "travel-6-e1637916002184.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 128863,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YTBWHMX"
+        },
+        {
+            "filename": "travel-e1639728406791.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/12\/travel-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106288,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-98YMU5G"
+        },
+        {
+            "filename": "portrait-of-stylish-women-the-secret-e1639728431482.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/12\/portrait-of-stylish-women-the-secret-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 82677,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PX6PURE"
+        },
+        {
+            "filename": "beautiful-hair-women-brunette-long-hair-beauty-hairstyle-female-portrait-healthy-skin-e1639728419153.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/12\/beautiful-hair-women-brunette-long-hair-beauty-hairstyle-female-portrait-healthy-skin-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 98075,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-64R327L"
+        },
+        {
+            "filename": "a-men-look-back-before-driving-e1639728413589.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/12\/a-men-look-back-before-driving-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-detail.json",
+                    "name": "Destination Detail"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90159,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V3X5JV7"
+        },
+        {
+            "filename": "travel-7-e1637915997821.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 84384,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TQ5FM37"
+        },
+        {
+            "filename": "travel-8-e1637915992767.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-8-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                },
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/trip-service.json",
+                    "name": "Trip Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 123317,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5EB7BSA"
+        },
+        {
+            "filename": "travel-1-e1637916032906.jpg",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/travel-1-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-trip.json",
+                    "name": "Detail Trip"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 80675,
+            "dimensions": [
+                1000,
+                663
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-565NGY9"
+        },
+        {
+            "filename": "maps.png",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/maps-800x728.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 103079,
+            "dimensions": [
+                889,
+                809
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "icons.png",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/icons-800x767.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 160239,
+            "dimensions": [
+                835,
+                801
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "http:\/\/kreativ.space\/travelio\/wp-content\/uploads\/sites\/47\/2021\/11\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2072,
+            "dimensions": [
+                149,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        }
+    ]
+}

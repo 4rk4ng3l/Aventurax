@@ -1,0 +1,363 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Logen Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Footer 2",
+            "screenshot": "screenshots\/logen-footer-2.jpg",
+            "source": "templates\/logen-footer-2.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-footer-2",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/1030"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Page #1030."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Header 2",
+            "screenshot": "screenshots\/logen-header-2.jpg",
+            "source": "templates\/logen-header-2.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-header-2",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/1030"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Page #1030."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Contact",
+            "screenshot": "screenshots\/logen-contact.jpg",
+            "source": "templates\/logen-contact.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/template-kit\/logen-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Home 03",
+            "screenshot": "screenshots\/logen-home-03.jpg",
+            "source": "templates\/logen-home-03.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/template-kit\/logen-home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Home 02",
+            "screenshot": "screenshots\/logen-home-02.jpg",
+            "source": "templates\/logen-home-02.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/template-kit\/logen-home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Home 01",
+            "screenshot": "screenshots\/logen-home-01.jpg",
+            "source": "templates\/logen-home-01.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/template-kit\/logen-home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Single 2",
+            "screenshot": "screenshots\/logen-single-2.jpg",
+            "source": "templates\/logen-single-2.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-single-2",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post\/567"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Post #567."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Single 1",
+            "screenshot": "screenshots\/logen-single-1.jpg",
+            "source": "templates\/logen-single-1.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-single-1",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Archive Author",
+            "screenshot": "screenshots\/logen-archive-author.jpg",
+            "source": "templates\/logen-archive-author.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-archive-author",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-category",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/author"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Author Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Archive Category",
+            "screenshot": "screenshots\/logen-archive-category.jpg",
+            "source": "templates\/logen-archive-category.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-archive-category",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-category",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/category",
+                    "include\/archive\/post_tag",
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Categories &amp; Tags &amp; All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Search",
+            "screenshot": "screenshots\/logen-search.jpg",
+            "source": "templates\/logen-search.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-search",
+            "type": "search-results",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-search",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "search-results",
+                "elementor_pro_conditions": [
+                    "include\/archive\/search"
+                ],
+                "additional_template_information": [
+                    "This is a \"Search Results\" template for Elementor Pro.",
+                    "This template will display on: Search Results."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen 404",
+            "screenshot": "screenshots\/logen-404.jpg",
+            "source": "templates\/logen-404.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen OffCanvasMenu",
+            "screenshot": "screenshots\/logen-offcanvasmenu.jpg",
+            "source": "templates\/logen-offcanvasmenu.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-offcanvasmenu",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Footer",
+            "screenshot": "screenshots\/logen-footer.jpg",
+            "source": "templates\/logen-footer.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Logen Header",
+            "screenshot": "screenshots\/logen-header.jpg",
+            "source": "templates\/logen-header.json",
+            "preview_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/?elementor_library=logen-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "https:\/\/allthebestsofts.com\/logen_elementorkit\/wp-content\/uploads\/2019\/07\/logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/logen-footer-2.json",
+                    "name": "Logen Footer 2"
+                },
+                {
+                    "source": "templates\/logen-footer.json",
+                    "name": "Logen Footer"
+                }
+            ],
+            "filesize": 1578,
+            "dimensions": [
+                102,
+                18
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/themeforest.net\/"
+        }
+    ]
+}

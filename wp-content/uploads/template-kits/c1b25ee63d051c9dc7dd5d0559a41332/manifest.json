@@ -1,0 +1,1361 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Navine \u2013 Yacht Club & Boat Rental Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Booking",
+            "screenshot": "screenshots\/metform-booking.jpg",
+            "source": "templates\/metform-booking.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/metform-booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Charter",
+            "screenshot": "screenshots\/charter.jpg",
+            "source": "templates\/charter.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/charter\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination",
+            "screenshot": "screenshots\/destination.jpg",
+            "source": "templates\/destination.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/destination\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Crew",
+            "screenshot": "screenshots\/crew.jpg",
+            "source": "templates\/crew.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/crew\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header 2",
+            "screenshot": "screenshots\/header-2.jpg",
+            "source": "templates\/header-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/header-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/navine\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "boats-and-luxury-yachts-in-transparent-sea-at-sunny-day-aerial-e1629439830225.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/boats-and-luxury-yachts-in-transparent-sea-at-sunny-day-aerial-e1628731847792-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 289954,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YPJE9T6"
+        },
+        {
+            "filename": "luxury-yacht-in-malta-marina-e1629439841186.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/luxury-yacht-in-malta-marina-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 185624,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVT6ALR"
+        },
+        {
+            "filename": "aerial-view-of-beautiful-yachts-and-boats-on-the-sea-at-sunset-e1629445541973.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-beautiful-yachts-and-boats-on-the-sea-at-sunset-e1629445541973.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 222247,
+            "dimensions": [
+                1240,
+                826
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CKVHLYZ"
+        },
+        {
+            "filename": "asset2-HCHD8CS.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/asset2-HCHD8CS-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 47065,
+            "dimensions": [
+                1129,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCHD8CS"
+        },
+        {
+            "filename": "asset4-HCHD8CS.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/asset4-HCHD8CS-800x756.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 27453,
+            "dimensions": [
+                1139,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCHD8CS"
+        },
+        {
+            "filename": "asset3-HCHD8CS.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/asset3-HCHD8CS-800x985.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 22406,
+            "dimensions": [
+                853,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCHD8CS"
+        },
+        {
+            "filename": "asset5-HCHD8CS.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/asset5-HCHD8CS-800x994.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 43047,
+            "dimensions": [
+                903,
+                1122
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCHD8CS"
+        },
+        {
+            "filename": "aerial-view-of-luxury-yachts-in-transparent-blue-sea-e1629441151347.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-luxury-yachts-in-transparent-blue-sea-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 306631,
+            "dimensions": [
+                1720,
+                1146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CADSHKG"
+        },
+        {
+            "filename": "woman-travel-on-yacht-e1628501917892.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/woman-travel-on-yacht-e1628501917892-800x867.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 232137,
+            "dimensions": [
+                1200,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9YML4JQ"
+        },
+        {
+            "filename": "luxury-motorboats-or-yachts-moored-in-a-marina-e1629439882987.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/luxury-motorboats-or-yachts-moored-in-a-marina-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 250545,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-B2PVJU3"
+        },
+        {
+            "filename": "anchored-big-yachts-and-sailboats-on-a-turquoise-water-e1629439897591.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/anchored-big-yachts-and-sailboats-on-a-turquoise-water-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 172637,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJN73VF"
+        },
+        {
+            "filename": "yacht-boats-parked-at-a-marina-e1629439919694.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/yacht-boats-parked-at-a-marina-e1628733013575-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 193115,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-K46MTMZ"
+        },
+        {
+            "filename": "boats-and-luxury-yachts-in-transparent-sea-at-sunset-e1629439965347.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/boats-and-luxury-yachts-in-transparent-sea-at-sunset-800x544.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 208316,
+            "dimensions": [
+                1440,
+                979
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ACMU5XH"
+        },
+        {
+            "filename": "yacht-in-ocean--e1629439987133.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/yacht-in-ocean--800x568.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 95261,
+            "dimensions": [
+                1440,
+                1022
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9KYR4L4"
+        },
+        {
+            "filename": "huge-luxury-yacht-cruising-offshore-e1629440348680.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/huge-luxury-yacht-cruising-offshore-800x541.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 211424,
+            "dimensions": [
+                1440,
+                973
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BTRMDJZ"
+        },
+        {
+            "filename": "luxury-yacht-and-blue-sea-at-sunset-in-summer-aerial-view-e1629440359838.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/luxury-yacht-and-blue-sea-at-sunset-in-summer-aerial-view-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 274484,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QUN6LFR"
+        },
+        {
+            "filename": "a-black-man-on-a-luxury-yacht-e1629440370259.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/a-black-man-on-a-luxury-yacht-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 129106,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JLL4HMD"
+        },
+        {
+            "filename": "sexy-woman-sail-on-yacht-e1628492413958.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/sexy-woman-sail-on-yacht-e1628492413958-800x506.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 306065,
+            "dimensions": [
+                1865,
+                1180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SBP28U8"
+        },
+        {
+            "filename": "happy-man-on-the-sailboat-e1629441101974.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/happy-man-on-the-sailboat-800x502.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 143751,
+            "dimensions": [
+                1440,
+                903
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW5DH53"
+        },
+        {
+            "filename": "sexy-girl-in-swimwear-on-yacht-in-tropics-e1629440388664.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/sexy-girl-in-swimwear-on-yacht-in-tropics-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 164054,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CEXN5A7"
+        },
+        {
+            "filename": "aerial-view-of-boats-luxury-yachts-on-the-sea-in-sunny-day-e1629441205440.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-boats-luxury-yachts-on-the-sea-in-sunny-day-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 277866,
+            "dimensions": [
+                1720,
+                1142
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-A3KTDQ8"
+        },
+        {
+            "filename": "the-view-from-the-air-on-boats-near-the-shore-bali-island-indonesia-e1629446906596.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/the-view-from-the-air-on-boats-near-the-shore-bali-island-indonesia-e1629446906596.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 291229,
+            "dimensions": [
+                1100,
+                1401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EYMJAKX"
+        },
+        {
+            "filename": "boats-and-luxury-yachts-in-transparent-sea-at-sunny-day-aerial-1-e1629441234543.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/boats-and-luxury-yachts-in-transparent-sea-at-sunny-day-aerial-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 250913,
+            "dimensions": [
+                1240,
+                826
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QG76HZF"
+        },
+        {
+            "filename": "luxury-vacation-on-a-yacht-in-the-yasawa-islands-of-fiji-in-the-south-pacific--e1629441256859.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/luxury-vacation-on-a-yacht-in-the-yasawa-islands-of-fiji-in-the-south-pacific--800x1054.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 182144,
+            "dimensions": [
+                1000,
+                1318
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LQRZV8B"
+        },
+        {
+            "filename": "travel-e1629441268729.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/travel-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 221224,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJFA4RW"
+        },
+        {
+            "filename": "assos-village-in-morning-light-kefalonia-greece-white-lonely-yacht-in-beautiful-turquoise-colored-e1629441293531.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/assos-village-in-morning-light-kefalonia-greece-white-lonely-yacht-in-beautiful-turquoise-colored-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 216568,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NFA6TNS"
+        },
+        {
+            "filename": "tropical-islands-e1629441324887.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/tropical-islands-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 214489,
+            "dimensions": [
+                1000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4HLX84X"
+        },
+        {
+            "filename": "white-catamaran-yacht-in-clear-blue-transparent-sea-water-surface-hidden-framed-by-branches-of-pine-e1629441313277.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/white-catamaran-yacht-in-clear-blue-transparent-sea-water-surface-hidden-framed-by-branches-of-pine-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 266210,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N3W8K4G"
+        },
+        {
+            "filename": "beautiful-island-with-boats-e1629441336420.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/beautiful-island-with-boats-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 268573,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XH2HEVT"
+        },
+        {
+            "filename": "season-of-sailing-BR4M9D5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/season-of-sailing-BR4M9D5-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 107008,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BR4M9D5"
+        },
+        {
+            "filename": "attractive-strong-woman-sailing-with-her-boat-NMTH58A.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/attractive-strong-woman-sailing-with-her-boat-NMTH58A-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 69009,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NMTH58A"
+        },
+        {
+            "filename": "aerial-view-of-boats-luxury-yachts-and-transparent-sea-e1629441350475.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-boats-luxury-yachts-and-transparent-sea-800x658.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 278144,
+            "dimensions": [
+                1440,
+                1184
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QUCK8ZY"
+        },
+        {
+            "filename": "sailboat-and-coastline-in-background-concept-of-travel-and-enjoy-freedom-on-boat-e1629441365427.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/sailboat-and-coastline-in-background-concept-of-travel-and-enjoy-freedom-on-boat-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 276793,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5ZXVKPE"
+        },
+        {
+            "filename": "water-e1629441375661.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/water-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 216621,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L345M7U"
+        },
+        {
+            "filename": "picture-of-luxury-white-yachts-in-harbor-e1629441401487.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/picture-of-luxury-white-yachts-in-harbor-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 165833,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XAK9RPM"
+        },
+        {
+            "filename": "aerial-view-of-beautiful-yachts-and-boats-on-the-sea-at-sunset-1-e1629441440486.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-beautiful-yachts-and-boats-on-the-sea-at-sunset-1-800x522.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 319577,
+            "dimensions": [
+                1440,
+                940
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-65A5345"
+        },
+        {
+            "filename": "assos-cute-town-on-kefalonia-island-greece-view-of-beautiful-bay-with-sail-yacht-boat-and-e1629441427204.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/assos-cute-town-on-kefalonia-island-greece-view-of-beautiful-bay-with-sail-yacht-boat-and-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination.json",
+                    "name": "Destination"
+                }
+            ],
+            "filesize": 242371,
+            "dimensions": [
+                1240,
+                827
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RDL3PM5"
+        },
+        {
+            "filename": "top-view-from-drone-seascape-with-motorboat-in-bay--e1629441452172.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/top-view-from-drone-seascape-with-motorboat-in-bay--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 316186,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GBELR9M"
+        },
+        {
+            "filename": "aerial-view-of-boats-and-floating-water-scooter-in-blue-sea-e1629441488442.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-boats-and-floating-water-scooter-in-blue-sea-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 223231,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5CULE97"
+        },
+        {
+            "filename": "handsome-strong-man-sailing-with-his-boat-G6ABDP2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/handsome-strong-man-sailing-with-his-boat-G6ABDP2-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 106383,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G6ABDP2"
+        },
+        {
+            "filename": "captain-on-a-yacht-behind-steering-wheel-PTCB2UM.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/captain-on-a-yacht-behind-steering-wheel-PTCB2UM-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 99961,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTCB2UM"
+        },
+        {
+            "filename": "hipster-man-at-yacht-station-RVXJ4T2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/hipster-man-at-yacht-station-RVXJ4T2-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/crew.json",
+                    "name": "Crew"
+                }
+            ],
+            "filesize": 109636,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RVXJ4T2"
+        },
+        {
+            "filename": "aerial-view-of-boats-and-yachts-on-tropical-sea-coast-in-summer-e1629441500538.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-boats-and-yachts-on-tropical-sea-coast-in-summer-800x517.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 323901,
+            "dimensions": [
+                1920,
+                1241
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AWQ7N2R"
+        },
+        {
+            "filename": "croatia-view-on-the-marina-from-drone-aerial-view-of-floating-boat-on-blue-sea-at-sunny-day--e1629441551318.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/croatia-view-on-the-marina-from-drone-aerial-view-of-floating-boat-on-blue-sea-at-sunny-day--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 234296,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y4MTJRV"
+        },
+        {
+            "filename": "logo3-D64STN@3x-e1629441584192.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/logo3-D64STN@3x-800x150.png",
+            "templates": [
+                {
+                    "source": "templates\/header-2.json",
+                    "name": "Header 2"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 31215,
+            "dimensions": [
+                1000,
+                187
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-D64STN"
+        },
+        {
+            "filename": "logo-D64STN@3x-e1629441140181.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/logo-D64STN@3x-800x151.png",
+            "templates": [
+                {
+                    "source": "templates\/header-2.json",
+                    "name": "Header 2"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 24027,
+            "dimensions": [
+                1000,
+                188
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-D64STN"
+        },
+        {
+            "filename": "yacht-on-the-azure-seashore-in-balearic-islands-e1629441597201.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/yacht-on-the-azure-seashore-in-balearic-islands-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 236821,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y6587AW"
+        },
+        {
+            "filename": "people-on-a-wild-beach-near-a-motorboat-e1629441462696.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/people-on-a-wild-beach-near-a-motorboat-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 209215,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUTBY4N"
+        },
+        {
+            "filename": "aerial-view-of-beautiful-yachts-boats-on-the-sea-bay-at-sunset-e1629441563272.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-beautiful-yachts-boats-on-the-sea-bay-at-sunset-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 290314,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-V3QSXC5"
+        },
+        {
+            "filename": "summer-scenery-of-port-fiskardo-white-sail-boat-in-beautiful-tranquil-bay-opposite-rocky-seashore-e1629441129154.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/summer-scenery-of-port-fiskardo-white-sail-boat-in-beautiful-tranquil-bay-opposite-rocky-seashore-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 226636,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YFZKF8H"
+        },
+        {
+            "filename": "aerial-view-of-the-fishing-boats-and-yachts-on-tropical-sea-coast-e1629441523214.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/aerial-view-of-the-fishing-boats-and-yachts-on-tropical-sea-coast-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 283033,
+            "dimensions": [
+                1720,
+                1145
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WPP7GX8"
+        },
+        {
+            "filename": "marina-with-yachts-e1629439767281.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/navine\/wp-content\/uploads\/sites\/140\/2021\/08\/marina-with-yachts-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 248706,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RBNM9ZG"
+        }
+    ]
+}
