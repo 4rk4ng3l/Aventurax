@@ -64,7 +64,9 @@ class Widgets {
 	 * @access private
 	 */
 	private function include_widgets_files() {
+		//Agrega el control de elementor
 		require_once 'widgets/class-custom-tour.php';
+		//Agrega los endpoints de la api
 	}
 
 	/**
@@ -80,7 +82,7 @@ class Widgets {
 		$this->include_widgets_files();
 
 		// Register the plugin widget classes.
-		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new Widgets\CustomTour() );
+		\Elementor\Plugin::instance()->widgets_manager->register( new Widgets\CustomTour() );
 	}
 
 	/**
