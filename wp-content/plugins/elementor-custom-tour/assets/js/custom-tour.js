@@ -103,6 +103,13 @@ jQuery(document).ready(function ($) {
 
   if($('.tercerDropdown ul li').length <2){
     $('.tercerDropdown').addClass('Ocultar');
+    $('.boxFechas').css("top", "258px");
+    // let ss = document.styleSheets[0];
+    // let rules = ss.cssRules || ss.rules;
+    // let topRule = null;
+    // for (let i = 0; i < rules.length; i++){
+    //   let rule = rules[i];
+    // }
   }
   $("#menuOrigenes").addClass('Ocultar');
   $(".segundoDropdown > ul").addClass('Ocultar');
@@ -180,22 +187,13 @@ jQuery(document).ready(function ($) {
   $('.boxCarrito').on('click', function(e){ 
     e.preventDefault();
     $thisbutton = $(this)
-    //             $form = $thisbutton.closest('form.cart'),
-    //             id = $thisbutton.val(),
-    //             product_qty = $form.find('input[name=quantity]').val() || 1,
-    //             product_id = $form.find('input[name=product_id]').val() || id,
-    //             variation_id = $form.find('input[name=variation_id]').val() || 0;
+    
     var data = {
             action: 'ql_woocommerce_ajax_add_to_cart',
             product_id: tour.IdProduct,
             product_sku: '',
             quantity: 1,
             variation_id: tour.VariationId,
-            // action: 'ql_woocommerce_ajax_add_to_cart',
-            // product_id: product_id,
-            // product_sku: '',
-            // quantity: product_qty,
-            // variation_id: variation_id,
         };
     $.ajax({
             type: 'post',

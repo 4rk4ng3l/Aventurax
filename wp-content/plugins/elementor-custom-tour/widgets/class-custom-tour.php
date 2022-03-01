@@ -43,7 +43,6 @@ class CustomTour extends Widget_Base
 		wp_register_style('custom_tour', plugins_url('/assets/css/custom-tour.css', ELEMENTOR_CUSTOM_TOUR), array(), '1.0.0');
 		wp_enqueue_style('custom_tour');
 		wp_register_script('customTour', plugins_url('/assets/js/custom-tour.js', ELEMENTOR_CUSTOM_TOUR), ['elementor-frontend'], '1.0.0', true);
-		
 	}
 
 
@@ -210,7 +209,7 @@ class CustomTour extends Widget_Base
 		$porcentaje_ahorro = number_format($porcentaje_ahorro);
 		?>
 		<div class="BoxTour">
-			<div id="IdProduct"><?php echo($id);?></div>
+			<div id="IdProduct"><?php echo ($id); ?></div>
 			<div class="rectangleYellowDiscount">
 				<div class="textYellowDiscount">Ahorra hasta un <?php echo $porcentaje_ahorro ?>%</div>
 			</div>
@@ -284,7 +283,7 @@ class CustomTour extends Widget_Base
 						<path d="M6.99974 5.17192L11.9497 0.221924L13.3637 1.63592L6.99974 7.99992L0.635742 1.63592L2.04974 0.221924L6.99974 5.17192Z" fill="#757575" />
 					</svg>
 				</div>
-				<ul id = "menuAcomodaciones">
+				<ul id="menuAcomodaciones">
 					<?php
 					foreach ($acomodaciones as $acomodacion) {
 						echo '<li>' . $acomodacion . '</li>';
@@ -303,9 +302,9 @@ class CustomTour extends Widget_Base
 					<?php
 					$first = true;
 					foreach ($fechas as $fecha) {
-						if($first){
+						if ($first) {
 							echo '<div class="boxFecha selectedFecha"><span>' . $fecha . '</span></div>';
-						}else{
+						} else {
 							echo '<div class="boxFecha"><span>' . $fecha . '</span></div>';
 						}
 						$first = false;
@@ -313,12 +312,25 @@ class CustomTour extends Widget_Base
 					?>
 				</div>
 			</div>
+			<div class="boxCantidades">
+				<div class="textoCantidad">Cantidad</div>
+				<div class="cantidades">
+					<div class="menos">
+						<i class="fa fa-minus-circle aria-hidden=" true"></i>
+					</div>
+					<div class="cantidad">
+						<span>1</span>
+					</div>
+					<div class="mas">
+						<i class="fa fa-plus-circle aria-hidden=" true"></i>
+					</div>
+				</div>
+			</div>
 			<div class="total">Total: <span id="txtPrecio">$680.000 COP</span></div>
 			<div class="boxCarrito">
 				<div class="textCarrito"><span>Añadir al carrito</span>
 				</div>
 			</div>
-
 		</div>
 
 
