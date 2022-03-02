@@ -1,0 +1,10 @@
+2022-03-02T12:08:27+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on bool in I:\xampp\htdocs\Aventurax.co\wp-content\themes\generatepress-child\functions.php:140
+Stack trace:
+#0 I:\xampp\htdocs\Aventurax.co\wp-includes\rest-api\class-wp-rest-server.php(1141): getPriceByIdProductVariation(Object(WP_REST_Request))
+#1 I:\xampp\htdocs\Aventurax.co\wp-includes\rest-api\class-wp-rest-server.php(988): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/custom-tour/v1...', Array, NULL)
+#2 I:\xampp\htdocs\Aventurax.co\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 I:\xampp\htdocs\Aventurax.co\wp-includes\rest-api.php(386): WP_REST_Server->serve_request('/custom-tour/v1...')
+#4 I:\xampp\htdocs\Aventurax.co\wp-includes\class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 I:\xampp\htdocs\Aventurax.co\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 I:\xampp\htdocs\Aventurax.co\wp-includes\plugin.php(522): WP_Hook->do_action(Array) en I:\xampp\htdocs\Aventurax.co\wp-content\themes\generatepress-child\functions.php en la línea 140
+

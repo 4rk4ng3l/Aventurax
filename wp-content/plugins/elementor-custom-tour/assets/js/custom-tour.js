@@ -1,5 +1,5 @@
-const getPriceByVariations = "http://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
-const addProductVariationToCart =  "http://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
+const getPriceByVariations = "https://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
+const addProductVariationToCart = "https://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
 
 var tour = {
   IdProduct: "",
@@ -7,10 +7,14 @@ var tour = {
   Acomodacion: "",
   Fecha: "",
   Pago: "",
-  valor: "",
+  Valor: "",
   VariationId: "",
   Cantidad: 1,
 };
+
+const removeAccents = (str) => {
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+} 
 
 jQuery(function ($) {
   // now you can use jQuery code here with $ shortcut formatting
@@ -52,7 +56,7 @@ jQuery(document).ready(function ($) {
 
   function getAcomodacion() {
     return $("#txtAcomodacion")
-      .text()
+      .text().trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
       .replace(" ", "")
@@ -61,10 +65,10 @@ jQuery(document).ready(function ($) {
 
   function getFecha() {
     return $(".selectedFecha")
-      .text()
+      .text().trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
-      .replace(" ", "")
+      .replace(/\s/g, "-")
       .toLowerCase();
   }
 
@@ -80,30 +84,25 @@ jQuery(document).ready(function ($) {
           currency: "USD",
           maximumFractionDigits: 0,
         });
-        $("#txtPrecio").text(formatter.format(response.salePrice) + " COP");
-        console.log(response.salePrice);
+        $("#txtPrecio").text(formatter.format(response.price) + " COP");
+        console.log(response);
       },
     });
   }
 
   tour.IdProduct = getIdProduct();
-  tour.Origen = getOrigen();
+  tour.Origen = removeAccents(getOrigen());
   tour.Pago = getPago();
-  tour.Acomodacion = getAcomodacion();
+  tour.Acomodacion = removeAccents(getAcomodacion());
   tour.Fecha = getFecha();
-  tour.valor = getPrice();
+  tour.Valor = getPrice();
 
   console.log(tour);
 
   if ($(".tercerDropdown ul li").length < 2) {
     $(".tercerDropdown").addClass("Ocultar");
     $(".boxFechas").css("top", "258px");
-    // let ss = document.styleSheets[0];
-    // let rules = ss.cssRules || ss.rules;
-    // let topRule = null;
-    // for (let i = 0; i < rules.length; i++){
-    //   let rule = rules[i];
-    // }
+   
   }
   $("#menuOrigenes").addClass("Ocultar");
   $(".segundoDropdown > ul").addClass("Ocultar");
@@ -150,8 +149,9 @@ jQuery(document).ready(function ($) {
 
   $(".primerDropdown").on("click", "li", function (e) {
     $("#txtOrigen").text($(this).text());
-    tour.Origen = getOrigen();
+    tour.Origen = removeAccents(getOrigen());
     getPrice();
+    console.log(tour);
   });
 
   //Dropdown Pago Evento Click
@@ -159,12 +159,14 @@ jQuery(document).ready(function ($) {
     $("#txtPago").text($(this).text());
     tour.Pago = getPago();
     getPrice();
+    console.log(tour);
   });
   //Dropdown Acomodacion Evento Click
   $(".tercerDropdown").on("click", "li", function (e) {
     $("#txtAcomodacion").text($(this).text());
     tour.Acomodacion = getAcomodacion();
     getPrice();
+    console.log(tour);    
   });
   //Fechas seleccion al Evento Click
   $(".boxFecha").on("click", function (e) {

@@ -18,14 +18,16 @@ add_action('rest_api_init', function(){
 	register_rest_route('custom-tour/v1', '/getPriceByIdProductVariation/',
 		array(
 			'methods' => 'POST',
-			'callback' => 'getPriceByIdProductVariation'
+			'callback' => 'getPriceByIdProductVariation',
+			'permission_callback' => __return_true()
 		)
 	);
 
 	register_rest_route('custom-tour/v1', '/addProductVariationToCart/',
 		array(
 			'methods' => 'POST',
-			'callback' => 'addProductVariationToCart'
+			'callback' => 'addProductVariationToCart',
+			'permission_callback' => __return_false()
 		)
 	);
 });
