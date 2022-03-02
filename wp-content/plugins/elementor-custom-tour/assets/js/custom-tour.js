@@ -1,11 +1,5 @@
-// const wooClientKey='ck_ab00ea5ccea9c48c63cabaace66eb3e6d3ad3483';
-// const wooSecretKey='cs_6422a772837a1b9de6d3f45fc8bcdd8a0935e5d3';
-const getPriceByVariations =
-  "http://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
-const addProductVariationToCart =
-  "http://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
-
-
+const getPriceByVariations = "http://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
+const addProductVariationToCart =  "http://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
 
 var tour = {
   IdProduct: "",
@@ -15,6 +9,7 @@ var tour = {
   Pago: "",
   valor: "",
   VariationId: "",
+  Cantidad: 1,
 };
 
 jQuery(function ($) {
@@ -97,13 +92,12 @@ jQuery(document).ready(function ($) {
   tour.Acomodacion = getAcomodacion();
   tour.Fecha = getFecha();
   tour.valor = getPrice();
-  
-  
+
   console.log(tour);
 
-  if($('.tercerDropdown ul li').length <2){
-    $('.tercerDropdown').addClass('Ocultar');
-    $('.boxFechas').css("top", "258px");
+  if ($(".tercerDropdown ul li").length < 2) {
+    $(".tercerDropdown").addClass("Ocultar");
+    $(".boxFechas").css("top", "258px");
     // let ss = document.styleSheets[0];
     // let rules = ss.cssRules || ss.rules;
     // let topRule = null;
@@ -111,48 +105,45 @@ jQuery(document).ready(function ($) {
     //   let rule = rules[i];
     // }
   }
-  $("#menuOrigenes").addClass('Ocultar');
-  $(".segundoDropdown > ul").addClass('Ocultar');
-  $(".tercerDropdown > ul").addClass('Ocultar');
-  
-  
-  
+  $("#menuOrigenes").addClass("Ocultar");
+  $(".segundoDropdown > ul").addClass("Ocultar");
+  $(".tercerDropdown > ul").addClass("Ocultar");
+
   var toggleOrigen = true;
-  $(".primerDropdown").on("click", function(e){
-    if(toggleOrigen){
-      $("#menuOrigenes").removeClass('Ocultar');
-      $("#menuOrigenes").addClass('Mostrar');
+  $(".primerDropdown").on("click", function (e) {
+    if (toggleOrigen) {
+      $("#menuOrigenes").removeClass("Ocultar");
+      $("#menuOrigenes").addClass("Mostrar");
       toggleOrigen = false;
-    }else{
-      $("#menuOrigenes").removeClass('Mostrar');
-      $("#menuOrigenes").addClass('Ocultar');
+    } else {
+      $("#menuOrigenes").removeClass("Mostrar");
+      $("#menuOrigenes").addClass("Ocultar");
       toggleOrigen = true;
     }
   });
 
-  
   var togglePagos = true;
-  $(".segundoDropdown").on("click", function(e){
-    if(togglePagos){
-      $("#menuPagos").removeClass('Ocultar');
-      $("#menuPagos").addClass('Mostrar');
+  $(".segundoDropdown").on("click", function (e) {
+    if (togglePagos) {
+      $("#menuPagos").removeClass("Ocultar");
+      $("#menuPagos").addClass("Mostrar");
       togglePagos = false;
-    }else{
-      $("#menuPagos").removeClass('Mostrar');
-      $("#menuPagos").addClass('Ocultar');
+    } else {
+      $("#menuPagos").removeClass("Mostrar");
+      $("#menuPagos").addClass("Ocultar");
       togglePagos = true;
     }
   });
 
   var toggleAcomodaciones = true;
-  $(".tercerDropdown").on("click", function(e){
-    if(toggleAcomodaciones){
-      $("#menuAcomodaciones").removeClass('Ocultar');
-      $("#menuAcomodaciones").addClass('Mostrar');
+  $(".tercerDropdown").on("click", function (e) {
+    if (toggleAcomodaciones) {
+      $("#menuAcomodaciones").removeClass("Ocultar");
+      $("#menuAcomodaciones").addClass("Mostrar");
       toggleAcomodaciones = false;
-    }else{
-      $("#menuAcomodaciones").removeClass('Mostrar');
-      $("#menuAcomodaciones").addClass('Ocultar');
+    } else {
+      $("#menuAcomodaciones").removeClass("Mostrar");
+      $("#menuAcomodaciones").addClass("Ocultar");
       toggleAcomodaciones = true;
     }
   });
@@ -184,38 +175,54 @@ jQuery(document).ready(function ($) {
     getPrice();
   });
 
-  $('.boxCarrito').on('click', function(e){ 
-    e.preventDefault();
-    $thisbutton = $(this)
-    
-    var data = {
-            action: 'ql_woocommerce_ajax_add_to_cart',
-            product_id: tour.IdProduct,
-            product_sku: '',
-            quantity: 1,
-            variation_id: tour.VariationId,
-        };
-    $.ajax({
-            type: 'post',
-            url: wc_add_to_cart_params.ajax_url,
-            data: data,
-            beforeSend: function (response) {
-                $thisbutton.removeClass('added').addClass('loading');
-            },
-            complete: function (response) {
-                $thisbutton.addClass('added').removeClass('loading');
-            }, 
-            success: function (response) { 
-                if (response.error & response.product_url) {
-                    window.location = response.product_url;
-                    return;
-                } else { 
-                    $thisbutton.addClass('Ok').removeClass('added');
-                    console.log('Producto adicionado al carrito');
-                    //$(document.body).trigger('added_to_cart', [response.fragments, response.cart_hash, $thisbutton]);
-                } 
-            }, 
-        }); 
-     });
+  $(".menos").on("click", function (e) {
+    let Conteo = tour.Cantidad;
+    if (Conteo > 1) {
+      Conteo -= 1;
+      $(".cantidad span").text(Conteo);
+      tour.Cantidad = Conteo;
+    }
+  });
 
+  $(".mas").on("click", function (e) {
+    let Conteo = tour.Cantidad;
+    Conteo += 1;
+    $(".cantidad span").text(Conteo);
+    tour.Cantidad = Conteo;
+  });
+
+  $(".boxCarrito").on("click", function (e) {
+    e.preventDefault();
+    $thisbutton = $(this);
+
+    var data = {
+      action: "ql_woocommerce_ajax_add_to_cart",
+      product_id: tour.IdProduct,
+      product_sku: "",
+      quantity: tour.Cantidad,
+      variation_id: tour.VariationId,
+    };
+    $.ajax({
+      type: "post",
+      url: wc_add_to_cart_params.ajax_url,
+      data: data,
+      beforeSend: function (response) {
+        $thisbutton.removeClass("added").addClass("loading");
+      },
+      complete: function (response) {
+        $thisbutton.addClass("added").removeClass("loading");
+      },
+      success: function (response) {
+        if (response.error & response.product_url) {
+          window.location = response.product_url;
+          return;
+        } else {
+          $thisbutton.addClass("Ok").removeClass("added");
+          console.log("Producto adicionado al carrito");
+          //$(document.body).trigger('added_to_cart', [response.fragments, response.cart_hash, $thisbutton]);
+          
+        }
+      },
+    });
+  });
 });

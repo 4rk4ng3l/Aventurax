@@ -255,6 +255,12 @@
     border: none;
 }
 
+.textoCantidad{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+}
 .cantidades{
     display: flex;
     flex-direction: row;
@@ -269,10 +275,13 @@
     border-radius: 10px;
     margin: 0px 10px 0px 10px;
     opacity: 0.4;
+    
 }
 
-.cantidad span{
-    opacity: 1;
+.cantidad > span{
+    
+    opacity: 100%;
+    color: black;
 }
 
 .total{
