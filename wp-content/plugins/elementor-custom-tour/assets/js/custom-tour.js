@@ -1,5 +1,5 @@
-const getPriceByVariations = "https://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
-const addProductVariationToCart = "https://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
+const getPriceByVariations = "http://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
+const addProductVariationToCart = "http://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
 
 var tour = {
   IdProduct: "",
@@ -38,19 +38,19 @@ jQuery(document).ready(function ($) {
 
   function getOrigen() {
     return $("#txtOrigen")
-      .text()
+      .text().trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
-      .replace(" ", "")
+      .replace(/\s/g, "-")
       .toLowerCase();
   }
 
   function getPago() {
     return $("#txtPago")
-      .text()
+      .text().trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
-      .replace(" ", "")
+      .replace(/\s/g, "-")
       .toLowerCase();
   }
 
@@ -59,7 +59,7 @@ jQuery(document).ready(function ($) {
       .text().trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
-      .replace(" ", "")
+      .replace(/\s/g, "-")
       .toLowerCase();
   }
 
@@ -204,6 +204,7 @@ jQuery(document).ready(function ($) {
       quantity: tour.Cantidad,
       variation_id: tour.VariationId,
     };
+    console.log(data);
     $.ajax({
       type: "post",
       url: wc_add_to_cart_params.ajax_url,
@@ -221,6 +222,7 @@ jQuery(document).ready(function ($) {
         } else {
           $thisbutton.addClass("Ok").removeClass("added");
           console.log("Producto adicionado al carrito");
+          window.location.href="https://aventurax.co/checkout-paginas/";
           //$(document.body).trigger('added_to_cart', [response.fragments, response.cart_hash, $thisbutton]);
           
         }

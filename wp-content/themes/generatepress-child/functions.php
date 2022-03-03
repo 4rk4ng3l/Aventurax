@@ -19,7 +19,7 @@ add_action('rest_api_init', function(){
 		array(
 			'methods' => 'POST',
 			'callback' => 'getPriceByIdProductVariation',
-			'permission_callback' => __return_true()
+			'permission_callback' => '__return_true',
 		)
 	);
 
@@ -27,7 +27,7 @@ add_action('rest_api_init', function(){
 		array(
 			'methods' => 'POST',
 			'callback' => 'addProductVariationToCart',
-			'permission_callback' => __return_false()
+			'permission_callback' => '__return_true',
 		)
 	);
 });
@@ -63,6 +63,18 @@ function addProductVariationToCart(){
 
 	if(isset($_POST['Pago'])){
 		$Pago = $_POST['Pago'];
+	}else{
+		$fail = true;
+	}
+
+	if(isset($_POST['VariationId'])){
+		$VariationId = $_POST['VariationId'];
+	}else{
+		$fail = true;
+	}
+
+	if(isset($_POST['Cantidad'])){
+		$Cantidad = $_POST['Cantidad'];
 	}else{
 		$fail = true;
 	}
@@ -125,19 +137,25 @@ function getPriceByIdProductVariation(){
 		$fail = true;
 	}
 
-	if($fail){
-		return "Error parametros incompletos";
-	}
+	// if($fail){
+	// 	return "Error parametros incompletos";
+	// }
 
 
 	$attributes = array(
 		'attribute_pa_origen' => $Origen,
-		'attribute_pa_acomodacion' => $Acomodacion,
 		'attribute_pa_fecha' => $Fecha,
 		'attribute_pa_pago' => $Pago,
+		'attribute_pa_acomodacion' => $Acomodacion,
 	);
 
+	$attributes_test = array(
+		'pa_origen' => $Origen
+	);
+
+	
 	$variationId = find_matching_product_variation_id($IdProduct, $attributes);
+	
 	$variableProduct = wc_get_product($variationId);
 	$regularPrice = $variableProduct->get_regular_price();
 	$salePrice = $variableProduct->get_sale_price();
