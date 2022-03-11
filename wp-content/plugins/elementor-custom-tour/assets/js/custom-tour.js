@@ -1,5 +1,7 @@
-const getPriceByVariations = "http://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
-const addProductVariationToCart = "http://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
+const getPriceByVariations =
+  "http://localhost/aventurax.co/wp-json/custom-tour/v1/getPriceByIdProductVariation";
+const addProductVariationToCart =
+  "http://localhost/aventurax.co/wp-json/custom-tour/v1/addProductVariationToCart";
 
 var tour = {
   IdProduct: "",
@@ -12,9 +14,15 @@ var tour = {
   Cantidad: 1,
 };
 
+/**
+ * removeAccents
+ * * elimina los acentos
+ * @param {cadena} str
+ * @returns
+ */
 const removeAccents = (str) => {
   return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-} 
+};
 
 jQuery(function ($) {
   // now you can use jQuery code here with $ shortcut formatting
@@ -38,7 +46,8 @@ jQuery(document).ready(function ($) {
 
   function getOrigen() {
     return $("#txtOrigen")
-      .text().trim()
+      .text()
+      .trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
       .replace(/\s/g, "-")
@@ -47,7 +56,8 @@ jQuery(document).ready(function ($) {
 
   function getPago() {
     return $("#txtPago")
-      .text().trim()
+      .text()
+      .trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
       .replace(/\s/g, "-")
@@ -56,7 +66,8 @@ jQuery(document).ready(function ($) {
 
   function getAcomodacion() {
     return $("#txtAcomodacion")
-      .text().trim()
+      .text()
+      .trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
       .replace(/\s/g, "-")
@@ -65,7 +76,8 @@ jQuery(document).ready(function ($) {
 
   function getFecha() {
     return $(".selectedFecha")
-      .text().trim()
+      .text()
+      .trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
       .replace(/\s/g, "-")
@@ -102,7 +114,6 @@ jQuery(document).ready(function ($) {
   if ($(".tercerDropdown ul li").length < 2) {
     $(".tercerDropdown").addClass("Ocultar");
     $(".boxFechas").css("top", "258px");
-   
   }
   $("#menuOrigenes").addClass("Ocultar");
   $(".segundoDropdown > ul").addClass("Ocultar");
@@ -166,7 +177,7 @@ jQuery(document).ready(function ($) {
     $("#txtAcomodacion").text($(this).text());
     tour.Acomodacion = getAcomodacion();
     getPrice();
-    console.log(tour);    
+    console.log(tour);
   });
   //Fechas seleccion al Evento Click
   $(".boxFecha").on("click", function (e) {
@@ -222,9 +233,8 @@ jQuery(document).ready(function ($) {
         } else {
           $thisbutton.addClass("Ok").removeClass("added");
           console.log("Producto adicionado al carrito");
-          window.location.href="https://aventurax.co/checkout-paginas/";
+          window.location.href = "https://aventurax.co/checkout-paginas/";
           //$(document.body).trigger('added_to_cart', [response.fragments, response.cart_hash, $thisbutton]);
-          
         }
       },
     });

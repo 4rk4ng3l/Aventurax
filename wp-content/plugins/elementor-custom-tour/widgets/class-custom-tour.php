@@ -15,8 +15,10 @@
 
 namespace ElementorCustomTour\Widgets;
 
+
 use Elementor\Widget_Base;
 use Elementor\Controls_Manager;
+
 
 // Security Note: Blocks direct access to the plugin PHP files.
 defined('ABSPATH') || die();
@@ -194,11 +196,11 @@ class CustomTour extends Widget_Base
 		$id = $product->get_id();
 		$hasAcomodacion = $product->get_attribute('acomodacion');
 
-
-		$origenes = explode(",", $product->get_attribute('origen'));
-		$pagos = explode(",", $product->get_attribute('pago'));
-		$fechas = explode(",", $product->get_attribute('fecha'));
-		$acomodaciones = explode(",", $product->get_attribute('acomodacion'));
+		productGetDefaultAttributes();
+		$origenes = explode("|", str_replace(",", "|", $product->get_attribute('origen')));
+		$pagos = explode("|", str_replace(",", "|", $product->get_attribute('pago')));
+		$fechas = explode("|", str_replace(",", "|", $product->get_attribute('fecha')));
+		$acomodaciones = explode("|", str_replace(",", "|", $product->get_attribute('acomodacion')));
 
 		$minimum_price = $product->get_variation_sale_price();
 		$max_price = $product->get_variation_regular_price('max');

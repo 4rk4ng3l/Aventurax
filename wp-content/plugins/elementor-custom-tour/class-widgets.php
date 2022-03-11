@@ -66,6 +66,7 @@ class Widgets {
 	private function include_widgets_files() {
 		//Agrega el control de elementor
 		require_once 'widgets/class-custom-tour.php';
+		require_once 'widgets/customTourFunctions.php';
 		//Agrega los endpoints de la api
 	}
 
