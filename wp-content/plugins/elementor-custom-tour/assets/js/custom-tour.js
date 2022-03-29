@@ -10,6 +10,7 @@ var tour = {
   Fecha: "",
   Pago: "",
   Valor: "",
+  Precio: "",
   VariationId: "",
   Cantidad: 1,
 };
@@ -38,6 +39,7 @@ jQuery(document).ready(function ($) {
   function getIdProduct() {
     return $("#IdProduct")
       .text()
+      .trim()
       .replace(/\t/g, "")
       .replace(/\n/g, "")
       .replace(" ", "")
@@ -91,15 +93,24 @@ jQuery(document).ready(function ($) {
       data: tour,
       dataType: "json",
       success: function (response) {
-        var formatter = new Intl.NumberFormat("es-US", {
-          style: "currency",
-          currency: "USD",
-          maximumFractionDigits: 0,
-        });
-        $("#txtPrecio").text(formatter.format(response.price) + " COP");
         console.log(response);
+        tour.Precio = response.price;
+        if (response.RegularPrice > 0) {
+          $("#");
+        }
+        ajustarPrecio();
       },
     });
+  }
+
+  function ajustarPrecio() {
+    var formatter = new Intl.NumberFormat("es-US", {
+      style: "currency",
+      currency: "USD",
+      maximumFractionDigits: 0,
+    });
+    tour.Valor = tour.Cantidad * tour.Precio;
+    $("#txtPrecio").text(formatter.format(tour.Valor) + " COP");
   }
 
   tour.IdProduct = getIdProduct();
@@ -158,6 +169,7 @@ jQuery(document).ready(function ($) {
     }
   });
 
+  //* Dropdown Origen evento click
   $(".primerDropdown").on("click", "li", function (e) {
     $("#txtOrigen").text($(this).text());
     tour.Origen = removeAccents(getOrigen());
@@ -165,21 +177,22 @@ jQuery(document).ready(function ($) {
     console.log(tour);
   });
 
-  //Dropdown Pago Evento Click
+  //* Dropdown Pago Evento Click
   $(".segundoDropdown").on("click", "li", function (e) {
     $("#txtPago").text($(this).text());
     tour.Pago = getPago();
     getPrice();
     console.log(tour);
   });
-  //Dropdown Acomodacion Evento Click
+
+  //* Dropdown Acomodacion Evento Click
   $(".tercerDropdown").on("click", "li", function (e) {
     $("#txtAcomodacion").text($(this).text());
     tour.Acomodacion = getAcomodacion();
     getPrice();
     console.log(tour);
   });
-  //Fechas seleccion al Evento Click
+  //* Fechas seleccion al Evento Click
   $(".boxFecha").on("click", function (e) {
     $(".boxFecha").removeClass("selectedFecha");
     $(this).addClass("selectedFecha");
@@ -194,6 +207,7 @@ jQuery(document).ready(function ($) {
       Conteo -= 1;
       $(".cantidad span").text(Conteo);
       tour.Cantidad = Conteo;
+      ajustarPrecio();
     }
   });
 
@@ -202,6 +216,7 @@ jQuery(document).ready(function ($) {
     Conteo += 1;
     $(".cantidad span").text(Conteo);
     tour.Cantidad = Conteo;
+    ajustarPrecio();
   });
 
   $(".boxCarrito").on("click", function (e) {
